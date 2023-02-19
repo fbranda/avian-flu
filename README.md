@@ -1,6 +1,6 @@
 # Avian Flu 
 
-This repository contains the most updated information on HPAI outbreaks in domestic poultry and captive birds and HPAI positive cases in wild birds in (i) Europe, according to official reporting sources ([ADIS – Animal Disease Information System](https://eurlaidata.izsvenezie.it/)); (ii)ì USA, according to official reporting sources ([USDA - United States Department of Agriculture])(https://www.aphis.usda.gov/aphis/home/) . 
+This repository contains the most updated information on HPAI outbreaks in domestic poultry and captive birds and HPAI positive cases in wild birds in (i) Europe, according to official reporting sources ([ADIS – Animal Disease Information System](https://eurlaidata.izsvenezie.it/)); (ii) USA, according to official reporting sources ([USDA - United States Department of Agriculture](https://www.aphis.usda.gov/aphis/home/)). 
 
 Currently, the United Kingdom is not included. For further information on this country, please refer to the website for [Avian Influenza (bird flu)](https://www.gov.uk/guidance/avian-influenza-bird-flu).
 
