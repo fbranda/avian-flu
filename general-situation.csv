@@ -1,0 +1,3238 @@
+"Confirmed date","Country","HPAI strain","WOAH Classification","Cases"
+2021-10-01,"Finland","H5N1","Wild birds",2
+2021-10-08,"Estonia","H5N8","Wild birds",2
+2021-10-12,"Ukraine","H5","Captive birds",1
+2021-10-15,"Germany","H5N1","Wild birds",1
+2021-10-15,"Finland","H5N1","Wild birds",1
+2021-10-19,"Italy","H5N1","Farm",1
+2021-10-19,"Germany","H5N1","Wild birds",12
+2021-10-20,"Germany","H5N1","Wild birds",2
+2021-10-20,"Estonia","H5N1","Wild birds",1
+2021-10-21,"Sweden","H5N8","Wild birds",1
+2021-10-21,"Germany","H5N1","Captive birds",1
+2021-10-21,"Germany","H5N1","Wild birds",2
+2021-10-22,"Estonia","H5N8","Backyard",1
+2021-10-22,"Germany","H5N1","Wild birds",4
+2021-10-22,"Finland","H5N1","Wild birds",1
+2021-10-22,"Denmark","H5N1","Wild birds",2
+2021-10-23,"Italy","H5N1","Farm",1
+2021-10-25,"Italy","H5N1","Farm",2
+2021-10-25,"Germany","H5N1","Farm",1
+2021-10-25,"Germany","H5N1","Wild birds",2
+2021-10-25,"Finland","H5N1","Wild birds",1
+2021-10-25,"Germany","H5","Wild birds",1
+2021-10-26,"The Netherlands","H5N1","Farm",1
+2021-10-28,"The Netherlands","H5N1","Wild birds",1
+2021-10-28,"Germany","H5N1","Wild birds",5
+2021-10-29,"The Netherlands","H5N1","Captive birds",1
+2021-10-29,"Italy","H5N1","Farm",1
+2021-10-29,"Germany","H5N1","Wild birds",11
+2021-10-30,"The Netherlands","H5N1","Farm",1
+2021-10-30,"Italy","H5N1","Farm",1
+2021-10-30,"Italy","H5N1","Wild birds",2
+2021-10-31,"Germany","H5N1","Farm",2
+2021-11-01,"The Netherlands","H5N1","Farm",1
+2021-11-01,"Germany","H5N1","Wild birds",1
+2021-11-01,"Denmark","H5N1","Farm",1
+2021-11-01,"The Netherlands","H5","Wild birds",3
+2021-11-02,"Poland","H5N1","Farm",1
+2021-11-02,"Germany","H5N1","Wild birds",6
+2021-11-02,"Denmark","H5N1","Wild birds",4
+2021-11-03,"The Netherlands","H5N1","Captive birds",1
+2021-11-03,"The Netherlands","H5N1","Farm",1
+2021-11-03,"Poland","H5N1","Farm",1
+2021-11-03,"Italy","H5N1","Farm",2
+2021-11-03,"Ireland","H5N1","Wild birds",1
+2021-11-03,"Germany","H5N1","Farm",1
+2021-11-03,"Germany","H5N1","Wild birds",4
+2021-11-03,"Denmark","H5N1","Captive birds",1
+2021-11-03,"Bosnia and Herzegovina","H5N1","Wild birds",1
+2021-11-04,"Sweden","H5N1","Wild birds",1
+2021-11-04,"Poland","H5N1","Farm",4
+2021-11-04,"Italy","H5N1","Farm",2
+2021-11-04,"Germany","H5N1","Wild birds",9
+2021-11-04,"Czech Republic","H5N1","Wild birds",1
+2021-11-05,"The Netherlands","H5N1","Captive birds",1
+2021-11-05,"The Netherlands","H5N1","Farm",1
+2021-11-05,"The Netherlands","H5N1","Wild birds",2
+2021-11-05,"Italy","H5N1","Farm",1
+2021-11-05,"Ireland","H5N1","Wild birds",1
+2021-11-05,"Germany","H5N1","Captive birds",1
+2021-11-05,"Germany","H5N1","Wild birds",10
+2021-11-05,"Denmark","H5N1","Wild birds",3
+2021-11-06,"Poland","H5N1","Farm",1
+2021-11-06,"Germany","H5N1","Farm",1
+2021-11-08,"The Netherlands","H5N1","Farm",1
+2021-11-08,"Poland","H5N1","Farm",2
+2021-11-08,"Italy","H5N1","Backyard",1
+2021-11-08,"Italy","H5N1","Farm",8
+2021-11-08,"Germany","H5N1","Farm",1
+2021-11-08,"Estonia","H5N1","Wild birds",1
+2021-11-09,"The Netherlands","H5N1","Wild birds",4
+2021-11-09,"Poland","H5N1","Farm",1
+2021-11-09,"Poland","H5N1","Wild birds",1
+2021-11-09,"Italy","H5N1","Farm",3
+2021-11-09,"Germany","H5N1","Farm",1
+2021-11-09,"Germany","H5N1","Wild birds",21
+2021-11-09,"Denmark","H5N1","Wild birds",2
+2021-11-09,"Germany","H5","Wild birds",2
+2021-11-09,"The Netherlands","H5N8","Wild birds",1
+2021-11-10,"Germany","H5N1","Wild birds",11
+2021-11-10,"Finland","H5N1","Wild birds",3
+2021-11-11,"Sweden","H5N1","Wild birds",2
+2021-11-11,"Poland","H5N1","Farm",1
+2021-11-11,"Italy","H5N1","Backyard",1
+2021-11-11,"Italy","H5N1","Farm",1
+2021-11-11,"Ireland","H5N1","Wild birds",2
+2021-11-11,"Germany","H5N1","Farm",2
+2021-11-11,"Germany","H5N1","Wild birds",12
+2021-11-12,"The Netherlands","H5N1","Captive birds",1
+2021-11-12,"The Netherlands","H5N1","Wild birds",1
+2021-11-12,"Norway","H5N1","Farm",1
+2021-11-12,"Italy","H5N1","Farm",3
+2021-11-12,"Ireland","H5N1","Wild birds",2
+2021-11-12,"Germany","H5N1","Farm",2
+2021-11-12,"Germany","H5N1","Wild birds",16
+2021-11-12,"Denmark","H5N1","Wild birds",2
+2021-11-12,"Czech Republic","H5N1","Backyard",1
+2021-11-12,"Belgium","H5N1","Backyard",1
+2021-11-12,"Hungary","H5","Wild birds",1
+2021-11-13,"The Netherlands","H5N1","Captive birds",1
+2021-11-13,"Poland","H5N1","Farm",2
+2021-11-13,"Italy","H5N1","Farm",5
+2021-11-13,"Germany","H5N1","Farm",1
+2021-11-13,"Germany","H5N1","Wild birds",9
+2021-11-14,"The Netherlands","H5N1","Farm",1
+2021-11-14,"Poland","H5N1","Farm",2
+2021-11-14,"Italy","H5N1","Farm",4
+2021-11-14,"The Netherlands","H5","Wild birds",1
+2021-11-15,"The Netherlands","H5N1","Wild birds",1
+2021-11-15,"Italy","H5N1","Farm",15
+2021-11-15,"Germany","H5N1","Farm",1
+2021-11-15,"Germany","H5N1","Wild birds",7
+2021-11-15,"Bulgaria","H5","Farm",1
+2021-11-16,"The Netherlands","H5N1","Wild birds",3
+2021-11-16,"Romania","H5N1","Wild birds",1
+2021-11-16,"Poland","H5N1","Farm",1
+2021-11-16,"Norway","H5N1","Wild birds",1
+2021-11-16,"Italy","H5N1","Farm",7
+2021-11-16,"Italy","H5N1","Wild birds",1
+2021-11-16,"Hungary","H5N1","Farm",2
+2021-11-16,"Germany","H5N1","Farm",1
+2021-11-16,"Germany","H5N1","Wild birds",7
+2021-11-16,"France","H5N1","Wild birds",1
+2021-11-16,"Czech Republic","H5N1","Wild birds",1
+2021-11-17,"Germany","H5","Wild birds",1
+2021-11-17,"Poland","H5N1","Farm",4
+2021-11-17,"Norway","H5N1","Wild birds",1
+2021-11-17,"Italy","H5N1","Farm",5
+2021-11-17,"Italy","H5N1","Wild birds",1
+2021-11-17,"Ireland","H5N1","Wild birds",3
+2021-11-17,"Hungary","H5N1","Farm",4
+2021-11-17,"Germany","H5N1","Farm",1
+2021-11-17,"Germany","H5N1","Wild birds",19
+2021-11-17,"Denmark","H5N1","Wild birds",2
+2021-11-18,"The Netherlands","H5N1","Wild birds",8
+2021-11-18,"Sweden","H5N1","Wild birds",4
+2021-11-18,"Poland","H5N1","Farm",2
+2021-11-18,"Norway","H5N1","Farm",1
+2021-11-18,"Italy","H5N1","Farm",3
+2021-11-18,"Germany","H5N1","Farm",2
+2021-11-18,"Germany","H5N1","Wild birds",7
+2021-11-18,"Denmark","H5N1","Wild birds",1
+2021-11-18,"Czech Republic","H5N1","Farm",1
+2021-11-18,"Czech Republic","H5N1","Wild birds",1
+2021-11-18,"Belgium","H5N1","Wild birds",2
+2021-11-19,"Finland","H5N1","Wild birds",NA
+2021-11-19,"Slovakia","H5N1","Backyard",1
+2021-11-19,"Poland","H5N1","Farm",1
+2021-11-19,"Italy","H5N1","Farm",5
+2021-11-19,"Ireland","H5N1","Wild birds",9
+2021-11-19,"Hungary","H5N1","Farm",3
+2021-11-19,"Germany","H5N1","Wild birds",22
+2021-11-19,"Denmark","H5N1","Wild birds",6
+2021-11-19,"Croatia","H5N1","Wild birds",2
+2021-11-19,"Finland","H5N8","Wild birds",1
+2021-11-20,"Italy","H5N1","Farm",2
+2021-11-20,"Ireland","H5N1","Farm",1
+2021-11-20,"Hungary","H5N1","Farm",7
+2021-11-20,"Germany","H5N1","Farm",1
+2021-11-20,"Czech Republic","H5N1","Farm",1
+2021-11-21,"Italy","H5N1","Farm",2
+2021-11-21,"Hungary","H5N1","Farm",2
+2021-11-22,"Belgium","H5","Wild birds",1
+2021-11-22,"Poland","H5N1","Farm",1
+2021-11-22,"Poland","H5N1","Wild birds",2
+2021-11-22,"Italy","H5N1","Farm",5
+2021-11-22,"Hungary","H5N1","Farm",1
+2021-11-22,"Germany","H5N1","Wild birds",22
+2021-11-22,"Belgium","H5N1","Wild birds",3
+2021-11-23,"The Netherlands","H5N1","Captive birds",1
+2021-11-23,"The Netherlands","H5N1","Farm",1
+2021-11-23,"Switzerland","H5N1","Captive birds",1
+2021-11-23,"Northern Ireland","H5N1","Wild birds",1
+2021-11-23,"Italy","H5N1","Farm",10
+2021-11-23,"Ireland","H5N1","Farm",1
+2021-11-23,"Hungary","H5N1","Farm",2
+2021-11-23,"Germany","H5N1","Wild birds",10
+2021-11-23,"Denmark","H5N1","Captive birds",1
+2021-11-23,"Czech Republic","H5N1","Wild birds",1
+2021-11-24,"The Netherlands","H5N1","Wild birds",6
+2021-11-24,"Slovakia","H5","Wild birds",1
+2021-11-24,"Poland","H5N1","Farm",1
+2021-11-24,"Northern Ireland","H5N1","Wild birds",1
+2021-11-24,"Italy","H5N1","Farm",4
+2021-11-24,"Ireland","H5N1","Wild birds",2
+2021-11-24,"Hungary","H5N1","Captive birds",1
+2021-11-24,"Germany","H5N1","Wild birds",2
+2021-11-24,"Bulgaria","H5N1","Captive birds",1
+2021-11-24,"Slovakia","H5N1","Wild birds",1
+2021-11-25,"Italy","H5N1","Farm",5
+2021-11-25,"Hungary","H5N1","Farm",4
+2021-11-25,"Hungary","H5N1","Wild birds",1
+2021-11-25,"Germany","H5N1","Farm",1
+2021-11-25,"Germany","H5N1","Wild birds",5
+2021-11-25,"Estonia","H5N1","Wild birds",3
+2021-11-25,"Croatia","H5N1","Wild birds",1
+2021-11-25,"Austria","H5N1","Backyard",1
+2021-11-26,"Belgium","H5","Wild birds",1
+2021-11-26,"The Netherlands","H5N1","Wild birds",6
+2021-11-26,"Northern Ireland","H5N1","Wild birds",1
+2021-11-26,"Italy","H5N1","Farm",4
+2021-11-26,"Ireland","H5N1","Wild birds",3
+2021-11-26,"Germany","H5N1","Wild birds",11
+2021-11-26,"France","H5N1","Farm",1
+2021-11-26,"France","H5N1","Wild birds",3
+2021-11-26,"Czech Republic","H5N1","Backyard",1
+2021-11-26,"Croatia","H5N1","Farm",1
+2021-11-27,"Romania","H5N1","Wild birds",1
+2021-11-27,"Luxembourg","H5N1","Wild birds",2
+2021-11-27,"Italy","H5N1","Farm",2
+2021-11-27,"Italy","H5N1","Wild birds",1
+2021-11-27,"Hungary","H5N1","Backyard",1
+2021-11-28,"Poland","H5N1","Farm",1
+2021-11-28,"Italy","H5N1","Farm",5
+2021-11-29,"The Netherlands","H5N1","Wild birds",6
+2021-11-29,"Sweden","H5N1","Wild birds",2
+2021-11-29,"Poland","H5N1","Farm",1
+2021-11-29,"Northern Ireland","H5N1","Wild birds",2
+2021-11-29,"Italy","H5N1","Farm",7
+2021-11-29,"Italy","H5N1","Wild birds",1
+2021-11-29,"Hungary","H5N1","Farm",3
+2021-11-29,"Germany","H5N1","Farm",2
+2021-11-29,"Germany","H5N1","Wild birds",21
+2021-11-29,"Croatia","H5N1","Wild birds",1
+2021-11-29,"Belgium","H5N1","Wild birds",3
+2021-11-30,"Italy","H5","Wild birds",1
+2021-11-30,"The Netherlands","H5N1","Wild birds",3
+2021-11-30,"Norway","H5N1","Wild birds",1
+2021-11-30,"Italy","H5N1","Farm",9
+2021-11-30,"Ireland","H5N1","Farm",1
+2021-11-30,"Germany","H5N1","Farm",2
+2021-11-30,"Germany","H5N1","Wild birds",3
+2021-11-30,"Czech Republic","H5N1","Backyard",1
+2021-11-30,"Czech Republic","H5N1","Wild birds",1
+2021-12-01,"The Netherlands","H5N8","Wild birds",1
+2021-12-01,"The Netherlands","H5N1","Wild birds",10
+2021-12-01,"Sweden","H5N1","Captive birds",1
+2021-12-01,"Portugal","H5N1","Captive birds",1
+2021-12-01,"Poland","H5N1","Farm",3
+2021-12-01,"Italy","H5N1","Backyard",2
+2021-12-01,"Italy","H5N1","Farm",6
+2021-12-01,"Hungary","H5N1","Farm",1
+2021-12-01,"Hungary","H5N1","Wild birds",1
+2021-12-01,"Germany","H5N1","Farm",1
+2021-12-01,"Germany","H5N1","Wild birds",8
+2021-12-01,"France","H5N1","Captive birds",1
+2021-12-01,"France","H5N1","Wild birds",1
+2021-12-01,"Denmark","H5N1","Wild birds",4
+2021-12-01,"Bulgaria","H5","Backyard",1
+2021-12-01,"The Netherlands","H5","Captive birds",1
+2021-12-02,"Italy","H5N1","Farm",6
+2021-12-02,"Bulgaria","H5","Farm",1
+2021-12-02,"Bulgaria","H5","Backyard",1
+2021-12-02,"Germany","H5N1","Wild birds",3
+2021-12-02,"Estonia","H5N1","Wild birds",1
+2021-12-02,"Poland","H5N1","Farm",2
+2021-12-02,"Germany","H5N1","Farm",2
+2021-12-02,"Hungary","H5N1","Wild birds",1
+2021-12-02,"Hungary","H5N1","Farm",3
+2021-12-02,"Ireland","H5N1","Wild birds",3
+2021-12-03,"The Netherlands","H5N1","Wild birds",5
+2021-12-03,"Poland","H5N1","Farm",1
+2021-12-03,"Italy","H5N1","Farm",9
+2021-12-03,"Germany","H5N1","Wild birds",2
+2021-12-03,"France","H5N1","Captive birds",2
+2021-12-03,"Denmark","H5N1","Wild birds",2
+2021-12-03,"The Netherlands","H5","Wild birds",2
+2021-12-04,"The Netherlands","H5N1","Wild birds",1
+2021-12-04,"Italy","H5N1","Farm",4
+2021-12-04,"Hungary","H5N1","Farm",1
+2021-12-04,"Hungary","H5N1","Wild birds",1
+2021-12-05,"Italy","H5N1","Farm",1
+2021-12-05,"Hungary","H5N1","Farm",1
+2021-12-06,"Sweden","H5N1","Wild birds",1
+2021-12-06,"Poland","H5N1","Farm",2
+2021-12-06,"Italy","H5N1","Backyard",1
+2021-12-06,"Italy","H5N1","Farm",12
+2021-12-06,"Germany","H5N1","Farm",1
+2021-12-06,"Germany","H5N1","Wild birds",7
+2021-12-06,"France","H5N1","Farm",1
+2021-12-06,"Denmark","H5N1","Wild birds",3
+2021-12-07,"Poland","H5N1","Farm",3
+2021-12-07,"Northern Ireland","H5N1","Backyard",1
+2021-12-07,"Northern Ireland","H5N1","Farm",1
+2021-12-07,"Italy","H5N1","Farm",11
+2021-12-07,"Ireland","H5N1","Farm",1
+2021-12-07,"Hungary","H5N1","Farm",1
+2021-12-07,"Germany","H5N1","Wild birds",1
+2021-12-07,"France","H5N1","Farm",3
+2021-12-07,"France","H5N1","Wild birds",4
+2021-12-08,"The Netherlands","H5N1","Wild birds",4
+2021-12-08,"Italy","H5N1","Farm",2
+2021-12-08,"Italy","H5N1","Wild birds",1
+2021-12-08,"Hungary","H5N1","Farm",2
+2021-12-08,"Germany","H5N1","Farm",1
+2021-12-08,"Germany","H5N1","Wild birds",18
+2021-12-08,"Denmark","H5N1","Wild birds",1
+2021-12-08,"Belgium","H5N1","Farm",2
+2021-12-08,"Belgium","H5N1","Wild birds",1
+2021-12-08,"The Netherlands","H5","Wild birds",3
+2021-12-09,"Romania","H5N1","Wild birds",1
+2021-12-09,"Northern Ireland","H5N1","Wild birds",1
+2021-12-09,"Italy","H5N1","Farm",7
+2021-12-09,"Ireland","H5N1","Wild birds",3
+2021-12-09,"Hungary","H5N1","Farm",1
+2021-12-09,"Greece","H5N1","Wild birds",1
+2021-12-09,"Germany","H5N1","Backyard",1
+2021-12-09,"Germany","H5N1","Wild birds",6
+2021-12-10,"Poland","H5N1","Farm",1
+2021-12-10,"Italy","H5N1","Backyard",1
+2021-12-10,"Italy","H5N1","Farm",8
+2021-12-10,"Hungary","H5N1","Farm",2
+2021-12-10,"Germany","H5N1","Wild birds",1
+2021-12-10,"France","H5N1","Farm",1
+2021-12-10,"France","H5N1","Wild birds",1
+2021-12-11,"Italy","H5N1","Farm",6
+2021-12-11,"Germany","H5N1","Farm",1
+2021-12-12,"Poland","H5N1","Farm",1
+2021-12-12,"Poland","H5N1","Wild birds",1
+2021-12-12,"Italy","H5N1","Farm",2
+2021-12-12,"Italy","H5N1","Wild birds",1
+2021-12-12,"Ireland","H5N1","Farm",1
+2021-12-12,"Hungary","H5N1","Farm",1
+2021-12-12,"Germany","H5N1","Farm",1
+2021-12-12,"Germany","H5N1","Wild birds",1
+2021-12-12,"Ukraine","H5","Captive birds",1
+2021-12-13,"The Netherlands","H5N1","Captive birds",1
+2021-12-13,"The Netherlands","H5N1","Wild birds",1
+2021-12-13,"Sweden","H5N1","Farm",1
+2021-12-13,"Norway","H5N1","Wild birds",1
+2021-12-13,"Luxembourg","H5N1","Wild birds",1
+2021-12-13,"Italy","H5N1","Farm",3
+2021-12-13,"Hungary","H5N1","Farm",2
+2021-12-13,"Germany","H5N1","Wild birds",2
+2021-12-13,"Austria","H5N1","Wild birds",2
+2021-12-13,"The Netherlands","H5","Wild birds",7
+2021-12-14,"Poland","H5N1","Farm",2
+2021-12-14,"Italy","H5N1","Farm",16
+2021-12-14,"Hungary","H5N1","Farm",1
+2021-12-14,"Italy","H5","Wild birds",1
+2021-12-15,"Northern Ireland","H5N1","Wild birds",1
+2021-12-15,"Italy","H5N1","Farm",8
+2021-12-15,"Hungary","H5N1","Farm",3
+2021-12-15,"Hungary","H5N1","Wild birds",1
+2021-12-15,"Germany","H5N1","Farm",1
+2021-12-15,"Germany","H5N1","Wild birds",4
+2021-12-15,"Austria","H5N1","Wild birds",3
+2021-12-15,"The Netherlands","H5","Wild birds",1
+2021-12-16,"Poland","H5N1","Farm",1
+2021-12-16,"Northern Ireland","H5N1","Farm",2
+2021-12-16,"Italy","H5N1","Farm",7
+2021-12-16,"Italy","H5N1","Wild birds",1
+2021-12-16,"Ireland","H5N1","Wild birds",1
+2021-12-16,"Hungary","H5N1","Farm",2
+2021-12-16,"Germany","H5N1","Wild birds",6
+2021-12-16,"France","H5N1","Captive birds",1
+2021-12-16,"France","H5N1","Farm",2
+2021-12-16,"Denmark","H5N1","Wild birds",1
+2021-12-16,"Czech Republic","H5N1","Backyard",1
+2021-12-16,"Belgium","H5N1","Wild birds",2
+2021-12-17,"Sweden","H5N1","Captive birds",1
+2021-12-17,"Sweden","H5N1","Farm",1
+2021-12-17,"Sweden","H5N1","Wild birds",1
+2021-12-17,"Poland","H5N1","Farm",2
+2021-12-17,"Italy","H5N1","Farm",7
+2021-12-17,"Hungary","H5N1","Farm",2
+2021-12-17,"Germany","H5N1","Farm",1
+2021-12-17,"Germany","H5N1","Wild birds",17
+2021-12-17,"France","H5N1","Farm",1
+2021-12-17,"Denmark","H5N1","Wild birds",1
+2021-12-17,"The Netherlands","H5","Farm",1
+2021-12-17,"Bulgaria","H5","Farm",1
+2021-12-18,"Poland","H5N1","Farm",1
+2021-12-18,"Italy","H5N1","Farm",3
+2021-12-18,"Italy","H5N1","Wild birds",1
+2021-12-18,"Ireland","H5N1","Farm",1
+2021-12-18,"Germany","H5N1","Farm",1
+2021-12-18,"France","H5N1","Farm",2
+2021-12-19,"Italy","H5N1","Farm",1
+2021-12-19,"Hungary","H5N1","Farm",4
+2021-12-19,"Denmark","H5N1","Farm",1
+2021-12-20,"The Netherlands","H5N1","Farm",1
+2021-12-20,"Sweden","H5N1","Wild birds",1
+2021-12-20,"Hungary","H5N1","Farm",3
+2021-12-20,"Germany","H5N1","Wild birds",7
+2021-12-20,"France","H5N1","Farm",3
+2021-12-20,"Estonia","H5N1","Backyard",1
+2021-12-20,"Austria","H5N1","Wild birds",2
+2021-12-21,"The Netherlands","H5N1","Wild birds",15
+2021-12-21,"Poland","H5N1","Farm",3
+2021-12-21,"Northern Ireland","H5N1","Farm",1
+2021-12-21,"Italy","H5N1","Backyard",1
+2021-12-21,"Italy","H5N1","Farm",13
+2021-12-21,"Italy","H5","Farm",1
+2021-12-21,"Italy","H5N1","Wild birds",1
+2021-12-21,"Hungary","H5N1","Farm",4
+2021-12-21,"Germany","H5N1","Farm",1
+2021-12-21,"Germany","H5N1","Wild birds",1
+2021-12-21,"Czech Republic","H5N1","Backyard",1
+2021-12-21,"Czech Republic","H5N1","Wild birds",1
+2021-12-21,"Croatia","H5N1","Wild birds",2
+2021-12-21,"Belgium","H5N1","Wild birds",1
+2021-12-22,"The Netherlands","H5N1","Wild birds",6
+2021-12-22,"Poland","H5N1","Farm",1
+2021-12-22,"Poland","H5N1","Wild birds",1
+2021-12-22,"Italy","H5N1","Farm",7
+2021-12-22,"Italy","H5N1","Wild birds",1
+2021-12-22,"Hungary","H5N1","Farm",5
+2021-12-22,"Germany","H5N1","Farm",1
+2021-12-22,"Germany","H5N1","Wild birds",14
+2021-12-22,"France","H5N1","Farm",2
+2021-12-22,"Denmark","H5N1","Wild birds",1
+2021-12-22,"Czech Republic","H5N1","Farm",1
+2021-12-22,"Belgium","H5N1","Wild birds",1
+2021-12-22,"Austria","H5N1","Wild birds",1
+2021-12-23,"Portugal","H5N1","Farm",1
+2021-12-23,"Poland","H5N1","Farm",1
+2021-12-23,"Poland","H5N1","Wild birds",1
+2021-12-23,"Italy","H5N1","Farm",3
+2021-12-23,"Ireland","H5N1","Wild birds",1
+2021-12-23,"Hungary","H5N1","Backyard",1
+2021-12-23,"Hungary","H5N1","Farm",1
+2021-12-23,"Germany","H5N1","Farm",1
+2021-12-23,"Germany","H5N1","Wild birds",6
+2021-12-23,"France","H5N1","Farm",1
+2021-12-23,"Belgium","H5N1","Wild birds",3
+2021-12-24,"The Netherlands","H5N1","Wild birds",1
+2021-12-24,"Poland","H5N1","Farm",2
+2021-12-24,"Poland","H5N1","Wild birds",1
+2021-12-24,"Italy","H5N1","Backyard",1
+2021-12-24,"Italy","H5N1","Farm",8
+2021-12-24,"Hungary","H5N1","Farm",4
+2021-12-24,"Germany","H5N1","Farm",1
+2021-12-24,"France","H5N1","Wild birds",1
+2021-12-25,"The Netherlands","H5N1","Wild birds",22
+2021-12-25,"Hungary","H5N1","Farm",1
+2021-12-26,"Poland","H5N1","Farm",3
+2021-12-26,"Italy","H5N1","Farm",1
+2021-12-26,"Hungary","H5N1","Farm",6
+2021-12-26,"Germany","H5N1","Farm",1
+2021-12-26,"France","H5N1","Farm",6
+2021-12-26,"Czech Republic","H5N1","Farm",1
+2021-12-27,"Slovenia","H5N1","Backyard",1
+2021-12-27,"Slovakia","H5N1","Wild birds",2
+2021-12-27,"Italy","H5N1","Farm",4
+2021-12-27,"Italy","H5","Farm",1
+2021-12-27,"Hungary","H5N1","Farm",1
+2021-12-27,"Germany","H5N1","Wild birds",7
+2021-12-27,"Czech Republic","H5N1","Wild birds",1
+2021-12-28,"Sweden","H5N1","Farm",1
+2021-12-28,"Slovenia","H5N1","Wild birds",1
+2021-12-28,"Slovakia","H5N1","Backyard",1
+2021-12-28,"Poland","H5N1","Farm",5
+2021-12-28,"Hungary","H5N1","Farm",6
+2021-12-28,"Germany","H5N1","Farm",2
+2021-12-28,"Germany","H5N1","Wild birds",3
+2021-12-28,"Belgium","H5N1","Farm",1
+2021-12-28,"Belgium","H5N1","Wild birds",1
+2021-12-29,"Sweden","H5N1","Captive birds",1
+2021-12-29,"Sweden","H5N1","Wild birds",3
+2021-12-29,"Slovenia","H5N1","Wild birds",2
+2021-12-29,"Slovakia","H5N1","Backyard",1
+2021-12-29,"Italy","H5N1","Farm",4
+2021-12-29,"Italy","H5N1","Wild birds",1
+2021-12-29,"Hungary","H5N1","Backyard",2
+2021-12-29,"Hungary","H5N1","Farm",5
+2021-12-29,"Germany","H5N1","Wild birds",50
+2021-12-29,"France","H5N1","Farm",3
+2021-12-30,"Denmark","H5N8","Wild birds",1
+2021-12-30,"Denmark","H5N1","Wild birds",2
+2021-12-30,"Slovenia","H5N1","Wild birds",5
+2021-12-30,"Portugal","H5N1","Farm",1
+2021-12-30,"Poland","H5N1","Farm",2
+2021-12-30,"Poland","H5N1","Wild birds",1
+2021-12-30,"Italy","H5N1","Wild birds",1
+2021-12-30,"Hungary","H5N1","Farm",1
+2021-12-30,"Hungary","H5N1","Wild birds",1
+2021-12-30,"Germany","H5N1","Farm",2
+2021-12-30,"Germany","H5N1","Wild birds",4
+2021-12-30,"France","H5N1","Farm",4
+2021-12-30,"France","H5N1","Wild birds",3
+2021-12-30,"Austria","H5N1","Captive birds",1
+2021-12-30,"Austria","H5N1","Wild birds",1
+2021-12-30,"France","H5","Wild birds",1
+2021-12-30,"Bulgaria","H5","Farm",1
+2021-12-31,"Poland","H5N1","Farm",1
+2021-12-31,"Italy","H5N1","Captive birds",1
+2021-12-31,"Italy","H5N1","Farm",4
+2021-12-31,"Hungary","H5N1","Farm",2
+2021-12-31,"Germany","H5N1","Captive birds",1
+2021-12-31,"Germany","H5N1","Farm",4
+2021-12-31,"Germany","H5N1","Wild birds",1
+2021-12-31,"France","H5N1","Farm",2
+2021-12-31,"France","H5N1","Wild birds",3
+2021-12-31,"Denmark","H5N1","Backyard",1
+2021-12-31,"Bulgaria","H5","Wild birds",1
+2022-01-01,"Serbia","H5N1","Wild birds",1
+2022-01-01,"Germany","H5N1","Wild birds",3
+2022-01-01,"Denmark","H5N1","Farm",1
+2022-01-02,"Poland","H5N1","Farm",2
+2022-01-02,"Hungary","H5N1","Backyard",1
+2022-01-02,"Hungary","H5N1","Farm",5
+2022-01-02,"Hungary","H5N1","Wild birds",2
+2022-01-02,"France","H5N1","Farm",4
+2022-01-03,"Romania","H5","Wild birds",1
+2022-01-03,"Sweden","H5N1","Wild birds",5
+2022-01-03,"Slovenia","H5N1","Wild birds",2
+2022-01-03,"Portugal","H5N1","Captive birds",1
+2022-01-03,"Poland","H5N1","Wild birds",1
+2022-01-03,"Luxembourg","H5N1","Wild birds",1
+2022-01-03,"Germany","H5N1","Wild birds",6
+2022-01-03,"France","H5N1","Farm",6
+2022-01-03,"Denmark","H5N1","Farm",1
+2022-01-04,"Italy","H5","Farm",4
+2022-01-04,"The Netherlands","H5N1","Farm",1
+2022-01-04,"The Netherlands","H5N1","Wild birds",16
+2022-01-04,"Sweden","H5N1","Wild birds",1
+2022-01-04,"Spain","H5N1","Wild birds",1
+2022-01-04,"Slovakia","H5N1","Wild birds",2
+2022-01-04,"Portugal","H5N1","Wild birds",1
+2022-01-04,"Italy","H5N1","Farm",2
+2022-01-04,"Hungary","H5N1","Captive birds",1
+2022-01-04,"Hungary","H5N1","Farm",1
+2022-01-04,"France","H5N1","Farm",4
+2022-01-04,"Denmark","H5N1","Wild birds",9
+2022-01-04,"Czech Republic","H5N1","Backyard",2
+2022-01-04,"Croatia","H5N1","Captive birds",2
+2022-01-04,"Austria","H5N1","Wild birds",1
+2022-01-05,"Italy","H5","Farm",1
+2022-01-05,"The Netherlands","H5N1","Farm",1
+2022-01-05,"Slovenia","H5N1","Wild birds",5
+2022-01-05,"Poland","H5N1","Farm",1
+2022-01-05,"Poland","H5N1","Wild birds",3
+2022-01-05,"Hungary","H5N1","Farm",2
+2022-01-05,"Germany","H5N1","Farm",2
+2022-01-05,"Germany","H5N1","Wild birds",2
+2022-01-05,"France","H5N1","Captive birds",1
+2022-01-05,"France","H5N1","Farm",8
+2022-01-05,"Denmark","H5N1","Wild birds",1
+2022-01-05,"Czech Republic","H5N1","Farm",1
+2022-01-05,"Croatia","H5N1","Captive birds",1
+2022-01-05,"Austria","H5N1","Wild birds",1
+2022-01-06,"Slovenia","H5N1","Wild birds",3
+2022-01-06,"Poland","H5N1","Farm",1
+2022-01-06,"Poland","H5N1","Wild birds",1
+2022-01-06,"Hungary","H5N1","Farm",1
+2022-01-06,"Hungary","H5N1","Wild birds",1
+2022-01-06,"Germany","H5N1","Captive birds",1
+2022-01-06,"Germany","H5N1","Farm",1
+2022-01-06,"Germany","H5N1","Wild birds",31
+2022-01-06,"France","H5N1","Farm",8
+2022-01-06,"Belgium","H5N1","Wild birds",1
+2022-01-07,"Germany","H5","Wild birds",1
+2022-01-07,"Denmark","H5N8","Farm",1
+2022-01-07,"Sweden","H5N1","Wild birds",1
+2022-01-07,"Slovenia","H5N1","Wild birds",2
+2022-01-07,"Slovakia","H5N1","Wild birds",1
+2022-01-07,"Romania","H5N1","Wild birds",1
+2022-01-07,"Ireland","H5N1","Wild birds",1
+2022-01-07,"Hungary","H5N1","Farm",1
+2022-01-07,"Hungary","H5N1","Wild birds",1
+2022-01-07,"Germany","H5N1","Wild birds",62
+2022-01-07,"France","H5N1","Farm",6
+2022-01-07,"France","H5N1","Wild birds",1
+2022-01-07,"Belgium","H5N1","Captive birds",1
+2022-01-07,"Belgium","H5N1","Wild birds",9
+2022-01-07,"Austria","H5N1","Wild birds",2
+2022-01-09,"Hungary","H5N1","Farm",1
+2022-01-09,"France","H5N1","Captive birds",1
+2022-01-09,"France","H5N1","Farm",22
+2022-01-10,"Portugal","H5N1","Wild birds",1
+2022-01-10,"Poland","H5N1","Farm",5
+2022-01-10,"Poland","H5N1","Wild birds",2
+2022-01-10,"Italy","H5N1","Backyard",1
+2022-01-10,"Germany","H5N1","Wild birds",37
+2022-01-10,"France","H5N1","Farm",13
+2022-01-10,"Austria","H5N1","Wild birds",1
+2022-01-11,"The Netherlands","H5N1","Wild birds",13
+2022-01-11,"Sweden","H5N1","Wild birds",2
+2022-01-11,"Slovenia","H5N1","Wild birds",5
+2022-01-11,"Portugal","H5N1","Wild birds",1
+2022-01-11,"Poland","H5N1","Farm",1
+2022-01-11,"Poland","H5N1","Wild birds",2
+2022-01-11,"Hungary","H5N1","Wild birds",1
+2022-01-11,"Germany","H5N1","Wild birds",13
+2022-01-11,"France","H5N1","Farm",26
+2022-01-11,"Denmark","H5N1","Wild birds",1
+2022-01-12,"Bulgaria","H5","Farm",1
+2022-01-12,"France","H5","Wild birds",1
+2022-01-12,"Poland","H5N1","Wild birds",2
+2022-01-12,"Hungary","H5N1","Farm",1
+2022-01-12,"Hungary","H5N1","Wild birds",1
+2022-01-12,"Germany","H5N1","Wild birds",60
+2022-01-12,"France","H5N1","Farm",22
+2022-01-12,"Denmark","H5N1","Wild birds",4
+2022-01-12,"Austria","H5N1","Wild birds",2
+2022-01-13,"The Netherlands","H5N1","Wild birds",10
+2022-01-13,"Slovenia","H5N1","Wild birds",5
+2022-01-13,"Slovakia","H5N1","Wild birds",1
+2022-01-13,"Poland","H5N1","Farm",1
+2022-01-13,"Germany","H5N1","Wild birds",2
+2022-01-13,"France","H5N1","Farm",13
+2022-01-13,"Finland","H5N1","Wild birds",1
+2022-01-13,"Czech Republic","H5N1","Backyard",1
+2022-01-13,"Czech Republic","H5N1","Wild birds",1
+2022-01-14,"Denmark","H5N8","Wild birds",1
+2022-01-14,"The Netherlands","H5N1","Wild birds",20
+2022-01-14,"Spain","H5N1","Wild birds",1
+2022-01-14,"Portugal","H5N1","Captive birds",1
+2022-01-14,"Poland","H5N1","Wild birds",1
+2022-01-14,"Norway","H5N1","Wild birds",2
+2022-01-14,"Italy","H5N1","Backyard",1
+2022-01-14,"Italy","H5N1","Farm",1
+2022-01-14,"Ireland","H5N1","Wild birds",1
+2022-01-14,"Germany","H5N1","Wild birds",22
+2022-01-14,"France","H5N1","Farm",22
+2022-01-14,"Finland","H5N1","Wild birds",1
+2022-01-14,"Denmark","H5N1","Wild birds",10
+2022-01-14,"Croatia","H5N1","Backyard",1
+2022-01-14,"Croatia","H5N1","Captive birds",1
+2022-01-15,"Germany","H5N1","Farm",1
+2022-01-15,"France","H5N1","Farm",20
+2022-01-15,"Denmark","H5N1","Captive birds",1
+2022-01-16,"Slovenia","H5N1","Wild birds",2
+2022-01-16,"Hungary","H5N1","Wild birds",1
+2022-01-16,"France","H5N1","Captive birds",1
+2022-01-16,"France","H5N1","Farm",9
+2022-01-17,"Kosovo","H5N8","Backyard",1
+2022-01-17,"Kosovo","H5N8","Farm",1
+2022-01-17,"The Netherlands","H5N1","Captive birds",1
+2022-01-17,"Spain","H5N1","Wild birds",1
+2022-01-17,"Latvia","H5N1","Wild birds",2
+2022-01-17,"Germany","H5N1","Wild birds",3
+2022-01-17,"France","H5N1","Farm",1
+2022-01-17,"France","H5N1","Wild birds",1
+2022-01-17,"Denmark","H5N1","Wild birds",2
+2022-01-17,"Belgium","H5N1","Wild birds",2
+2022-01-17,"Austria","H5N1","Wild birds",1
+2022-01-18,"The Netherlands","H5N1","Captive birds",1
+2022-01-18,"The Netherlands","H5N1","Wild birds",25
+2022-01-18,"Spain","H5N1","Farm",1
+2022-01-18,"Slovenia","H5N1","Wild birds",1
+2022-01-18,"Portugal","H5N1","Wild birds",1
+2022-01-18,"Poland","H5N1","Farm",2
+2022-01-18,"Hungary","H5N1","Farm",1
+2022-01-18,"Germany","H5N1","Backyard",1
+2022-01-18,"Germany","H5N1","Wild birds",33
+2022-01-18,"France","H5N1","Farm",16
+2022-01-18,"Denmark","H5N1","Wild birds",6
+2022-01-18,"Croatia","H5N1","Wild birds",1
+2022-01-19,"Spain","H5N1","Wild birds",1
+2022-01-19,"Slovenia","H5N1","Wild birds",3
+2022-01-19,"Poland","H5N1","Wild birds",1
+2022-01-19,"Germany","H5N1","Wild birds",11
+2022-01-19,"France","H5N1","Farm",15
+2022-01-20,"France","H5","Farm",1
+2022-01-20,"Germany","H5N1","Backyard",1
+2022-01-20,"Germany","H5N1","Wild birds",7
+2022-01-20,"France","H5N1","Farm",6
+2022-01-20,"Austria","H5N1","Captive birds",1
+2022-01-21,"The Netherlands","H5N1","Wild birds",13
+2022-01-21,"Sweden","H5N1","Wild birds",2
+2022-01-21,"Poland","H5N1","Wild birds",1
+2022-01-21,"Moldova","H5N1","Backyard",1
+2022-01-21,"Hungary","H5N1","Wild birds",2
+2022-01-21,"Germany","H5N1","Farm",1
+2022-01-21,"Germany","H5N1","Wild birds",22
+2022-01-21,"France","H5N1","Captive birds",1
+2022-01-21,"France","H5N1","Farm",4
+2022-01-21,"France","H5N1","Wild birds",1
+2022-01-21,"Belgium","H5N1","Wild birds",3
+2022-01-22,"Germany","H5N1","Wild birds",1
+2022-01-22,"France","H5N1","Farm",6
+2022-01-22,"France","H5N1","Wild birds",1
+2022-01-23,"The Netherlands","H5N1","Farm",1
+2022-01-23,"France","H5N1","Farm",15
+2022-01-24,"The Netherlands","H5N1","Farm",2
+2022-01-24,"The Netherlands","H5N1","Wild birds",1
+2022-01-24,"Germany","H5N1","Captive birds",1
+2022-01-24,"Germany","H5N1","Farm",1
+2022-01-24,"Germany","H5N1","Wild birds",8
+2022-01-24,"France","H5N1","Farm",3
+2022-01-24,"Czech Republic","H5N1","Farm",1
+2022-01-24,"Austria","H5N1","Captive birds",1
+2022-01-25,"Bulgaria","H5","Backyard",1
+2022-01-25,"The Netherlands","H5N1","Farm",1
+2022-01-25,"Sweden","H5N1","Wild birds",1
+2022-01-25,"Poland","H5N1","Farm",1
+2022-01-25,"Poland","H5N1","Wild birds",1
+2022-01-25,"Italy","H5N1","Wild birds",1
+2022-01-25,"France","H5N1","Farm",6
+2022-01-25,"Denmark","H5N1","Wild birds",7
+2022-01-25,"Austria","H5N1","Wild birds",1
+2022-01-26,"France","H5","Farm",3
+2022-01-26,"Poland","H5N1","Farm",1
+2022-01-26,"Ireland","H5N1","Wild birds",1
+2022-01-26,"Germany","H5N1","Wild birds",6
+2022-01-26,"France","H5N1","Farm",8
+2022-01-26,"France","H5N1","Wild birds",2
+2022-01-26,"FInland","H5N1","Wild birds",1
+2022-01-26,"Austria","H5N1","Wild birds",1
+2022-01-27,"France","H5","Farm",2
+2022-01-27,"The Netherlands","H5N1","Wild birds",16
+2022-01-27,"Spain","H5N1","Wild birds",2
+2022-01-27,"Slovenia","H5N1","Wild birds",1
+2022-01-27,"Poland","H5N1","Wild birds",1
+2022-01-27,"Hungary","H5N1","Farm",1
+2022-01-27,"Germany","H5N1","Backyard",1
+2022-01-27,"Germany","H5N1","Wild birds",14
+2022-01-27,"France","H5N1","Captive birds",2
+2022-01-27,"France","H5N1","Farm",8
+2022-01-28,"Bulgaria","H5","Wild birds",1
+2022-01-28,"France","H5","Farm",1
+2022-01-28,"The Netherlands","H5N1","Wild birds",8
+2022-01-28,"Poland","H5N1","Farm",1
+2022-01-28,"Poland","H5N1","Wild birds",2
+2022-01-28,"Ireland","H5N1","Wild birds",1
+2022-01-28,"Germany","H5N1","Wild birds",33
+2022-01-28,"France","H5N1","Captive birds",2
+2022-01-28,"France","H5N1","Farm",11
+2022-01-28,"Denmark","H5N1","Wild birds",1
+2022-01-28,"Croatia","H5N1","Wild birds",1
+2022-01-29,"France","H5","Farm",3
+2022-01-29,"France","H5N1","Farm",2
+2022-01-30,"France","H5","Farm",1
+2022-01-30,"The Netherlands","H5N1","Farm",1
+2022-01-30,"The Netherlands","H5N1","Wild birds",5
+2022-01-30,"Hungary","H5N1","Wild birds",1
+2022-01-30,"France","H5N1","Farm",5
+2022-01-31,"The Netherlands","H5N1","Wild birds",18
+2022-01-31,"Italy","H5N1","Wild birds",1
+2022-01-31,"Germany","H5N1","Wild birds",12
+2022-01-31,"Bulgaria","H5N1","Farm",1
+2022-01-31,"Belgium","H5N1","Wild birds",1
+2022-01-31,"Hungary","H5N1","Wild birds",1
+2022-02-01,"Spain","H5","Wild birds",1
+2022-02-01,"The Netherlands","H5N1","Farm",1
+2022-02-01,"Spain","H5N1","Wild birds",1
+2022-02-01,"Romania","H5N1","Wild birds",1
+2022-02-01,"Germany","H5N1","Backyard",1
+2022-02-01,"Germany","H5N1","Wild birds",7
+2022-02-01,"France","H5N1","Farm",8
+2022-02-01,"France","H5N1","Wild birds",1
+2022-02-01,"Belgium","H5N1","Wild birds",7
+2022-02-01,"Austria","H5N1","Wild birds",1
+2022-02-02,"The Netherlands","H5N1","Farm",1
+2022-02-02,"Sweden","H5N1","Wild birds",2
+2022-02-02,"Spain","H5N1","Farm",1
+2022-02-02,"Hungary","H5N1","Wild birds",4
+2022-02-02,"Germany","H5N1","Wild birds",2
+2022-02-02,"France","H5N1","Farm",10
+2022-02-02,"Denmark","H5N1","Wild birds",4
+2022-02-03,"Germany","H5N2","Wild birds",2
+2022-02-03,"The Netherlands","H5N1","Farm",1
+2022-02-03,"Germany","H5N1","Captive birds",1
+2022-02-03,"Germany","H5N1","Wild birds",8
+2022-02-03,"France","H5N1","Captive birds",1
+2022-02-03,"France","H5N1","Farm",2
+2022-02-03,"Belgium","H5N1","Wild birds",1
+2022-02-04,"The Netherlands","H5N1","Farm",1
+2022-02-04,"Spain","H5N1","Wild birds",2
+2022-02-04,"Portugal","H5N1","Farm",1
+2022-02-04,"Poland","H5N1","Wild birds",1
+2022-02-04,"Italy","H5N1","Backyard",1
+2022-02-04,"Italy","H5N1","Captive birds",1
+2022-02-04,"Germany","H5N1","Farm",1
+2022-02-04,"Germany","H5N1","Wild birds",28
+2022-02-04,"Belgium","H5","Wild birds",1
+2022-02-04,"France","H5N1","Farm",1
+2022-02-04,"Austria","H5N1","Wild birds",1
+2022-02-04,"Czech Republic","H5N1","Wild birds",1
+2022-02-05,"The Netherlands","H5N1","Wild birds",1
+2022-02-05,"France","H5N1","Wild birds",2
+2022-02-05,"The Netherlands","H5","Wild birds",1
+2022-02-06,"Poland","H5N1","Farm",2
+2022-02-07,"The Netherlands","H5N1","Wild birds",13
+2022-02-07,"Slovakia","H5N1","Wild birds",1
+2022-02-07,"Romania","H5N1","Wild birds",1
+2022-02-07,"Germany","H5N1","Wild birds",3
+2022-02-07,"France","H5N1","Captive birds",2
+2022-02-07,"Denmark","H5N1","Wild birds",1
+2022-02-08,"The Netherlands","H5N1","Farm",2
+2022-02-08,"Sweden","H5N1","Wild birds",3
+2022-02-08,"Portugal","H5N1","Farm",1
+2022-02-08,"Northern Ireland","H5N1","Backyard",1
+2022-02-08,"Germany","H5N1","Wild birds",6
+2022-02-08,"France","H5N1","Farm",1
+2022-02-08,"Czech Republic","H5N1","Backyard",1
+2022-02-08,"Belgium","H5N1","Wild birds",8
+2022-02-08,"Belgium","H5","Wild birds",1
+2022-02-09,"The Netherlands","H5N1","Wild birds",13
+2022-02-09,"Spain","H5N1","Farm",2
+2022-02-09,"Spain","H5N1","Wild birds",1
+2022-02-09,"Poland","H5N1","Farm",1
+2022-02-09,"Italy","H5N1","Farm",1
+2022-02-09,"Germany","H5N1","Wild birds",5
+2022-02-09,"Denmark","H5N1","Wild birds",4
+2022-02-09,"Belgium","H5N1","Wild birds",3
+2022-02-10,"The Netherlands","H5N1","Wild birds",10
+2022-02-10,"Spain","H5N1","Farm",2
+2022-02-10,"Spain","H5N1","Wild birds",1
+2022-02-10,"Romania","H5N1","Wild birds",2
+2022-02-10,"Portugal","H5N1","Farm",1
+2022-02-10,"Luxembourg","H5N1","Wild birds",1
+2022-02-10,"Ireland","H5N1","Wild birds",2
+2022-02-10,"Germany","H5N1","Wild birds",11
+2022-02-10,"France","H5N1","Captive birds",1
+2022-02-10,"France","H5N1","Farm",1
+2022-02-10,"France","H5N1","Wild birds",2
+2022-02-10,"France","H5","Wild birds",1
+2022-02-11,"Romania","H5N1","Backyard",1
+2022-02-11,"Romania","H5N1","Wild birds",1
+2022-02-11,"Italy","H5N1","Backyard",1
+2022-02-11,"Hungary","H5N1","Captive birds",1
+2022-02-11,"Hungary","H5N1","Wild birds",1
+2022-02-11,"Germany","H5N1","Farm",1
+2022-02-11,"Germany","H5N1","Wild birds",10
+2022-02-11,"France","H5N1","Farm",1
+2022-02-11,"Denmark","H5N1","Farm",1
+2022-02-11,"Czech Republic","H5N1","Backyard",1
+2022-02-11,"Belgium","H5N1","Wild birds",1
+2022-02-12,"France","H5N1","Farm",2
+2022-02-14,"The Netherlands","H5N1","Farm",1
+2022-02-14,"Spain","H5N1","Farm",3
+2022-02-14,"Spain","H5N1","Wild birds",2
+2022-02-14,"Portugal","H5N1","Farm",1
+2022-02-14,"Poland","H5N1","Farm",1
+2022-02-14,"Germany","H5N1","Wild birds",19
+2022-02-15,"The Netherlands","H5N1","Farm",1
+2022-02-15,"The Netherlands","H5N1","Wild birds",3
+2022-02-15,"Poland","H5N1","Farm",1
+2022-02-15,"Germany","H5N1","Wild birds",8
+2022-02-15,"France","H5N1","Farm",2
+2022-02-15,"Denmark","H5N1","Wild birds",1
+2022-02-16,"The Netherlands","H5N1","Wild birds",10
+2022-02-16,"Poland","H5N1","Wild birds",3
+2022-02-16,"Norway","H5N1","Wild birds",1
+2022-02-16,"Lithuania","H5N1","Wild birds",2
+2022-02-16,"Germany","H5N1","Farm",1
+2022-02-16,"Germany","H5N1","Wild birds",4
+2022-02-16,"France","H5N1","Farm",2
+2022-02-16,"Austria","H5N1","Wild birds",1
+2022-02-17,"Spain","H5N1","Farm",2
+2022-02-17,"North Macedonia","H5N1","Wild birds",1
+2022-02-17,"Italy","H5N1","Wild birds",2
+2022-02-17,"Germany","H5N1","Wild birds",5
+2022-02-17,"France","H5N1","Farm",5
+2022-02-17,"Denmark","H5N1","Wild birds",1
+2022-02-17,"Austria","H5N1","Wild birds",1
+2022-02-17,"Spain","H5","Wild birds",1
+2022-02-18,"The Netherlands","H5N1","Wild birds",20
+2022-02-18,"Spain","H5N1","Farm",4
+2022-02-18,"Spain","H5N1","Wild birds",1
+2022-02-18,"Portugal","H5N1","Captive birds",1
+2022-02-18,"Poland","H5N1","Backyard",1
+2022-02-18,"Poland","H5N1","Wild birds",1
+2022-02-18,"Italy","H5N1","Backyard",1
+2022-02-18,"Hungary","H5N1","Wild birds",1
+2022-02-18,"Germany","H5N1","Wild birds",4
+2022-02-18,"France","H5N1","Captive birds",1
+2022-02-18,"France","H5N1","Farm",1
+2022-02-18,"Denmark","H5N1","Wild birds",4
+2022-02-19,"Portugal","H5N1","Farm",1
+2022-02-19,"Germany","H5N1","Farm",1
+2022-02-20,"The Netherlands","H5N1","Farm",1
+2022-02-20,"Poland","H5N1","Farm",1
+2022-02-20,"Germany","H5N1","Wild birds",2
+2022-02-20,"Germany","H5","Wild birds",1
+2022-02-21,"Spain","H5N1","Farm",1
+2022-02-21,"Spain","H5N1","Wild birds",1
+2022-02-21,"North Macedonia","H5N1","Wild birds",1
+2022-02-21,"Germany","H5N1","Wild birds",26
+2022-02-21,"France","H5N1","Farm",1
+2022-02-21,"Estonia","H5N1","Wild birds",1
+2022-02-22,"Germany","H5N1","Wild birds",8
+2022-02-22,"France","H5N1","Farm",1
+2022-02-22,"Czech Republic","H5N1","Backyard",1
+2022-02-22,"Croatia","H5N1","Wild birds",1
+2022-02-23,"The Netherlands","H5N1","Captive birds",1
+2022-02-23,"The Netherlands","H5N1","Wild birds",11
+2022-02-23,"Switzerland","H5N1","Captive birds",1
+2022-02-23,"Spain","H5N1","Wild birds",1
+2022-02-23,"Romania","H5N1","Wild birds",1
+2022-02-23,"Poland","H5N1","Wild birds",1
+2022-02-23,"Italy","H5N1","Wild birds",2
+2022-02-23,"Hungary","H5N1","Wild birds",2
+2022-02-23,"Germany","H5N1","Wild birds",6
+2022-02-23,"France","H5N1","Captive birds",1
+2022-02-23,"France","H5N1","Farm",3
+2022-02-23,"Denmark","H5N1","Wild birds",3
+2022-02-23,"Belgium","H5N1","Wild birds",2
+2022-02-24,"The Netherlands","H5N1","Farm",1
+2022-02-24,"Sweden","H5N1","Wild birds",2
+2022-02-24,"Spain","H5N1","Farm",2
+2022-02-24,"Spain","H5N1","Wild birds",1
+2022-02-24,"France","H5N1","Farm",2
+2022-02-24,"France","H5N1","Wild birds",1
+2022-02-24,"Serbia","H5N1","Farm",2
+2022-02-24,"Romania","H5N1","Wild birds",1
+2022-02-24,"Italy","H5N1","Farm",1
+2022-02-24,"Ireland","H5N1","Wild birds",1
+2022-02-24,"Hungary","H5N1","Wild birds",1
+2022-02-24,"Germany","H5N1","Backyard",1
+2022-02-24,"Germany","H5N1","Wild birds",10
+2022-02-25,"Serbia","H5N1","Wild birds",1
+2022-02-25,"Portugal","H5N1","Wild birds",1
+2022-02-25,"Germany","H5N1","Farm",1
+2022-02-25,"Germany","H5N1","Wild birds",5
+2022-02-25,"France","H5N1","Captive birds",1
+2022-02-25,"France","H5N1","Farm",1
+2022-02-25,"Ireland","H5","Wild birds",2
+2022-02-26,"France","H5N1","Farm",2
+2022-02-27,"The Netherlands","H5N1","Farm",1
+2022-02-27,"France","H5N1","Farm",9
+2022-02-28,"The Netherlands","H5N1","Captive birds",2
+2022-02-28,"The Netherlands","H5N1","Farm",2
+2022-02-28,"Spain","H5N1","Wild birds",1
+2022-02-28,"Portugal","H5N1","Farm",1
+2022-02-28,"Italy","H5N1","Backyard",1
+2022-02-28,"Germany","H5N1","Farm",1
+2022-02-28,"Germany","H5N1","Wild birds",13
+2022-02-28,"France","H5N1","Farm",11
+2022-02-28,"Belgium","H5N1","Wild birds",2
+2022-03-01,"The Netherlands","H5N1","Farm",1
+2022-03-01,"Spain","H5N1","Captive birds",1
+2022-03-01,"Spain","H5N1","Farm",5
+2022-03-01,"Spain","H5N1","Wild birds",3
+2022-03-01,"Germany","H5N1","Wild birds",2
+2022-03-01,"France","H5N1","Farm",13
+2022-03-01,"France","H5N1","Wild birds",1
+2022-03-02,"Sweden","H5N1","Backyard",1
+2022-03-02,"Spain","H5N1","Wild birds",1
+2022-03-02,"Germany","H5N1","Farm",1
+2022-03-02,"Germany","H5N1","Wild birds",5
+2022-03-02,"France","H5N1","Farm",13
+2022-03-02,"Poland","H5N2","Backyard",1
+2022-03-03,"The Netherlands","H5N1","Farm",1
+2022-03-03,"The Netherlands","H5N1","Wild birds",15
+2022-03-03,"Spain","H5N1","Farm",1
+2022-03-03,"Portugal","H5N1","Captive birds",1
+2022-03-03,"Poland","H5N1","Farm",1
+2022-03-03,"Germany","H5N1","Wild birds",10
+2022-03-03,"France","H5N1","Farm",21
+2022-03-03,"Denmark","H5N1","Wild birds",2
+2022-03-04,"The Netherlands","H5N1","Wild birds",1
+2022-03-04,"Spain","H5N1","Farm",1
+2022-03-04,"Ireland","H5N1","Wild birds",1
+2022-03-04,"Germany","H5N1","Captive birds",1
+2022-03-04,"Germany","H5N1","Wild birds",17
+2022-03-04,"France","H5N1","Farm",17
+2022-03-04,"Denmark","H5N1","Wild birds",1
+2022-03-05,"The Netherlands","H5N1","Farm",1
+2022-03-05,"Poland","H5N1","Farm",1
+2022-03-05,"France","H5N1","Farm",7
+2022-03-06,"France","H5N1","Farm",34
+2022-03-07,"The Netherlands","H5N1","Wild birds",8
+2022-03-07,"Spain","H5N1","Wild birds",2
+2022-03-07,"Greece","H5N1","Wild birds",2
+2022-03-07,"Germany","H5N1","Wild birds",11
+2022-03-07,"France","H5N1","Farm",53
+2022-03-07,"France","H5N1","Wild birds",1
+2022-03-07,"Denmark","H5N1","Wild birds",1
+2022-03-07,"Belgium","H5N1","Wild birds",1
+2022-03-08,"Spain","H5N1","Farm",2
+2022-03-08,"Spain","H5N1","Wild birds",1
+2022-03-08,"Germany","H5N1","Wild birds",3
+2022-03-08,"France","H5N1","Farm",20
+2022-03-08,"Denmark","H5N1","Wild birds",1
+2022-03-08,"Czech Republic","H5N1","Backyard",1
+2022-03-09,"Romania","H5N1","Wild birds",1
+2022-03-09,"Poland","H5N1","Farm",1
+2022-03-09,"Germany","H5N1","Farm",1
+2022-03-09,"Germany","H5N1","Wild birds",1
+2022-03-09,"France","H5N1","Captive birds",1
+2022-03-09,"France","H5N1","Farm",29
+2022-03-09,"Denmark","H5N1","Wild birds",1
+2022-03-10,"The Netherlands","H5N1","Farm",1
+2022-03-10,"The Netherlands","H5N1","Wild birds",1
+2022-03-10,"Spain","H5N1","Farm",2
+2022-03-10,"Portugal","H5N1","Wild birds",1
+2022-03-10,"Germany","H5N1","Wild birds",4
+2022-03-10,"France","H5N1","Farm",39
+2022-03-11,"The Netherlands","H5N1","Wild birds",1
+2022-03-11,"Serbia","H5N1","Wild birds",1
+2022-03-11,"Ireland","H5N1","Wild birds",2
+2022-03-11,"Germany","H5N1","Wild birds",5
+2022-03-11,"France","H5N1","Farm",44
+2022-03-11,"France","H5N1","Wild birds",1
+2022-03-11,"Denmark","H5N1","Wild birds",2
+2022-03-11,"Belgium","H5N1","Captive birds",1
+2022-03-11,"Denmark","H5","Wild birds",1
+2022-03-12,"The Netherlands","H5N1","Wild birds",1
+2022-03-12,"France","H5N1","Farm",34
+2022-03-13,"France","H5N1","Backyard",1
+2022-03-13,"France","H5N1","Farm",29
+2022-03-14,"The Netherlands","H5N1","Wild birds",8
+2022-03-14,"Spain","H5N1","Wild birds",1
+2022-03-14,"Germany","H5N1","Wild birds",13
+2022-03-14,"France","H5N1","Captive birds",1
+2022-03-14,"France","H5N1","Farm",35
+2022-03-15,"Switzerland","H5N1","Wild birds",1
+2022-03-15,"Spain","H5N1","Farm",1
+2022-03-15,"Portugal","H5N1","Backyard",1
+2022-03-15,"Germany","H5N1","Wild birds",2
+2022-03-15,"France","H5N1","Farm",2
+2022-03-15,"Denmark","H5N1","Wild birds",1
+2022-03-15,"Austria","H5N1","Wild birds",1
+2022-03-15,"The Netherlands","H5","Wild birds",1
+2022-03-16,"Romania","H5N1","Wild birds",1
+2022-03-16,"Ireland","H5N1","Wild birds",2
+2022-03-16,"Germany","H5N1","Captive birds",1
+2022-03-16,"Germany","H5N1","Farm",1
+2022-03-16,"Germany","H5N1","Wild birds",1
+2022-03-16,"France","H5N1","Farm",28
+2022-03-16,"Belgium","H5N1","Wild birds",4
+2022-03-16,"The Netherlands","H5","Wild birds",3
+2022-03-17,"Spain","H5N1","Wild birds",1
+2022-03-17,"Greece","H5N1","Wild birds",7
+2022-03-17,"Germany","H5N1","Captive birds",1
+2022-03-17,"Germany","H5N1","Wild birds",9
+2022-03-17,"France","H5N1","Farm",46
+2022-03-17,"Italy","H5","Backyard",1
+2022-03-18,"The Netherlands","H5N1","Captive birds",1
+2022-03-18,"Romania","H5N1","Farm",1
+2022-03-18,"Romania","H5N1","Wild birds",2
+2022-03-18,"France","H5N1","Captive birds",1
+2022-03-18,"France","H5N1","Farm",47
+2022-03-18,"The Netherlands","H5","Wild birds",14
+2022-03-19,"Germany","H5N1","Wild birds",5
+2022-03-19,"France","H5N1","Farm",4
+2022-03-19,"Albania","H5N8","Farm",1
+2022-03-21,"The Netherlands","H5N1","Wild birds",1
+2022-03-21,"Spain","H5N1","Farm",1
+2022-03-21,"Germany","H5N1","Farm",1
+2022-03-21,"Germany","H5N1","Wild birds",10
+2022-03-21,"France","H5N1","Farm",61
+2022-03-22,"Germany","H5N1","Wild birds",2
+2022-03-22,"France","H5N1","Farm",1
+2022-03-22,"France","H5N1","Wild birds",2
+2022-03-22,"Austria","H5N1","Wild birds",1
+2022-03-22,"Albania","H5N8","Farm",1
+2022-03-23,"The Netherlands","H5N1","Captive birds",2
+2022-03-23,"The Netherlands","H5N1","Wild birds",4
+2022-03-23,"Spain","H5N1","Wild birds",1
+2022-03-23,"Germany","H5N1","Wild birds",4
+2022-03-23,"France","H5N1","Farm",30
+2022-03-23,"Estonia","H5N1","Wild birds",1
+2022-03-23,"Denmark","H5N1","Wild birds",2
+2022-03-23,"The Netherlands","H5","Wild birds",1
+2022-03-23,"Albania","H5","Farm",1
+2022-03-23,"Albania","H5N8","Farm",1
+2022-03-24,"Germany","H5N1","Farm",1
+2022-03-24,"France","H5N1","Captive birds",3
+2022-03-24,"France","H5N1","Farm",23
+2022-03-24,"Albania","H5N1","Captive birds",1
+2022-03-24,"Germany","H5N1","Wild birds",1
+2022-03-24,"Spain","H5N1","Wild birds",1
+2022-03-24,"Sweden","H5N1","Wild birds",2
+2022-03-25,"France","H5N1","Farm",13
+2022-03-25,"Finland","H5N1","Wild birds",2
+2022-03-25,"Germany","H5N1","Backyard",1
+2022-03-25,"Germany","H5N1","Wild birds",22
+2022-03-25,"Ireland","H5N1","Wild birds",1
+2022-03-25,"Germany","H5","Wild birds",1
+2022-03-26,"France","H5N1","Farm",11
+2022-03-27,"France","H5N1","Farm",5
+2022-03-27,"Romania","H5N1","Backyard",1
+2022-03-28,"France","H5N1","Farm",18
+2022-03-28,"Denmark","H5N1","Wild birds",2
+2022-03-28,"Germany","H5N1","Wild birds",1
+2022-03-28,"Greece","H5N1","Wild birds",1
+2022-03-28,"The Netherlands","H5N1","Wild birds",10
+2022-03-28,"Belgium","H5","Wild birds",1
+2022-03-28,"Bulgaria","H5N1","Farm",1
+2022-03-29,"France","H5N1","Farm",9
+2022-03-29,"Albania","H5N1","Wild birds",1
+2022-03-29,"Belgium","H5N1","Farm",1
+2022-03-29,"Denmark","H5N1","Captive birds",1
+2022-03-29,"Germany","H5N1","Wild birds",2
+2022-03-30,"France","H5N1","Farm",23
+2022-03-30,"Germany","H5N1","Wild birds",7
+2022-03-30,"The Netherlands","H5N1","Wild birds",4
+2022-03-31,"France","H5N1","Captive birds",1
+2022-03-31,"France","H5N1","Farm",20
+2022-03-31,"France","H5N1","Wild birds",2
+2022-03-31,"Denmark","H5N1","Wild birds",2
+2022-03-31,"Germany","H5N1","Wild birds",4
+2022-03-31,"The Netherlands","H5N1","Wild birds",5
+2022-03-31,"Albania","H5N8","Farm",1
+2022-04-01,"The Netherlands","H5N1","Captive birds",1
+2022-04-01,"The Netherlands","H5N1","Wild birds",1
+2022-04-01,"Sweden","H5N1","Wild birds",1
+2022-04-01,"Norway","H5N1","Wild birds",1
+2022-04-01,"Italy","H5N1","Farm",1
+2022-04-01,"Hungary","H5N1","Wild birds",1
+2022-04-01,"Germany","H5N1","Wild birds",5
+2022-04-01,"France","H5N1","Farm",11
+2022-04-01,"France","H5N1","Wild birds",2
+2022-04-02,"France","H5N1","Farm",22
+2022-04-02,"France","H5","Wild birds",1
+2022-04-02,"France","H5N1","Wild birds",1
+2022-04-03,"France","H5N1","Farm",3
+2022-04-04,"Albania","H5N8","Farm",1
+2022-04-04,"Serbia","H5N1","Wild birds",1
+2022-04-04,"Iceland","H5N1","Wild birds",1
+2022-04-04,"Germany","H5N1","Wild birds",2
+2022-04-04,"France","H5N1","Farm",18
+2022-04-04,"France","H5N1","Wild birds",2
+2022-04-05,"The Netherlands","H5N1","Captive birds",1
+2022-04-05,"The Netherlands","H5N1","Wild birds",7
+2022-04-05,"Spain","H5N1","Wild birds",1
+2022-04-05,"Germany","H5N1","Farm",1
+2022-04-05,"France","H5N1","Farm",12
+2022-04-06,"Germany","H5N8","Wild birds",1
+2022-04-06,"Norway","H5N5","Wild birds",2
+2022-04-06,"Spain","H5N1","Wild birds",2
+2022-04-06,"Lithuania","H5N1","Wild birds",1
+2022-04-06,"France","H5N1","Farm",24
+2022-04-06,"Denmark","H5N1","Wild birds",1
+2022-04-06,"Austria","H5N1","Wild birds",1
+2022-04-07,"The Netherlands","H5N1","Captive birds",1
+2022-04-07,"The Netherlands","H5N1","Wild birds",2
+2022-04-07,"Poland","H5N1","Wild birds",1
+2022-04-07,"Greece","H5N1","Wild birds",2
+2022-04-07,"Germany","H5N1","Wild birds",6
+2022-04-07,"France","H5N1","Farm",2
+2022-04-07,"Denmark","H5N1","Wild birds",1
+2022-04-08,"Germany","H5N1","Wild birds",5
+2022-04-08,"France","H5N1","Captive birds",1
+2022-04-08,"France","H5N1","Farm",16
+2022-04-08,"Denmark","H5N1","Wild birds",1
+2022-04-08,"Bulgaria","H5N1","Captive birds",1
+2022-04-08,"Belgium","H5N1","Wild birds",1
+2022-04-08,"Bulgaria","H5","Backyard",1
+2022-04-09,"France","H5N1","Captive birds",2
+2022-04-09,"France","H5N1","Farm",10
+2022-04-09,"The Netherlands","H5N1","Wild birds",2
+2022-04-11,"The Netherlands","H5N1","Captive birds",1
+2022-04-11,"The Netherlands","H5N1","Wild birds",12
+2022-04-11,"Germany","H5N1","Wild birds",2
+2022-04-11,"France","H5N1","Captive birds",1
+2022-04-11,"France","H5N1","Farm",5
+2022-04-11,"Finland","H5N1","Wild birds",1
+2022-04-12,"The Netherlands","H5N1","Farm",1
+2022-04-12,"France","H5N1","Farm",7
+2022-04-13,"The Netherlands","H5N1","Captive birds",1
+2022-04-13,"Spain","H5N1","Wild birds",1
+2022-04-13,"France","H5N1","Farm",16
+2022-04-13,"Belgium","H5N1","Wild birds",1
+2022-04-14,"The Netherlands","H5N1","Wild birds",1
+2022-04-14,"Hungary","H5N1","Farm",1
+2022-04-14,"Germany","H5N1","Farm",1
+2022-04-14,"Germany","H5N1","Wild birds",21
+2022-04-14,"France","H5N1","Farm",8
+2022-04-14,"Bulgaria","H5N1","Farm",1
+2022-04-15,"The Netherlands","H5N1","Farm",1
+2022-04-15,"France","H5N1","Captive birds",2
+2022-04-15,"France","H5N1","Farm",4
+2022-04-16,"Hungary","H5N1","Farm",2
+2022-04-16,"France","H5N1","Captive birds",1
+2022-04-16,"France","H5N1","Farm",12
+2022-04-18,"Hungary","H5N1","Farm",2
+2022-04-19,"The Netherlands","H5N1","Farm",3
+2022-04-19,"Hungary","H5N1","Farm",1
+2022-04-19,"Germany","H5N1","Wild birds",2
+2022-04-19,"France","H5N1","Captive birds",1
+2022-04-19,"France","H5N1","Farm",12
+2022-04-20,"The Netherlands","H5N1","Farm",1
+2022-04-20,"Hungary","H5N1","Backyard",1
+2022-04-20,"Hungary","H5N1","Farm",4
+2022-04-20,"Greece","H5N1","Wild birds",2
+2022-04-20,"Germany","H5N1","Wild birds",1
+2022-04-20,"France","H5N1","Farm",9
+2022-04-20,"Czech Republic","H5N1","Backyard",1
+2022-04-21,"Sweden","H5N1","Wild birds",1
+2022-04-21,"Poland","H5N1","Farm",1
+2022-04-21,"Lithuania","H5N1","Wild birds",2
+2022-04-21,"Hungary","H5N1","Farm",2
+2022-04-21,"France","H5N1","Farm",8
+2022-04-21,"Denmark","H5N1","Wild birds",2
+2022-04-21,"Bulgaria","H5","Farm",1
+2022-04-22,"The Netherlands","H5N1","Farm",1
+2022-04-22,"The Netherlands","H5N1","Wild birds",4
+2022-04-22,"Poland","H5N1","Farm",1
+2022-04-22,"Hungary","H5N1","Farm",5
+2022-04-22,"Germany","H5N1","Wild birds",6
+2022-04-22,"France","H5N1","Farm",4
+2022-04-22,"Denmark","H5N1","Wild birds",1
+2022-04-22,"Belgium","H5N1","Wild birds",1
+2022-04-23,"The Netherlands","H5N1","Farm",1
+2022-04-23,"Hungary","H5N1","Backyard",1
+2022-04-23,"Hungary","H5N1","Farm",3
+2022-04-23,"France","H5N1","Farm",5
+2022-04-24,"The Netherlands","H5N1","Farm",1
+2022-04-24,"Hungary","H5N1","Farm",1
+2022-04-25,"Hungary","H5N1","Farm",6
+2022-04-25,"Germany","H5N1","Wild birds",1
+2022-04-25,"France","H5N1","Farm",2
+2022-04-26,"The Netherlands","H5N1","Wild birds",3
+2022-04-26,"Spain","H5N1","Wild birds",1
+2022-04-26,"Hungary","H5N1","Farm",7
+2022-04-26,"Germany","H5N1","Wild birds",2
+2022-04-26,"France","H5N1","Farm",9
+2022-04-26,"Finland","H5N1","Wild birds",1
+2022-04-27,"Hungary","H5N1","Farm",9
+2022-04-27,"France","H5N1","Farm",5
+2022-04-27,"Bulgaria","H5","Farm",4
+2022-04-28,"The Netherlands","H5N1","Farm",1
+2022-04-28,"Poland","H5N1","Farm",1
+2022-04-28,"Hungary","H5N1","Farm",9
+2022-04-28,"Germany","H5N1","Wild birds",2
+2022-04-28,"France","H5N1","Farm",4
+2022-04-28,"Denmark","H5N1","Wild birds",2
+2022-04-29,"Hungary","H5N1","Farm",10
+2022-04-29,"Germany","H5N1","Wild birds",1
+2022-04-29,"France","H5N1","Farm",4
+2022-04-29,"Bulgaria","H5","Farm",2
+2022-04-30,"Hungary","H5N1","Farm",3
+2022-04-30,"France","H5N1","Farm",2
+2022-05-01,"Hungary","H5N1","Farm",7
+2022-05-02,"Norway","H5N5","Wild birds",2
+2022-05-02,"The Netherlands","H5N1","Farm",1
+2022-05-02,"Hungary","H5N1","Farm",2
+2022-05-02,"Germany","H5N1","Wild birds",8
+2022-05-02,"Germany","H5","Wild birds",1
+2022-05-03,"Iceland","H5N1","Backyard",1
+2022-05-03,"Hungary","H5N1","Farm",5
+2022-05-03,"France","H5N1","Farm",3
+2022-05-03,"Finland","H5N1","Wild birds",1
+2022-05-03,"Bulgaria","H5","Farm",3
+2022-05-04,"The Netherlands","H5N1","Wild birds",3
+2022-05-04,"Iceland","H5N1","Wild birds",1
+2022-05-04,"Hungary","H5N1","Farm",6
+2022-05-04,"France","H5N1","Farm",7
+2022-05-04,"Bulgaria","H5","Farm",2
+2022-05-05,"Hungary","H5N1","Farm",1
+2022-05-05,"Greece","H5N1","Wild birds",1
+2022-05-05,"Germany","H5N1","Wild birds",3
+2022-05-05,"Austria","H5N1","Wild birds",1
+2022-05-06,"Sweden","H5N1","Wild birds",3
+2022-05-06,"Hungary","H5N1","Farm",1
+2022-05-06,"Germany","H5N1","Wild birds",12
+2022-05-06,"France","H5N1","Farm",1
+2022-05-07,"Hungary","H5N1","Farm",2
+2022-05-08,"Hungary","H5N1","Farm",9
+2022-05-09,"The Netherlands","H5N1","Wild birds",6
+2022-05-09,"Hungary","H5N1","Farm",11
+2022-05-09,"France","H5N1","Farm",1
+2022-05-10,"Hungary","H5N1","Farm",2
+2022-05-10,"France","H5N1","Captive birds",3
+2022-05-11,"Spain","H5N1","Wild birds",1
+2022-05-11,"Hungary","H5N1","Farm",9
+2022-05-11,"Bulgaria","H5","Captive birds",1
+2022-05-12,"Norway","H5N5","Wild birds",2
+2022-05-12,"Norway","H5N1","Wild birds",1
+2022-05-12,"Hungary","H5N1","Farm",4
+2022-05-12,"Germany","H5N1","Wild birds",5
+2022-05-12,"France","H5N1","Farm",1
+2022-05-12,"France","H5N1","Wild birds",1
+2022-05-13,"Hungary","H5N1","Farm",5
+2022-05-13,"Moldova","H5","Backyard",1
+2022-05-14,"Hungary","H5N1","Farm",6
+2022-05-14,"Germany","H5N1","Backyard",1
+2022-05-15,"Hungary","H5N1","Farm",6
+2022-05-15,"France","H5N1","Wild birds",1
+2022-05-16,"The Netherlands","H5N1","Wild birds",1
+2022-05-16,"France","H5N1","Farm",1
+2022-05-17,"Serbia","H5N1","Farm",1
+2022-05-17,"Hungary","H5N1","Farm",2
+2022-05-17,"France","H5N1","Farm",1
+2022-05-17,"France","H5N1","Wild birds",1
+2022-05-17,"France","H5","Captive birds",1
+2022-05-18,"Kosovo","H5N8","Backyard",1
+2022-05-18,"The Netherlands","H5N1","Wild birds",4
+2022-05-18,"Norway","H5N1","Wild birds",2
+2022-05-18,"Hungary","H5N1","Farm",2
+2022-05-18,"Germany","H5N1","Wild birds",1
+2022-05-18,"France","H5N1","Wild birds",2
+2022-05-18,"Denmark","H5N1","Wild birds",2
+2022-05-18,"Norway","H5","Wild birds",1
+2022-05-19,"The Netherlands","H5N1","Captive birds",2
+2022-05-19,"Hungary","H5N1","Backyard",1
+2022-05-19,"Hungary","H5N1","Farm",1
+2022-05-19,"France","H5N1","Wild birds",2
+2022-05-20,"The Netherlands","H5N1","Wild birds",1
+2022-05-20,"Iceland","H5N1","Wild birds",15
+2022-05-20,"Hungary","H5N1","Farm",3
+2022-05-20,"Germany","H5N1","Wild birds",12
+2022-05-20,"Finland","H5N1","Wild birds",2
+2022-05-21,"Hungary","H5N1","Farm",2
+2022-05-23,"The Netherlands","H5N1","Wild birds",2
+2022-05-23,"Hungary","H5N1","Farm",4
+2022-05-23,"France","H5N1","Wild birds",2
+2022-05-23,"France","H5","Wild birds",1
+2022-05-24,"The Netherlands","H5N1","Wild birds",1
+2022-05-24,"Slovakia","H5N1","Backyard",1
+2022-05-24,"France","H5N1","Wild birds",1
+2022-05-24,"Denmark","H5N1","Wild birds",1
+2022-05-24,"France","H5","Captive birds",1
+2022-05-25,"Norway","H5N5","Wild birds",2
+2022-05-25,"The Netherlands","H5N1","Wild birds",7
+2022-05-25,"Spain","H5N1","Wild birds",2
+2022-05-25,"Hungary","H5N1","Farm",5
+2022-05-25,"Germany","H5N1","Wild birds",11
+2022-05-25,"France","H5N1","Wild birds",1
+2022-05-25,"Denmark","H5N1","Wild birds",1
+2022-05-26,"Hungary","H5N1","Farm",3
+2022-05-26,"The Netherlands","H5N1","Wild birds",2
+2022-05-26,"Iceland","H5N1","Wild birds",1
+2022-05-26,"Hungary","H5N1","Farm",1
+2022-05-26,"Finland","H5N1","Wild birds",1
+2022-05-27,"Hungary","H5N1","Farm",1
+2022-05-30,"The Netherlands","H5N1","Wild birds",6
+2022-05-30,"Hungary","H5N1","Farm",1
+2022-05-30,"France","H5","Wild birds",1
+2022-05-31,"Spain","H5N1","Wild birds",2
+2022-05-31,"Hungary","H5N1","Farm",3
+2022-05-31,"Germany","H5N1","Wild birds",4
+2022-05-31,"France","H5N1","Wild birds",2
+2022-06-01,"Spain","H5N1","Wild birds",1
+2022-06-01,"Hungary","H5N1","Farm",2
+2022-06-01,"France","H5N1","Wild birds",1
+2022-06-02,"Spain","H5N1","Captive birds",2
+2022-06-02,"Spain","H5N1","Wild birds",1
+2022-06-02,"Hungary","H5N1","Farm",1
+2022-06-03,"The Netherlands","H5N1","Captive birds",1
+2022-06-03,"The Netherlands","H5N1","Wild birds",6
+2022-06-03,"Poland","H5N1","Wild birds",1
+2022-06-03,"Hungary","H5N1","Wild birds",1
+2022-06-03,"Germany","H5N1","Farm",1
+2022-06-03,"Germany","H5N1","Wild birds",4
+2022-06-03,"Finland","H5N1","Wild birds",1
+2022-06-04,"The Netherlands","H5N1","Wild birds",2
+2022-06-06,"The Netherlands","H5N1","Wild birds",5
+2022-06-06,"Spain","H5N1","Captive birds",1
+2022-06-06,"Spain","H5N1","Wild birds",1
+2022-06-06,"France","H5N1","Farm",1
+2022-06-07,"The Netherlands","H5N1","Farm",1
+2022-06-08,"Norway","H5N5","Wild birds",2
+2022-06-08,"Spain","H5N1","Wild birds",2
+2022-06-08,"France","H5N1","Wild birds",4
+2022-06-08,"Croatia","H5N1","Backyard",1
+2022-06-09,"The Netherlands","H5N1","Farm",2
+2022-06-09,"Northern Ireland","H5N1","Wild birds",1
+2022-06-09,"Hungary","H5N1","Farm",1
+2022-06-09,"Germany","H5N1","Wild birds",4
+2022-06-09,"Belgium","H5N1","Wild birds",1
+2022-06-09,"Germany","H5","Wild birds",1
+2022-06-09,"Bulgaria","H5","Farm",1
+2022-06-10,"France","H5N1","Wild birds",4
+2022-06-10,"Belgium","H5N1","Wild birds",4
+2022-06-11,"The Netherlands","H5N1","Wild birds",1
+2022-06-13,"The Netherlands","H5N1","Wild birds",7
+2022-06-13,"Sweden","H5N1","Wild birds",2
+2022-06-13,"Germany","H5N1","Wild birds",5
+2022-06-13,"France","H5N1","Wild birds",3
+2022-06-14,"Norway","H5N5","Wild birds",3
+2022-06-14,"Norway","H5N1","Wild birds",1
+2022-06-14,"France","H5N1","Wild birds",4
+2022-06-15,"The Netherlands","H5N1","Wild birds",10
+2022-06-15,"Germany","H5N1","Wild birds",1
+2022-06-15,"Belgium","H5N1","Wild birds",1
+2022-06-16,"Norway","H5N1","Wild birds",1
+2022-06-17,"The Netherlands","H5N1","Farm",2
+2022-06-17,"The Netherlands","H5N1","Wild birds",11
+2022-06-17,"Sweden","H5N1","Wild birds",2
+2022-06-17,"Poland","H5N1","Wild birds",1
+2022-06-17,"Norway","H5N1","Captive birds",1
+2022-06-17,"Norway","H5N1","Wild birds",4
+2022-06-17,"Germany","H5N1","Wild birds",5
+2022-06-17,"France","H5N1","Wild birds",2
+2022-06-17,"Finland","H5N1","Wild birds",1
+2022-06-17,"Denmark","H5N1","Wild birds",1
+2022-06-17,"Belgium","H5N1","Wild birds",1
+2022-06-17,"Norway","H5","Wild birds",2
+2022-06-19,"Denmark","H5N1","Wild birds",1
+2022-06-20,"Spain","H5N1","Wild birds",3
+2022-06-20,"Iceland","H5N1","Wild birds",1
+2022-06-20,"Germany","H5N1","Wild birds",5
+2022-06-20,"France","H5N1","Wild birds",5
+2022-06-21,"The Netherlands","H5N1","Wild birds",10
+2022-06-21,"Sweden","H5N1","Wild birds",2
+2022-06-21,"France","H5N1","Wild birds",2
+2022-06-21,"Denmark","H5N1","Wild birds",4
+2022-06-22,"Norway","H5N5","Wild birds",3
+2022-06-22,"Spain","H5N1","Wild birds",1
+2022-06-22,"Portugal","H5N1","Wild birds",1
+2022-06-22,"Norway","H5N1","Wild birds",4
+2022-06-22,"Lithuania","H5N1","Wild birds",1
+2022-06-22,"France","H5N1","Wild birds",1
+2022-06-22,"Denmark","H5N1","Wild birds",2
+2022-06-22,"Belgium","H5N1","Captive birds",1
+2022-06-22,"Belgium","H5N1","Wild birds",2
+2022-06-22,"Norway","H5","Wild birds",1
+2022-06-23,"Northern Ireland","H5N1","Wild birds",1
+2022-06-23,"Germany","H5N1","Wild birds",23
+2022-06-23,"France","H5N1","Wild birds",1
+2022-06-23,"Denmark","H5N1","Wild birds",2
+2022-06-24,"Germany","H5N1","Wild birds",3
+2022-06-24,"France","H5N1","Wild birds",1
+2022-06-24,"Denmark","H5N1","Wild birds",1
+2022-06-24,"Germany","H5","Wild birds",1
+2022-06-26,"Norway","H5N5","Wild birds",2
+2022-06-26,"Norway","H5N1","Wild birds",4
+2022-06-26,"Norway","H5","Wild birds",6
+2022-06-27,"Sweden","H5N1","Wild birds",1
+2022-06-27,"Germany","H5N1","Wild birds",16
+2022-06-28,"The Netherlands","H5N1","Wild birds",9
+2022-06-28,"Lithuania","H5N1","Wild birds",1
+2022-06-28,"Germany","H5N1","Wild birds",23
+2022-06-28,"France","H5N1","Wild birds",2
+2022-06-28,"Denmark","H5N1","Wild birds",5
+2022-06-28,"Belgium","H5N1","Wild birds",5
+2022-06-29,"Sweden","H5N1","Wild birds",5
+2022-06-29,"Northern Ireland","H5N1","Wild birds",1
+2022-06-29,"Lithuania","H5N1","Wild birds",3
+2022-06-29,"Germany","H5N1","Wild birds",8
+2022-06-29,"France","H5N1","Backyard",1
+2022-06-29,"Finland","H5N1","Wild birds",1
+2022-06-30,"Germany","H5N1","Wild birds",1
+2022-07-01,"The Netherlands","H5N1","Wild birds",6
+2022-07-01,"Iceland","H5N1","Wild birds",3
+2022-07-01,"Germany","H5N1","Wild birds",12
+2022-07-01,"Denmark","H5N1","Wild birds",2
+2022-07-01,"Belgium","H5N1","Wild birds",6
+2022-07-02,"Belgium","H5N1","Wild birds",1
+2022-07-04,"The Netherlands","H5N1","Wild birds",3
+2022-07-04,"Spain","H5N1","Captive birds",1
+2022-07-04,"Norway","H5N1","Wild birds",5
+2022-07-04,"Germany","H5N1","Wild birds",4
+2022-07-04,"Denmark","H5N1","Wild birds",3
+2022-07-04,"Norway","H5","Wild birds",4
+2022-07-05,"The Netherlands","H5N1","Captive birds",1
+2022-07-05,"The Netherlands","H5N1","Wild birds",1
+2022-07-05,"Sweden","H5N1","Wild birds",4
+2022-07-05,"France","H5N1","Wild birds",9
+2022-07-05,"Denmark","H5N1","Wild birds",4
+2022-07-06,"Germany","H5N1","Wild birds",9
+2022-07-06,"Denmark","H5N1","Wild birds",3
+2022-07-07,"Norway","H5N1","Wild birds",2
+2022-07-07,"Northern Ireland","H5N1","Wild birds",1
+2022-07-07,"Lithuania","H5N1","Wild birds",1
+2022-07-07,"Ireland","H5N1","Wild birds",1
+2022-07-07,"Germany","H5N1","Wild birds",1
+2022-07-07,"France","H5N1","Wild birds",3
+2022-07-07,"Finland","H5N1","Wild birds",1
+2022-07-08,"The Netherlands","H5N1","Wild birds",4
+2022-07-08,"Northern Ireland","H5N1","Wild birds",1
+2022-07-08,"Germany","H5N1","Wild birds",2
+2022-07-11,"Northern Ireland","H5N1","Wild birds",1
+2022-07-11,"France","H5N1","Wild birds",4
+2022-07-12,"Germany","H5N1","Wild birds",22
+2022-07-12,"France","H5N1","Wild birds",1
+2022-07-13,"The Netherlands","H5N1","Wild birds",4
+2022-07-13,"France","H5N1","Wild birds",3
+2022-07-14,"Germany","H5N1","Wild birds",13
+2022-07-14,"Finland","H5N1","Wild birds",1
+2022-07-15,"The Netherlands","H5N1","Wild birds",1
+2022-07-15,"Northern Ireland","H5N1","Wild birds",1
+2022-07-15,"Ireland","H5N1","Wild birds",1
+2022-07-15,"Germany","H5N1","Farm",1
+2022-07-15,"Germany","H5N1","Wild birds",4
+2022-07-15,"Finland","H5N1","Wild birds",2
+2022-07-15,"Belgium","H5N1","Wild birds",1
+2022-07-18,"The Netherlands","H5N1","Wild birds",10
+2022-07-18,"Sweden","H5N1","Wild birds",3
+2022-07-18,"Poland","H5N1","Wild birds",1
+2022-07-18,"Germany","H5N1","Wild birds",2
+2022-07-18,"France","H5N1","Captive birds",1
+2022-07-18,"France","H5N1","Wild birds",14
+2022-07-18,"France","H5","Captive birds",1
+2022-07-19,"Poland","H5N1","Farm",1
+2022-07-19,"Norway","H5N1","Wild birds",2
+2022-07-19,"France","H5N1","Wild birds",1
+2022-07-19,"Belgium","H5N1","Wild birds",1
+2022-07-19,"Norway","H5","Wild birds",2
+2022-07-20,"Germany","H5N1","Farm",2
+2022-07-20,"Germany","H5N1","Wild birds",8
+2022-07-20,"France","H5N1","Wild birds",1
+2022-07-21,"The Netherlands","H5N1","Wild birds",4
+2022-07-21,"Sweden","H5N1","Wild birds",1
+2022-07-21,"Poland","H5N1","Farm",1
+2022-07-21,"Germany","H5N1","Wild birds",4
+2022-07-21,"France","H5N1","Wild birds",2
+2022-07-22,"Poland","H5N1","Farm",2
+2022-07-22,"Northern Ireland","H5N1","Wild birds",3
+2022-07-22,"France","H5N1","Wild birds",1
+2022-07-25,"The Netherlands","H5N1","Wild birds",4
+2022-07-25,"France","H5N1","Wild birds",6
+2022-07-26,"The Netherlands","H5N1","Farm",1
+2022-07-26,"Sweden","H5N1","Wild birds",5
+2022-07-26,"Germany","H5N1","Farm",1
+2022-07-26,"Germany","H5N1","Wild birds",13
+2022-07-26,"Belgium","H5N1","Wild birds",1
+2022-07-27,"The Netherlands","H5N1","Farm",1
+2022-07-27,"Germany","H5N1","Farm",1
+2022-07-27,"Germany","H5N1","Wild birds",1
+2022-07-28,"France","H5N1","Wild birds",2
+2022-07-29,"The Netherlands","H5N1","Wild birds",1
+2022-07-29,"Spain","H5N1","Wild birds",1
+2022-07-29,"Portugal","H5N1","Wild birds",1
+2022-07-29,"Norway","H5N1","Wild birds",1
+2022-07-29,"Northern Ireland","H5N1","Wild birds",2
+2022-07-29,"Germany","H5N1","Wild birds",1
+2022-07-29,"France","H5N1","Farm",1
+2022-07-29,"France","H5N1","Wild birds",6
+2022-07-29,"Finland","H5N1","Wild birds",2
+2022-07-30,"France","H5N1","Farm",1
+2022-07-31,"The Netherlands","H5N1","Farm",1
+2022-07-31,"The Netherlands","H5N1","Wild birds",1
+2022-08-01,"The Netherlands","H5N1","Farm",1
+2022-08-02,"Sweden","H5N1","Wild birds",8
+2022-08-02,"Moldova","H5N1","Backyard",1
+2022-08-02,"France","H5N1","Wild birds",1
+2022-08-03,"France","H5N1","Wild birds",5
+2022-08-03,"Belgium","H5N1","Wild birds",5
+2022-08-04,"France","H5N1","Wild birds",1
+2022-08-04,"Belgium","H5N1","Wild birds",1
+2022-08-05,"The Netherlands","H5N1","Wild birds",8
+2022-08-05,"Germany","H5N1","Farm",1
+2022-08-05,"Germany","H5N1","Wild birds",13
+2022-08-05,"France","H5N1","Wild birds",5
+2022-08-06,"Germany","H5N1","Wild birds",1
+2022-08-06,"Belgium","H5N1","Captive birds",1
+2022-08-07,"Denmark","H5N1","Wild birds",1
+2022-08-08,"The Netherlands","H5N1","Wild birds",8
+2022-08-08,"Sweden","H5N1","Wild birds",4
+2022-08-08,"Spain","H5N1","Farm",1
+2022-08-08,"Spain","H5N1","Wild birds",1
+2022-08-09,"Moldova","H5N1","Backyard",1
+2022-08-09,"France","H5N1","Wild birds",4
+2022-08-10,"The Netherlands","H5N1","Captive birds",2
+2022-08-10,"Spain","H5N1","Wild birds",1
+2022-08-10,"Ireland","H5N1","Wild birds",3
+2022-08-10,"Germany","H5N1","Wild birds",1
+2022-08-11,"Portugal","H5N1","Captive birds",1
+2022-08-11,"Norway","H5N1","Wild birds",1
+2022-08-11,"Germany","H5N1","Farm",2
+2022-08-12,"Ireland","H5N1","Wild birds",1
+2022-08-12,"France","H5N1","Wild birds",2
+2022-08-14,"The Netherlands","H5N1","Farm",1
+2022-08-16,"Spain","H5N1","Wild birds",1
+2022-08-16,"France","H5N1","Wild birds",8
+2022-08-16,"Belgium","H5N1","Wild birds",1
+2022-08-17,"The Netherlands","H5N1","Captive birds",3
+2022-08-17,"The Netherlands","H5N1","Farm",2
+2022-08-17,"The Netherlands","H5N1","Wild birds",4
+2022-08-17,"Spain","H5N1","Wild birds",1
+2022-08-17,"Iceland","H5N1","Wild birds",2
+2022-08-17,"Germany","H5N1","Farm",1
+2022-08-17,"France","H5N1","Farm",1
+2022-08-17,"France","H5N1","Wild birds",3
+2022-08-18,"The Netherlands","H5N1","Farm",1
+2022-08-18,"Norway","H5N1","Wild birds",3
+2022-08-18,"Germany","H5N1","Wild birds",9
+2022-08-18,"France","H5N1","Wild birds",3
+2022-08-19,"The Netherlands","H5N1","Wild birds",4
+2022-08-19,"Spain","H5N1","Farm",1
+2022-08-19,"France","H5N1","Wild birds",7
+2022-08-19,"Denmark","H5N1","Wild birds",1
+2022-08-22,"The Netherlands","H5N1","Wild birds",4
+2022-08-22,"Finland","H5N1","Wild birds",1
+2022-08-22,"Belgium","H5N1","Wild birds",2
+2022-08-23,"The Netherlands","H5N1","Captive birds",2
+2022-08-23,"Spain","H5N1","Wild birds",1
+2022-08-23,"Germany","H5N1","Farm",1
+2022-08-23,"France","H5N1","Farm",1
+2022-08-23,"France","H5N1","Wild birds",3
+2022-08-24,"The Netherlands","H5N1","Wild birds",2
+2022-08-24,"Germany","H5N1","Farm",1
+2022-08-24,"Germany","H5N1","Wild birds",1
+2022-08-24,"France","H5N1","Wild birds",2
+2022-08-25,"The Netherlands","H5N1","Captive birds",1
+2022-08-25,"The Netherlands","H5N1","Wild birds",2
+2022-08-25,"Spain","H5N1","Wild birds",2
+2022-08-25,"Norway","H5N1","Wild birds",1
+2022-08-25,"Ireland","H5N1","Wild birds",3
+2022-08-25,"France","H5N1","Captive birds",1
+2022-08-25,"France","H5N1","Wild birds",5
+2022-08-25,"Norway","H5","Wild birds",1
+2022-08-26,"The Netherlands","H5N1","Wild birds",1
+2022-08-26,"Portugal","H5N1","Captive birds",1
+2022-08-26,"Ireland","H5N1","Wild birds",1
+2022-08-26,"France","H5N1","Farm",1
+2022-08-26,"France","H5N1","Wild birds",12
+2022-08-27,"The Netherlands","H5N1","Captive birds",1
+2022-08-29,"France","H5N1","Captive birds",2
+2022-08-29,"Portugal","H5N1","Farm",1
+2022-08-30,"Germany","H5N1","Farm",1
+2022-08-30,"The Netherlands","H5N1","Wild birds",2
+2022-08-30,"Spain","H5N1","Wild birds",2
+2022-08-30,"Portugal","H5N1","Wild birds",1
+2022-08-30,"Finland","H5N1","Wild birds",2
+2022-08-31,"Spain","H5N1","Farm",1
+2022-08-31,"France","H5N1","Farm",1
+2022-08-31,"Spain","H5N1","Wild birds",1
+2022-08-31,"Ireland","H5N1","Wild birds",3
+2022-08-31,"France","H5N1","Wild birds",5
+2022-09-01,"The Netherlands","H5N1","Captive birds",1
+2022-09-01,"The Netherlands","H5N1","Farm",2
+2022-09-01,"Portugal","H5N1","Farm",1
+2022-09-01,"Germany","H5N1","Farm",1
+2022-09-01,"The Netherlands","H5N1","Wild birds",4
+2022-09-01,"France","H5N1","Wild birds",4
+2022-09-02,"The Netherlands","H5N1","Farm",1
+2022-09-02,"France","H5N1","Farm",1
+2022-09-02,"The Netherlands","H5N1","Wild birds",9
+2022-09-02,"Spain","H5N1","Wild birds",5
+2022-09-02,"Ireland","H5N1","Wild birds",2
+2022-09-02,"France","H5N1","Wild birds",2
+2022-09-02,"Denmark","H5N1","Wild birds",1
+2022-09-03,"Germany","H5N1","Farm",1
+2022-09-04,"The Netherlands","H5N1","Wild birds",1
+2022-09-05,"The Netherlands","H5N1","Captive birds",1
+2022-09-05,"The Netherlands","H5N1","Wild birds",14
+2022-09-06,"The Netherlands","H5N1","Farm",1
+2022-09-06,"Germany","H5N1","Farm",1
+2022-09-06,"France","H5N1","Wild birds",3
+2022-09-06,"Belgium","H5N1","Wild birds",6
+2022-09-07,"France","H5N1","Captive birds",1
+2022-09-07,"The Netherlands","H5N1","Wild birds",4
+2022-09-07,"Spain","H5N1","Wild birds",1
+2022-09-07,"France","H5N1","Wild birds",5
+2022-09-08,"The Netherlands","H5N1","Captive birds",1
+2022-09-08,"The Netherlands","H5N1","Farm",1
+2022-09-08,"Germany","H5N1","Wild birds",1
+2022-09-08,"France","H5N1","Wild birds",2
+2022-09-09,"Germany","H5N1","Farm",1
+2022-09-09,"France","H5N1","Farm",2
+2022-09-09,"Spain","H5N1","Wild birds",1
+2022-09-09,"Northern Ireland","H5N1","Wild birds",1
+2022-09-09,"Ireland","H5N1","Wild birds",5
+2022-09-09,"France","H5N1","Wild birds",6
+2022-09-09,"Belgium","H5N1","Wild birds",1
+2022-09-10,"Germany","H5N1","Farm",1
+2022-09-12,"Spain","H5N1","Farm",1
+2022-09-12,"The Netherlands","H5N1","Wild birds",1
+2022-09-12,"Spain","H5N1","Wild birds",2
+2022-09-12,"Ireland","H5N1","Wild birds",16
+2022-09-12,"Denmark","H5N1","Wild birds",2
+2022-09-13,"The Netherlands","H5N1","Captive birds",1
+2022-09-13,"Germany","H5N1","Farm",1
+2022-09-13,"France","H5N1","Farm",2
+2022-09-13,"The Netherlands","H5N1","Wild birds",3
+2022-09-13,"Northern Ireland","H5N1","Wild birds",2
+2022-09-13,"Iceland","H5N1","Wild birds",1
+2022-09-13,"France","H5N1","Wild birds",5
+2022-09-14,"The Netherlands","H5N1","Captive birds",1
+2022-09-14,"France","H5N1","Captive birds",2
+2022-09-14,"Spain","H5N1","Wild birds",2
+2022-09-14,"Portugal","H5N1","Wild birds",1
+2022-09-14,"Ireland","H5N1","Wild birds",5
+2022-09-14,"France","H5N1","Wild birds",1
+2022-09-14,"Finland","H5N1","Wild birds",1
+2022-09-14,"Belgium","H5N1","Wild birds",3
+2022-09-14,"Spain","H5","Wild birds",1
+2022-09-15,"The Netherlands","H5N1","Captive birds",1
+2022-09-15,"Germany","H5N1","Farm",1
+2022-09-15,"France","H5N1","Wild birds",8
+2022-09-15,"Belgium","H5N1","Wild birds",2
+2022-09-16,"The Netherlands","H5N1","Captive birds",3
+2022-09-16,"France","H5N1","Captive birds",1
+2022-09-16,"The Netherlands","H5N1","Farm",1
+2022-09-16,"France","H5N1","Farm",1
+2022-09-16,"Ireland","H5N1","Wild birds",1
+2022-09-17,"The Netherlands","H5N1","Farm",1
+2022-09-17,"Germany","H5N1","Farm",1
+2022-09-17,"France","H5N1","Farm",1
+2022-09-18,"Germany","H5N1","Captive birds",1
+2022-09-18,"The Netherlands","H5N1","Farm",1
+2022-09-19,"Norway","H5N1","Wild birds",1
+2022-09-19,"Germany","H5N1","Wild birds",2
+2022-09-19,"France","H5N1","Wild birds",4
+2022-09-20,"Belgium","H5N1","Captive birds",1
+2022-09-20,"Spain","H5N1","Farm",1
+2022-09-20,"France","H5N1","Farm",2
+2022-09-20,"Spain","H5N1","Wild birds",1
+2022-09-20,"Denmark","H5N1","Wild birds",1
+2022-09-20,"Belgium","H5N1","Wild birds",1
+2022-09-21,"Belgium","H5N1","Captive birds",1
+2022-09-21,"Poland","H5N1","Farm",1
+2022-09-21,"Germany","H5N1","Farm",1
+2022-09-21,"Belgium","H5N1","Farm",1
+2022-09-21,"Portugal","H5N1","Wild birds",2
+2022-09-21,"France","H5N1","Wild birds",2
+2022-09-21,"Belgium","H5N1","Wild birds",4
+2022-09-22,"The Netherlands","H5N1","Captive birds",1
+2022-09-22,"France","H5N1","Captive birds",2
+2022-09-22,"Italy","H5N1","Farm",1
+2022-09-22,"France","H5N1","Farm",1
+2022-09-22,"Ireland","H5N1","Wild birds",1
+2022-09-22,"France","H5N1","Wild birds",1
+2022-09-22,"Belgium","H5N1","Wild birds",2
+2022-09-23,"Germany","H5N1","Farm",2
+2022-09-23,"France","H5N1","Farm",1
+2022-09-23,"The Netherlands","H5N1","Wild birds",1
+2022-09-23,"France","H5N1","Wild birds",1
+2022-09-23,"Belgium","H5N1","Wild birds",4
+2022-09-26,"France","H5N1","Captive birds",3
+2022-09-26,"The Netherlands","H5N1","Farm",1
+2022-09-26,"The Netherlands","H5N1","Wild birds",1
+2022-09-26,"Spain","H5N1","Wild birds",7
+2022-09-26,"France","H5N1","Wild birds",2
+2022-09-27,"France","H5N1","Captive birds",2
+2022-09-27,"Belgium","H5N1","Captive birds",1
+2022-09-27,"Germany","H5N1","Farm",1
+2022-09-27,"France","H5N1","Farm",1
+2022-09-27,"Norway","H5N5","Wild birds",1
+2022-09-27,"Spain","H5N1","Wild birds",2
+2022-09-27,"Germany","H5N1","Wild birds",2
+2022-09-28,"The Netherlands","H5N1","Captive birds",1
+2022-09-28,"Belgium","H5N1","Farm",1
+2022-09-28,"The Netherlands","H5N1","Wild birds",8
+2022-09-28,"Spain","H5N1","Wild birds",5
+2022-09-28,"Germany","H5N1","Wild birds",3
+2022-09-29,"France","H5N1","Captive birds",3
+2022-09-29,"The Netherlands","H5N1","Farm",1
+2022-09-29,"Portugal","H5N1","Farm",1
+2022-09-29,"Germany","H5N1","Farm",1
+2022-09-29,"Italy","H5N1","Wild birds",1
+2022-09-30,"The Netherlands","H5N1","Farm",1
+2022-09-30,"Belgium","H5N1","Farm",1
+2022-09-30,"Finland","H5N5","Wild birds",1
+2022-09-30,"The Netherlands","H5N1","Wild birds",12
+2022-09-30,"Norway","H5N1","Wild birds",1
+2022-10-02,"The Netherlands","H5N1","Farm",1
+2022-10-02,"Belgium","H5N1","Farm",1
+2022-10-03,"The Netherlands","H5N1","Wild birds",1
+2022-10-03,"Germany","H5N1","Farm",2
+2022-10-03,"Belgium","H5N1","Wild birds",6
+2022-10-04,"The Netherlands","H5N1","Farm",1
+2022-10-04,"The Netherlands","H5N1","Wild birds",8
+2022-10-04,"France","H5N1","Captive birds",7
+2022-10-04,"France","H5N1","Farm",1
+2022-10-05,"The Netherlands","H5N1","Farm",1
+2022-10-05,"The Netherlands","H5N1","Wild birds",8
+2022-10-05,"Northern Ireland","H5N1","Wild birds",1
+2022-10-05,"Iceland","H5N1","Wild birds",2
+2022-10-05,"Germany","H5N1","Farm",1
+2022-10-05,"Germany","H5N1","Wild birds",4
+2022-10-05,"France","H5N1","Captive birds",2
+2022-10-05,"France","H5N1","Wild birds",1
+2022-10-05,"Denmark","H5N1","Wild birds",1
+2022-10-05,"Belgium","H5N1","Captive birds",1
+2022-10-06,"The Netherlands","H5N1","Captive birds",1
+2022-10-06,"Spain","H5N1","Wild birds",7
+2022-10-06,"Germany","H5N1","Farm",1
+2022-10-06,"France","H5N1","Farm",1
+2022-10-07,"The Netherlands","H5N1","Captive birds",1
+2022-10-07,"The Netherlands","H5N1","Farm",1
+2022-10-07,"The Netherlands","H5N1","Wild birds",2
+2022-10-07,"France","H5N1","Captive birds",2
+2022-10-07,"France","H5N1","Wild birds",3
+2022-10-07,"Belgium","H5N1","Wild birds",3
+2022-10-08,"The Netherlands","H5N1","Captive birds",1
+2022-10-08,"Germany","H5N1","Farm",1
+2022-10-09,"The Netherlands","H5N1","Farm",1
+2022-10-10,"The Netherlands","H5N1","Wild birds",2
+2022-10-10,"France","H5N1","Captive birds",1
+2022-10-10,"France","H5N1","Farm",1
+2022-10-10,"France","H5N1","Wild birds",1
+2022-10-10,"Belgium","H5N1","Farm",1
+2022-10-11,"The Netherlands","H5N1","Captive birds",2
+2022-10-11,"The Netherlands","H5N1","Farm",1
+2022-10-11,"The Netherlands","H5N1","Wild birds",1
+2022-10-11,"Spain","H5N1","Wild birds",4
+2022-10-11,"Italy","H5N1","Wild birds",2
+2022-10-11,"Germany","H5N1","Wild birds",1
+2022-10-11,"France","H5N1","Captive birds",1
+2022-10-11,"France","H5N1","Farm",1
+2022-10-11,"France","H5N1","Wild birds",2
+2022-10-11,"Belgium","H5N1","Wild birds",3
+2022-10-12,"Norway","H5N1","Wild birds",2
+2022-10-12,"France","H5N1","Captive birds",1
+2022-10-12,"France","H5N1","Farm",1
+2022-10-12,"France","H5N1","Wild birds",1
+2022-10-13,"The Netherlands","H5N1","Farm",1
+2022-10-13,"The Netherlands","H5N1","Wild birds",2
+2022-10-13,"Italy","H5N1","Wild birds",2
+2022-10-13,"Ireland","H5N1","Captive birds",1
+2022-10-13,"Germany","H5N1","Wild birds",2
+2022-10-13,"France","H5N1","Captive birds",1
+2022-10-14,"The Netherlands","H5N1","Farm",1
+2022-10-14,"The Netherlands","H5N1","Wild birds",4
+2022-10-14,"Spain","H5N1","Wild birds",10
+2022-10-14,"Northern Ireland","H5N1","Wild birds",2
+2022-10-14,"Italy","H5N1","Wild birds",1
+2022-10-14,"Germany","H5N1","Wild birds",2
+2022-10-14,"France","H5N1","Captive birds",2
+2022-10-14,"France","H5N1","Farm",1
+2022-10-14,"France","H5N1","Wild birds",2
+2022-10-15,"Germany","H5N1","Farm",1
+2022-10-15,"France","H5N1","Farm",1
+2022-10-16,"The Netherlands","H5N1","Farm",1
+2022-10-16,"Northern Ireland","H5N1","Captive birds",1
+2022-10-16,"Italy","H5N1","Wild birds",2
+2022-10-16,"Germany","H5N1","Farm",1
+2022-10-17,"The Netherlands","H5N1","Captive birds",1
+2022-10-17,"The Netherlands","H5N1","Wild birds",3
+2022-10-17,"Germany","H5N1","Wild birds",1
+2022-10-17,"France","H5N1","Captive birds",1
+2022-10-17,"France","H5N1","Farm",1
+2022-10-17,"France","H5N1","Wild birds",1
+2022-10-17,"Belgium","H5N1","Captive birds",1
+2022-10-17,"Belgium","H5N1","Wild birds",1
+2022-10-18,"The Netherlands","H5N1","Wild birds",1
+2022-10-18,"Spain","H5N1","Wild birds",1
+2022-10-18,"Italy","H5N1","Farm",1
+2022-10-18,"Germany","H5N1","Farm",1
+2022-10-18,"Germany","H5N1","Wild birds",2
+2022-10-18,"France","H5N1","Farm",3
+2022-10-18,"France","H5N1","Wild birds",1
+2022-10-18,"Belgium","H5N1","Wild birds",3
+2022-10-19,"The Netherlands","H5N1","Captive birds",1
+2022-10-19,"Spain","H5N1","Wild birds",4
+2022-10-19,"Italy","H5N1","Farm",1
+2022-10-19,"Ireland","H5N1","Captive birds",1
+2022-10-19,"Germany","H5N1","Farm",3
+2022-10-19,"France","H5N1","Farm",1
+2022-10-20,"The Netherlands","H5N1","Captive birds",1
+2022-10-20,"The Netherlands","H5N1","Farm",1
+2022-10-20,"Spain","H5N1","Wild birds",1
+2022-10-20,"Iceland","H5N1","Wild birds",2
+2022-10-20,"France","H5N1","Captive birds",1
+2022-10-20,"France","H5N1","Farm",4
+2022-10-20,"France","H5N1","Wild birds",2
+2022-10-20,"Denmark","H5N1","Wild birds",1
+2022-10-20,"Belgium","H5N1","Captive birds",1
+2022-10-20,"Belgium","H5N1","Wild birds",5
+2022-10-21,"The Netherlands","H5N1","Farm",1
+2022-10-21,"Spain","H5N1","Wild birds",7
+2022-10-21,"Slovenia","H5N1","Wild birds",1
+2022-10-21,"Norway","H5N1","Farm",1
+2022-10-21,"Italy","H5N1","Wild birds",2
+2022-10-21,"Germany","H5N1","Farm",1
+2022-10-21,"Germany","H5N1","Wild birds",4
+2022-10-21,"France","H5N1","Wild birds",2
+2022-10-21,"Belgium","H5N1","Captive birds",1
+2022-10-21,"Bulgaria","H5","Captive birds",1
+2022-10-22,"The Netherlands","H5N1","Farm",1
+2022-10-22,"Italy","H5N1","Farm",1
+2022-10-23,"Belgium","H5N1","Farm",1
+2022-10-24,"Germany","H5N1","Farm",1
+2022-10-24,"France","H5N1","Captive birds",1
+2022-10-24,"France","H5N1","Farm",1
+2022-10-25,"The Netherlands","H5N1","Wild birds",5
+2022-10-25,"Spain","H5N1","Wild birds",1
+2022-10-25,"Italy","H5N1","Wild birds",1
+2022-10-25,"Germany","H5N1","Farm",4
+2022-10-25,"France","H5N1","Captive birds",1
+2022-10-25,"France","H5N1","Farm",1
+2022-10-25,"France","H5N1","Wild birds",1
+2022-10-25,"Belgium","H5N1","Wild birds",1
+2022-10-26,"Italy","H5N1","Wild birds",1
+2022-10-26,"Ireland","H5N1","Wild birds",1
+2022-10-26,"Germany","H5N1","Farm",1
+2022-10-26,"France","H5N1","Captive birds",2
+2022-10-26,"France","H5N1","Farm",1
+2022-10-26,"Denmark","H5N1","Wild birds",2
+2022-10-27,"The Netherlands","H5N1","Farm",1
+2022-10-27,"Sweden","H5N1","Wild birds",2
+2022-10-27,"Northern Ireland","H5N1","Wild birds",1
+2022-10-27,"Italy","H5N1","Farm",2
+2022-10-27,"Germany","H5N1","Captive birds",1
+2022-10-27,"France","H5N1","Captive birds",1
+2022-10-27,"France","H5N1","Farm",2
+2022-10-27,"Belgium","H5N1","Captive birds",1
+2022-10-27,"Belgium","H5N1","Wild birds",2
+2022-10-28,"The Netherlands","H5N1","Wild birds",1
+2022-10-28,"Spain","H5N1","Wild birds",2
+2022-10-28,"Northern Ireland","H5N1","Wild birds",1
+2022-10-28,"Germany","H5N1","Captive birds",1
+2022-10-28,"Germany","H5N1","Wild birds",5
+2022-10-28,"France","H5N1","Farm",1
+2022-10-28,"France","H5N1","Wild birds",4
+2022-10-28,"Denmark","H5N1","Captive birds",1
+2022-10-28,"Croatia","H5N1","Wild birds",1
+2022-10-28,"Belgium","H5N1","Farm",1
+2022-10-29,"Germany","H5N1","Farm",2
+2022-10-29,"Germany","H5N1","Wild birds",8
+2022-10-30,"The Netherlands","H5N1","Farm",1
+2022-10-30,"Italy","H5N1","Wild birds",1
+2022-10-30,"Germany","H5N1","Farm",1
+2022-10-31,"The Netherlands","H5N1","Farm",1
+2022-10-31,"The Netherlands","H5N1","Wild birds",8
+2022-10-31,"Italy","H5N1","Backyard",1
+2022-10-31,"Germany","H5N1","Farm",1
+2022-10-31,"France","H5N1","Farm",4
+2022-10-31,"France","H5N1","Wild birds",1
+2022-11-01,"Iceland","H5N1","Wild birds",7
+2022-11-01,"Germany","H5N1","Wild birds",4
+2022-11-02,"The Netherlands","H5N1","Wild birds",8
+2022-11-02,"Italy","H5N1","Farm",1
+2022-11-02,"Germany","H5N1","Backyard",1
+2022-11-02,"France","H5N1","Captive birds",1
+2022-11-02,"France","H5N1","Farm",1
+2022-11-03,"Italy","H5N1","Farm",1
+2022-11-03,"Germany","H5N1","Farm",2
+2022-11-03,"France","H5N1","Wild birds",3
+2022-11-04,"The Netherlands","H5N1","Wild birds",6
+2022-11-04,"Norway","H5N1","Wild birds",1
+2022-11-04,"Italy","H5N1","Backyard",3
+2022-11-04,"Italy","H5N1","Farm",2
+2022-11-04,"Italy","H5N1","Wild birds",1
+2022-11-04,"Hungary","H5N1","Farm",2
+2022-11-04,"Germany","H5N1","Captive birds",3
+2022-11-04,"Germany","H5N1","Farm",1
+2022-11-04,"Germany","H5N1","Wild birds",1
+2022-11-04,"France","H5N1","Captive birds",1
+2022-11-04,"Denmark","H5N1","Wild birds",1
+2022-11-05,"Serbia","H5N1","Wild birds",1
+2022-11-05,"North Macedonia","H5N1","Captive birds",1
+2022-11-05,"Hungary","H5N1","Farm",1
+2022-11-05,"Germany","H5N1","Captive birds",1
+2022-11-05,"Belgium","H5N1","Captive birds",1
+2022-11-06,"Hungary","H5N1","Farm",3
+2022-11-07,"The Netherlands","H5N1","Wild birds",3
+2022-11-07,"Spain","H5N1","Wild birds",1
+2022-11-07,"Italy","H5N1","Backyard",1
+2022-11-07,"Italy","H5N1","Farm",1
+2022-11-07,"Italy","H5N1","Wild birds",3
+2022-11-07,"Hungary","H5N1","Farm",1
+2022-11-07,"Germany","H5N1","Captive birds",1
+2022-11-07,"Germany","H5N1","Farm",1
+2022-11-07,"France","H5N1","Captive birds",2
+2022-11-07,"France","H5N1","Farm",3
+2022-11-07,"Belgium","H5N1","Wild birds",7
+2022-11-08,"Ireland","H5N1","Wild birds",1
+2022-11-08,"France","H5N1","Farm",2
+2022-11-08,"France","H5N1","Wild birds",1
+2022-11-08,"Denmark","H5N1","Wild birds",1
+2022-11-09,"The Netherlands","H5N1","Captive birds",1
+2022-11-09,"The Netherlands","H5N1","Farm",1
+2022-11-09,"Serbia","H5N1","Wild birds",1
+2022-11-09,"Italy","H5N1","Captive birds",1
+2022-11-09,"Italy","H5N1","Farm",1
+2022-11-09,"Hungary","H5N1","Farm",1
+2022-11-09,"Germany","H5N1","Farm",1
+2022-11-09,"Germany","H5N1","Wild birds",3
+2022-11-09,"France","H5N1","Farm",1
+2022-11-09,"France","H5N1","Wild birds",1
+2022-11-09,"Denmark","H5N1","Farm",1
+2022-11-09,"Austria","H5N1","Captive birds",1
+2022-11-10,"The Netherlands","H5N1","Captive birds",1
+2022-11-10,"Spain","H5N1","Wild birds",2
+2022-11-10,"Italy","H5N1","Farm",1
+2022-11-10,"Italy","H5N1","Wild birds",2
+2022-11-10,"Hungary","H5N1","Farm",1
+2022-11-10,"Germany","H5N1","Wild birds",14
+2022-11-10,"France","H5N1","Captive birds",2
+2022-11-10,"France","H5N1","Wild birds",2
+2022-11-10,"Denmark","H5N1","Wild birds",1
+2022-11-10,"Belgium","H5N1","Farm",1
+2022-11-10,"Germany","H5","Wild birds",1
+2022-11-11,"Sweden","H5N1","Wild birds",1
+2022-11-11,"Spain","H5N1","Wild birds",1
+2022-11-11,"Norway","H5N1","Farm",1
+2022-11-11,"Italy","H5N1","Backyard",1
+2022-11-11,"Italy","H5N1","Farm",1
+2022-11-11,"Italy","H5N1","Wild birds",2
+2022-11-11,"Hungary","H5N1","Farm",1
+2022-11-11,"Germany","H5N1","Wild birds",8
+2022-11-11,"France","H5N1","Wild birds",1
+2022-11-12,"Moldova","H5N1","Backyard",1
+2022-11-12,"Italy","H5N1","Backyard",1
+2022-11-12,"Italy","H5N1","Wild birds",1
+2022-11-12,"Hungary","H5N1","Farm",2
+2022-11-12,"Germany","H5N1","Farm",2
+2022-11-12,"France","H5N1","Farm",2
+2022-11-13,"Italy","H5N1","Farm",1
+2022-11-13,"Ireland","H5N1","Farm",1
+2022-11-14,"The Netherlands","H5N1","Wild birds",14
+2022-11-14,"Hungary","H5N1","Farm",1
+2022-11-14,"Germany","H5N1","Wild birds",4
+2022-11-14,"France","H5N1","Farm",2
+2022-11-14,"France","H5N1","Wild birds",4
+2022-11-14,"Belgium","H5N1","Wild birds",1
+2022-11-15,"Italy","H5N1","Farm",1
+2022-11-15,"Hungary","H5N1","Farm",2
+2022-11-15,"Germany","H5N1","Captive birds",1
+2022-11-15,"Germany","H5N1","Wild birds",1
+2022-11-15,"France","H5N1","Farm",2
+2022-11-16,"The Netherlands","H5N1","Captive birds",1
+2022-11-16,"Romania","H5N1","Wild birds",1
+2022-11-16,"Italy","H5N1","Wild birds",1
+2022-11-16,"Ireland","H5N1","Wild birds",1
+2022-11-16,"Hungary","H5N1","Farm",1
+2022-11-16,"Germany","H5N1","Farm",1
+2022-11-16,"Germany","H5N1","Wild birds",3
+2022-11-16,"France","H5N1","Farm",5
+2022-11-16,"France","H5N1","Wild birds",3
+2022-11-16,"Croatia","H5N1","Backyard",1
+2022-11-17,"Romania","H5N1","Wild birds",1
+2022-11-17,"Norway","H5N1","Wild birds",3
+2022-11-17,"Northern Ireland","H5N1","Wild birds",1
+2022-11-17,"Italy","H5N1","Backyard",1
+2022-11-17,"Italy","H5N1","Wild birds",1
+2022-11-17,"Hungary","H5N1","Farm",3
+2022-11-17,"Germany","H5N1","Wild birds",1
+2022-11-17,"France","H5N1","Farm",2
+2022-11-17,"France","H5N1","Wild birds",2
+2022-11-18,"The Netherlands","H5N1","Wild birds",1
+2022-11-18,"Switzerland","H5N1","Captive birds",1
+2022-11-18,"Switzerland","H5N1","Wild birds",1
+2022-11-18,"Slovenia","H5N1","Wild birds",1
+2022-11-18,"Italy","H5N1","Wild birds",2
+2022-11-18,"Hungary","H5N1","Farm",2
+2022-11-18,"Germany","H5N1","Captive birds",1
+2022-11-18,"Germany","H5N1","Wild birds",8
+2022-11-18,"France","H5N1","Farm",1
+2022-11-18,"France","H5N1","Wild birds",1
+2022-11-18,"Belgium","H5N1","Wild birds",6
+2022-11-18,"Belgium","H5","Wild birds",1
+2022-11-19,"The Netherlands","H5N1","Farm",1
+2022-11-19,"Ireland","H5N1","Farm",1
+2022-11-20,"Hungary","H5N1","Farm",5
+2022-11-20,"France","H5N1","Farm",3
+2022-11-21,"The Netherlands","H5N1","Farm",2
+2022-11-21,"Portugal","H5N1","Wild birds",1
+2022-11-21,"Hungary","H5N1","Farm",5
+2022-11-22,"Spain","H5N1","Wild birds",1
+2022-11-22,"Romania","H5N1","Wild birds",2
+2022-11-22,"Italy","H5N1","Wild birds",1
+2022-11-22,"Hungary","H5N1","Farm",1
+2022-11-22,"France","H5N1","Captive birds",3
+2022-11-22,"France","H5N1","Farm",2
+2022-11-22,"France","H5N1","Wild birds",1
+2022-11-22,"Belgium","H5N1","Captive birds",1
+2022-11-23,"The Netherlands","H5N1","Wild birds",2
+2022-11-23,"Slovenia","H5N1","Wild birds",1
+2022-11-23,"Italy","H5N1","Wild birds",2
+2022-11-23,"Hungary","H5N1","Farm",4
+2022-11-23,"Germany","H5N1","Wild birds",2
+2022-11-23,"France","H5N1","Farm",1
+2022-11-23,"Denmark","H5N1","Wild birds",2
+2022-11-23,"Croatia","H5N1","Wild birds",1
+2022-11-24,"Hungary","H5N1","Farm",8
+2022-11-24,"Germany","H5N1","Wild birds",2
+2022-11-24,"France","H5N1","Farm",1
+2022-11-24,"France","H5N1","Wild birds",2
+2022-11-24,"Belgium","H5N1","Wild birds",10
+2022-11-25,"The Netherlands","H5N1","Wild birds",11
+2022-11-25,"Serbia","H5N1","Wild birds",1
+2022-11-25,"Norway","H5N1","Wild birds",1
+2022-11-25,"Italy","H5N1","Backyard",1
+2022-11-25,"Italy","H5N1","Farm",1
+2022-11-25,"Italy","H5N1","Wild birds",1
+2022-11-25,"Ireland","H5N1","Wild birds",1
+2022-11-25,"Hungary","H5N1","Farm",7
+2022-11-25,"Germany","H5N1","Captive birds",2
+2022-11-25,"Germany","H5N1","Farm",1
+2022-11-25,"Germany","H5N1","Wild birds",1
+2022-11-25,"France","H5N1","Captive birds",3
+2022-11-25,"France","H5N1","Farm",1
+2022-11-25,"Belgium","H5N1","Captive birds",1
+2022-11-26,"Italy","H5N1","Wild birds",3
+2022-11-26,"Hungary","H5N1","Farm",1
+2022-11-26,"Germany","H5N1","Captive birds",2
+2022-11-26,"France","H5N1","Farm",1
+2022-11-27,"Germany","H5N1","Captive birds",9
+2022-11-27,"France","H5N1","Captive birds",2
+2022-11-27,"France","H5N1","Farm",3
+2022-11-28,"The Netherlands","H5N1","Wild birds",4
+2022-11-28,"Switzerland","H5N1","Wild birds",1
+2022-11-28,"Spain","H5N1","Wild birds",3
+2022-11-28,"Romania","H5N1","Wild birds",3
+2022-11-28,"Italy","H5N1","Wild birds",1
+2022-11-28,"Hungary","H5N1","Farm",5
+2022-11-28,"Germany","H5N1","Captive birds",9
+2022-11-28,"France","H5N1","Farm",4
+2022-11-28,"Denmark","H5N1","Wild birds",3
+2022-11-29,"Hungary","H5N1","Farm",5
+2022-11-29,"Germany","H5N1","Captive birds",3
+2022-11-29,"Germany","H5N1","Farm",1
+2022-11-29,"France","H5N1","Farm",1
+2022-11-29,"France","H5N1","Wild birds",2
+2022-11-30,"The Netherlands","H5N1","Wild birds",6
+2022-11-30,"Sweden","H5N1","Wild birds",1
+2022-11-30,"Hungary","H5N1","Farm",4
+2022-11-30,"Germany","H5N1","Captive birds",7
+2022-11-30,"Germany","H5N1","Farm",2
+2022-11-30,"France","H5N1","Captive birds",1
+2022-11-30,"France","H5N1","Farm",9
+2022-11-30,"Denmark","H5N1","Wild birds",1
+2022-11-30,"Belgium","H5N1","Wild birds",1
+2022-12-01,"Spain","H5N1","Wild birds",1
+2022-12-01,"Poland","H5N1","Wild birds",1
+2022-12-01,"Italy","H5N1","Farm",1
+2022-12-01,"Hungary","H5N1","Farm",2
+2022-12-01,"Germany","H5N1","Captive birds",6
+2022-12-01,"Germany","H5N1","Wild birds",1
+2022-12-01,"France","H5N1","Farm",7
+2022-12-01,"Denmark","H5N1","Wild birds",5
+2022-12-02,"Poland","H5N1","Wild birds",1
+2022-12-02,"Italy","H5N1","Wild birds",1
+2022-12-02,"Hungary","H5N1","Farm",1
+2022-12-02,"Germany","H5N1","Captive birds",12
+2022-12-02,"France","H5N1","Captive birds",1
+2022-12-02,"France","H5N1","Farm",6
+2022-12-02,"Czech Republic","H5N1","Farm",1
+2022-12-02,"Cyprus","H5N1","Captive birds",1
+2022-12-02,"Cyprus","H5N1","Farm",1
+2022-12-02,"Cyprus","H5N1","Wild birds",1
+2022-12-03,"Hungary","H5N1","Farm",3
+2022-12-03,"Germany","H5N1","Captive birds",1
+2022-12-03,"Germany","H5N1","Farm",1
+2022-12-03,"France","H5N1","Farm",7
+2022-12-04,"Hungary","H5N1","Farm",4
+2022-12-04,"Germany","H5N1","Captive birds",2
+2022-12-04,"Germany","H5N1","Farm",1
+2022-12-05,"The Netherlands","H5N1","Wild birds",1
+2022-12-05,"Sweden","H5N1","Wild birds",1
+2022-12-05,"Germany","H5N1","Captive birds",7
+2022-12-05,"Germany","H5N1","Wild birds",2
+2022-12-05,"France","H5N1","Farm",11
+2022-12-06,"Poland","H5N1","Wild birds",1
+2022-12-06,"Northern Ireland","H5N1","Wild birds",1
+2022-12-06,"Hungary","H5N1","Farm",3
+2022-12-06,"Germany","H5N1","Farm",1
+2022-12-06,"Germany","H5N1","Wild birds",2
+2022-12-06,"France","H5N1","Farm",3
+2022-12-06,"France","H5N1","Wild birds",2
+2022-12-06,"Belgium","H5N1","Wild birds",4
+2022-12-07,"The Netherlands","H5N1","Wild birds",4
+2022-12-07,"Sweden","H5N1","Wild birds",2
+2022-12-07,"Poland","H5N1","Captive birds",1
+2022-12-07,"Poland","H5N1","Farm",1
+2022-12-07,"Northern Ireland","H5N1","Wild birds",1
+2022-12-07,"Italy","H5N1","Farm",1
+2022-12-07,"Italy","H5N1","Wild birds",2
+2022-12-07,"Hungary","H5N1","Farm",4
+2022-12-07,"Germany","H5N1","Captive birds",8
+2022-12-07,"France","H5N1","Farm",23
+2022-12-07,"France","H5N1","Wild birds",2
+2022-12-07,"France","H5","Farm",2
+2022-12-08,"Switzerland","H5N1","Wild birds",1
+2022-12-08,"Romania","H5N1","Wild birds",2
+2022-12-08,"Hungary","H5N1","Farm",1
+2022-12-08,"Germany","H5N1","Captive birds",4
+2022-12-08,"Germany","H5N1","Wild birds",4
+2022-12-08,"France","H5N1","Farm",6
+2022-12-08,"Denmark","H5N1","Wild birds",1
+2022-12-09,"Hungary","H5N1","Farm",1
+2022-12-09,"Germany","H5N1","Captive birds",11
+2022-12-09,"Germany","H5N1","Wild birds",2
+2022-12-09,"France","H5N1","Farm",6
+2022-12-10,"Germany","H5N1","Farm",1
+2022-12-11,"Hungary","H5N1","Farm",1
+2022-12-11,"Germany","H5N1","Captive birds",2
+2022-12-12,"The Netherlands","H5N1","Wild birds",3
+2022-12-12,"Hungary","H5N1","Farm",1
+2022-12-12,"Germany","H5N1","Captive birds",1
+2022-12-12,"Germany","H5N1","Wild birds",1
+2022-12-12,"France","H5N1","Farm",20
+2022-12-12,"France","H5N1","Wild birds",1
+2022-12-12,"Czech Republic","H5N1","Farm",5
+2022-12-13,"Poland","H5N1","Wild birds",2
+2022-12-13,"Ireland","H5N1","Wild birds",1
+2022-12-13,"Germany","H5N1","Captive birds",2
+2022-12-13,"France","H5N1","Farm",7
+2022-12-13,"France","H5N1","Wild birds",3
+2022-12-13,"Denmark","H5N1","Wild birds",1
+2022-12-13,"Belgium","H5N1","Backyard",1
+2022-12-13,"Belgium","H5N1","Captive birds",1
+2022-12-13,"Belgium","H5N1","Wild birds",3
+2022-12-14,"Poland","H5N1","Backyard",2
+2022-12-14,"Poland","H5N1","Wild birds",1
+2022-12-14,"Luxembourg","H5N1","Wild birds",1
+2022-12-14,"Italy","H5N1","Wild birds",4
+2022-12-14,"France","H5N1","Farm",11
+2022-12-14,"France","H5N1","Wild birds",1
+2022-12-15,"Switzerland","H5N1","Wild birds",1
+2022-12-15,"Poland","H5N1","Farm",1
+2022-12-15,"France","H5N1","Captive birds",1
+2022-12-15,"France","H5N1","Farm",3
+2022-12-15,"France","H5N1","Wild birds",1
+2022-12-16,"Spain","H5N1","Wild birds",1
+2022-12-16,"Poland","H5N1","Farm",3
+2022-12-16,"Italy","H5N1","Wild birds",1
+2022-12-16,"Germany","H5N1","Captive birds",2
+2022-12-16,"Germany","H5N1","Farm",1
+2022-12-16,"France","H5N1","Farm",7
+2022-12-16,"Czech Republic","H5N1","Backyard",1
+2022-12-16,"Spain","H5","Wild birds",1
+2022-12-17,"Poland","H5N1","Farm",1
+2022-12-18,"Poland","H5N1","Farm",1
+2022-12-19,"Italy","H5N1","Wild birds",1
+2022-12-19,"Hungary","H5N1","Farm",1
+2022-12-19,"France","H5N1","Captive birds",1
+2022-12-19,"France","H5N1","Farm",14
+2022-12-19,"France","H5N1","Wild birds",1
+2022-12-20,"Spain","H5N1","Farm",1
+2022-12-20,"Poland","H5N1","Farm",3
+2022-12-20,"Hungary","H5N1","Wild birds",1
+2022-12-20,"Germany","H5N1","Captive birds",1
+2022-12-20,"Germany","H5N1","Farm",2
+2022-12-20,"France","H5N1","Captive birds",1
+2022-12-20,"Belgium","H5N1","Captive birds",1
+2022-12-21,"The Netherlands","H5N1","Wild birds",2
+2022-12-21,"Poland","H5N1","Farm",1
+2022-12-21,"Poland","H5N1","Wild birds",1
+2022-12-21,"Germany","H5N1","Captive birds",1
+2022-12-21,"Germany","H5N1","Wild birds",2
+2022-12-21,"France","H5N1","Farm",6
+2022-12-21,"France","H5N1","Wild birds",2
+2022-12-21,"The Netherlands","H5","Captive birds",1
+2022-12-22,"United Kingdom","H5N1","Wild birds",1
+2022-12-22,"Poland","H5N1","Farm",1
+2022-12-22,"Italy","H5N1","Wild birds",2
+2022-12-22,"France","H5N1","Farm",3
+2022-12-22,"France","H5N1","Wild birds",1
+2022-12-22,"Denmark","H5N1","Farm",1
+2022-12-22,NA,"H5N1","Wild birds",1
+2022-12-23,"The Netherlands","H5N2","Wild birds",1
+2022-12-23,"The Netherlands","H5N1","Wild birds",1
+2022-12-23,"Spain","H5N1","Wild birds",1
+2022-12-23,"Poland","H5N1","Farm",4
+2022-12-23,"Italy","H5N1","Farm",1
+2022-12-23,"Germany","H5N1","Farm",1
+2022-12-23,"Germany","H5N1","Wild birds",2
+2022-12-23,"France","H5N1","Captive birds",1
+2022-12-23,"France","H5N1","Wild birds",1
+2022-12-23,"Denmark","H5N1","Wild birds",1
+2022-12-23,"Belgium","H5N1","Captive birds",1
+2022-12-23,"Norway","H5","Wild birds",1
+2022-12-24,"Poland","H5N1","Farm",2
+2022-12-24,"Italy","H5N1","Wild birds",1
+2022-12-24,"France","H5N1","Wild birds",1
+2022-12-25,"Poland","H5N1","Farm",1
+2022-12-25,"Belgium","H5N1","Farm",1
+2022-12-26,"Hungary","H5N1","Farm",1
+2022-12-26,"France","H5N1","Farm",4
+2022-12-27,"Poland","H5N1","Farm",2
+2022-12-27,"Germany","H5N1","Wild birds",1
+2022-12-27,"France","H5N1","Farm",7
+2022-12-27,"France","H5N1","Wild birds",1
+2022-12-28,"Sweden","H5N1","Wild birds",1
+2022-12-28,"Slovenia","H5N1","Wild birds",1
+2022-12-28,"Poland","H5N1","Farm",3
+2022-12-28,"Poland","H5N1","Wild birds",1
+2022-12-28,"France","H5N1","Captive birds",1
+2022-12-28,"France","H5N1","Farm",1
+2022-12-29,"Spain","H5N1","Wild birds",4
+2022-12-29,"Poland","H5N1","Backyard",1
+2022-12-29,"Poland","H5N1","Farm",1
+2022-12-29,"Poland","H5N1","Wild birds",2
+2022-12-29,"Germany","H5N1","Wild birds",1
+2022-12-29,"France","H5N1","Farm",3
+2022-12-29,"France","H5N1","Wild birds",1
+2022-12-29,"Czech Republic","H5N1","Backyard",1
+2022-12-29,"Belgium","H5N1","Farm",1
+2022-12-30,"The Netherlands","H5N1","Wild birds",2
+2022-12-30,"Slovenia","H5N1","Wild birds",1
+2022-12-30,"Poland","H5N1","Farm",4
+2022-12-30,"Poland","H5N1","Wild birds",2
+2022-12-30,"Italy","H5N1","Wild birds",1
+2022-12-30,"Ireland","H5N1","Wild birds",1
+2022-12-30,"Germany","H5N1","Farm",1
+2022-12-30,"France","H5N1","Captive birds",1
+2022-12-30,"France","H5N1","Farm",4
+2022-12-30,"Denmark","H5N1","Wild birds",4
+2022-12-30,"Belgium","H5N1","Wild birds",5
+2022-12-30,"Austria","H5N1","Wild birds",1
+2022-12-31,"Poland","H5N1","Farm",1
+2022-12-31,"Germany","H5N1","Farm",1
+2022-12-31,"Germany","H5N1","Wild birds",2
+2022-12-31,"Denmark","H5N1","Farm",1
+2022-12-31,"Czech Republic","H5N1","Farm",1
+2023-01-02,"Hungary","H5N1","Farm",1
+2023-01-02,"Germany","H5N1","Wild birds",10
+2023-01-02,"France","H5N1","Captive birds",1
+2023-01-02,"France","H5N1","Farm",6
+2023-01-02,"France","H5N1","Wild birds",2
+2023-01-02,"Austria","H5N1","Wild birds",1
+2023-01-03,"Poland","H5N1","Backyard",2
+2023-01-03,"Poland","H5N1","Farm",1
+2023-01-03,"Poland","H5N1","Wild birds",1
+2023-01-03,"Italy","H5N1","Wild birds",2
+2023-01-03,"Germany","H5N1","Wild birds",1
+2023-01-03,"France","H5N1","Farm",1
+2023-01-03,"France","H5N1","Wild birds",1
+2023-01-03,"Denmark","H5N1","Wild birds",3
+2023-01-03,"Czech Republic","H5N1","Backyard",1
+2023-01-03,"Czech Republic","H5N1","Farm",1
+2023-01-03,"Belgium","H5N1","Wild birds",2
+2023-01-03,"Austria","H5N1","Wild birds",2
+2023-01-04,"The Netherlands","H5N1","Captive birds",1
+2023-01-04,"The Netherlands","H5N1","Wild birds",2
+2023-01-04,"Romania","H5N1","Wild birds",1
+2023-01-04,"Italy","H5N1","Wild birds",2
+2023-01-04,"Hungary","H5N1","Wild birds",1
+2023-01-04,"Germany","H5N1","Captive birds",2
+2023-01-04,"Germany","H5N1","Farm",1
+2023-01-04,"Germany","H5N1","Wild birds",1
+2023-01-04,"France","H5N1","Farm",1
+2023-01-04,"Czech Republic","H5N1","Backyard",2
+2023-01-04,"Czech Republic","H5N1","Wild birds",1
+2023-01-04,"Austria","H5N1","Wild birds",3
+2023-01-05,"Slovenia","H5N1","Wild birds",1
+2023-01-05,"Poland","H5N1","Farm",1
+2023-01-05,"Poland","H5N1","Wild birds",2
+2023-01-05,"Italy","H5N1","Wild birds",2
+2023-01-05,"Hungary","H5N1","Farm",1
+2023-01-05,"Hungary","H5N1","Wild birds",1
+2023-01-05,"Germany","H5N1","Wild birds",3
+2023-01-05,"France","H5N1","Farm",1
+2023-01-05,"France","H5N1","Wild birds",2
+2023-01-05,"Czech Republic","H5N1","Backyard",1
+2023-01-05,"Belgium","H5N1","Wild birds",3
+2023-01-06,"Poland","H5N1","Farm",2
+2023-01-06,"Germany","H5N1","Farm",2
+2023-01-06,"Germany","H5N1","Wild birds",16
+2023-01-06,"France","H5N1","Captive birds",2
+2023-01-06,"France","H5N1","Farm",5
+2023-01-06,"France","H5N1","Wild birds",5
+2023-01-06,"Denmark","H5N1","Wild birds",7
+2023-01-06,"Czech Republic","H5N1","Backyard",1
+2023-01-06,"Czech Republic","H5N1","Wild birds",1
+2023-01-08,"Poland","H5N1","Farm",2
+2023-01-09,"The Netherlands","H5N1","Wild birds",6
+2023-01-09,"Sweden","H5N1","Wild birds",1
+2023-01-09,"Spain","H5N1","Wild birds",4
+2023-01-09,"Romania","H5N1","Wild birds",1
+2023-01-09,"Poland","H5N1","Farm",1
+2023-01-09,"Germany","H5N1","Wild birds",1
+2023-01-09,"France","H5N1","Captive birds",2
+2023-01-09,"France","H5N1","Farm",2
+2023-01-09,"France","H5N1","Wild birds",1
+2023-01-09,"Czech Republic","H5N1","Backyard",1
+2023-01-09,"Belgium","H5N1","Wild birds",5
+2023-01-09,"Austria","H5N1","Wild birds",2
+2023-01-10,"Poland","H5N1","Farm",2
+2023-01-10,"Poland","H5N1","Wild birds",1
+2023-01-10,"Italy","H5N1","Wild birds",1
+2023-01-10,"France","H5N1","Farm",1
+2023-01-10,"France","H5N1","Wild birds",7
+2023-01-11,"United Kingdom","H5N1","Wild birds",1
+2023-01-11,"The Netherlands","H5N1","Wild birds",2
+2023-01-11,"Poland","H5N1","Farm",1
+2023-01-11,"Poland","H5N1","Wild birds",2
+2023-01-11,"Hungary","H5N1","Farm",1
+2023-01-11,"Germany","H5N1","Wild birds",2
+2023-01-11,"France","H5N1","Farm",2
+2023-01-11,"Denmark","H5N1","Wild birds",5
+2023-01-12,"Sweden","H5N1","Wild birds",6
+2023-01-12,"Poland","H5N1","Backyard",1
+2023-01-12,"Poland","H5N1","Farm",1
+2023-01-12,"Hungary","H5N1","Captive birds",1
+2023-01-12,"Germany","H5N1","Wild birds",3
+2023-01-12,"France","H5N1","Farm",2
+2023-01-12,"France","H5N1","Wild birds",2
+2023-01-12,"Belgium","H5N1","Farm",1
+2023-01-12,"Belgium","H5N1","Wild birds",4
+2023-01-12,"Austria","H5N1","Wild birds",6
+2023-01-13,"Sweden","H5N1","Wild birds",4
+2023-01-13,"Poland","H5N1","Farm",2
+2023-01-13,"Poland","H5N1","Wild birds",1
+2023-01-13,"Norway","H5N1","Wild birds",4
+2023-01-13,"Germany","H5N1","Captive birds",2
+2023-01-13,"Germany","H5N1","Farm",1
+2023-01-13,"Germany","H5N1","Wild birds",2
+2023-01-13,"France","H5N1","Captive birds",1
+2023-01-13,"France","H5N1","Wild birds",6
+2023-01-13,"Czech Republic","H5N1","Backyard",1
+2023-01-13,"Austria","H5N1","Captive birds",1
+2023-01-15,"Poland","H5N1","Farm",2
+2023-01-15,"Germany","H5N1","Farm",1
+2023-01-16,"The Netherlands","H5N1","Wild birds",7
+2023-01-16,"Romania","H5N1","Wild birds",3
+2023-01-16,"Poland","H5N1","Farm",2
+2023-01-16,"Germany","H5N1","Wild birds",1
+2023-01-16,"France","H5N1","Farm",1
+2023-01-16,"France","H5N1","Wild birds",3
+2023-01-16,"Czech Republic","H5N1","Farm",1
+2023-01-16,"Croatia","H5N1","Wild birds",1
+2023-01-16,"Belgium","H5N1","Wild birds",3
+2023-01-16,"Austria","H5N1","Wild birds",2
+2023-01-17,"The Netherlands","H5N1","Wild birds",1
+2023-01-17,"Slovakia","H5N1","Backyard",1
+2023-01-17,"Poland","H5N1","Farm",6
+2023-01-17,"Norway","H5N1","Wild birds",2
+2023-01-17,"Italy","H5N1","Wild birds",1
+2023-01-17,"Germany","H5N1","Captive birds",2
+2023-01-17,"Germany","H5N1","Farm",2
+2023-01-17,"Denmark","H5N1","Farm",1
+2023-01-17,"Denmark","H5N1","Wild birds",5
+2023-01-17,"Czech Republic","H5N1","Backyard",1
+2023-01-17,"The Netherlands","H5","Farm",1
+2023-01-17,"Austria","H5N1","Wild birds",8
+2023-01-17,"Poland","H5N1","Wild birds",1
+2023-01-18,"Sweden","H5N1","Wild birds",2
+2023-01-18,"Poland","H5N1","Farm",3
+2023-01-18,"Poland","H5N1","Wild birds",1
+2023-01-18,"Ireland","H5N1","Wild birds",1
+2023-01-18,"Germany","H5N1","Wild birds",14
+2023-01-18,"France","H5N1","Farm",4
+2023-01-18,"France","H5N1","Wild birds",2
+2023-01-18,"Austria","H5N1","Wild birds",3
+2023-01-19,"Switzerland","H5N1","Wild birds",2
+2023-01-19,"Romania","H5N1","Wild birds",1
+2023-01-19,"Poland","H5N1","Farm",1
+2023-01-19,"Hungary","H5N1","Wild birds",1
+2023-01-19,"Germany","H5N1","Captive birds",2
+2023-01-19,"Germany","H5N1","Wild birds",6
+2023-01-19,"France","H5N1","Farm",3
+2023-01-19,"France","H5N1","Wild birds",4
+2023-01-19,"Czech Republic","H5N1","Farm",1
+2023-01-19,"Belgium","H5N1","Wild birds",3
+2023-01-19,"Austria","H5N1","Captive birds",2
+2023-01-19,"Austria","H5N1","Farm",1
+2023-01-19,"Austria","H5N1","Wild birds",1
+2023-01-20,"Sweden","H5N1","Wild birds",1
+2023-01-20,"Slovenia","H5N1","Wild birds",1
+2023-01-20,"Slovakia","H5N1","Wild birds",1
+2023-01-20,"Romania","H5N1","Wild birds",2
+2023-01-20,"Poland","H5N1","Farm",2
+2023-01-20,"Poland","H5N1","Wild birds",4
+2023-01-20,"Moldova","H5N1","Backyard",1
+2023-01-20,"Hungary","H5N1","Wild birds",1
+2023-01-20,"Germany","H5N1","Captive birds",3
+2023-01-20,"Germany","H5N1","Wild birds",5
+2023-01-20,"France","H5N1","Wild birds",1
+2023-01-20,"Belgium","H5N1","Farm",1
+2023-01-20,"Austria","H5N1","Wild birds",8
+2023-01-21,"France","H5N1","Captive birds",1
+2023-01-21,"France","H5N1","Farm",1
+2023-01-22,"Poland","H5N1","Farm",2
+2023-01-23,"The Netherlands","H5N1","Wild birds",1
+2023-01-23,"Serbia","H5N1","Wild birds",1
+2023-01-23,"Germany","H5N1","Wild birds",2
+2023-01-23,"France","H5N1","Captive birds",1
+2023-01-23,"France","H5N1","Farm",1
+2023-01-23,"France","H5N1","Wild birds",1
+2023-01-23,"Belgium","H5N1","Wild birds",4
+2023-01-23,"Germany","H5","Wild birds",1
+2023-01-23,"Austria","H5N1","Wild birds",3
+2023-01-24,"Germany","H5N1","Captive birds",1
+2023-01-24,"France","H5N1","Wild birds",5
+2023-01-24,"Denmark","H5N1","Wild birds",1
+2023-01-24,"Czech Republic","H5N1","Wild birds",1
+2023-01-24,"Croatia","H5N1","Wild birds",1
+2023-01-24,"Belgium","H5N1","Wild birds",2
+2023-01-24,"Germany","H5","Wild birds",1
+2023-01-24,"Bulgaria","H5","Farm",1
+2023-01-24,"Austria","H5N1","Wild birds",7
+2023-01-24,"Austria","H5","Wild birds",1
+2023-01-25,"The Netherlands","H5N1","Farm",1
+2023-01-25,"Poland","H5N1","Backyard",2
+2023-01-25,"Poland","H5N1","Farm",1
+2023-01-25,"Germany","H5N1","Wild birds",10
+2023-01-25,"France","H5N1","Captive birds",1
+2023-01-25,"France","H5N1","Farm",2
+2023-01-25,"France","H5N1","Wild birds",1
+2023-01-25,"Denmark","H5N1","Wild birds",1
+2023-01-25,"Belgium","H5N1","Farm",1
+2023-01-25,"Austria","H5N1","Farm",1
+2023-01-25,"Austria","H5N1","Wild birds",1
+2023-01-25,"Austria","H5","Wild birds",1
+2023-01-26,"The Netherlands","H5N1","Farm",1
+2023-01-26,"Sweden","H5N1","Captive birds",1
+2023-01-26,"Sweden","H5N1","Wild birds",2
+2023-01-26,"Spain","H5N1","Wild birds",3
+2023-01-26,"Slovakia","H5N1","Captive birds",1
+2023-01-26,"Slovakia","H5N1","Wild birds",2
+2023-01-26,"Poland","H5N1","Wild birds",1
+2023-01-26,"Germany","H5N1","Captive birds",1
+2023-01-26,"Germany","H5N1","Wild birds",10
+2023-01-26,"France","H5N1","Captive birds",2
+2023-01-26,"Czech Republic","H5N1","Farm",1
+2023-01-26,"Belgium","H5N1","Wild birds",6
+2023-01-27,"The Netherlands","H5N1","Wild birds",3
+2023-01-27,"Switzerland","H5N1","Wild birds",4
+2023-01-27,"Romania","H5N1","Farm",2
+2023-01-27,"Poland","H5N1","Farm",2
+2023-01-27,"Poland","H5N1","Wild birds",2
+2023-01-27,"Luxembourg","H5N1","Captive birds",1
+2023-01-27,"Luxembourg","H5N1","Farm",1
+2023-01-27,"Italy","H5N1","Wild birds",1
+2023-01-27,"Ireland","H5N1","Wild birds",1
+2023-01-27,"Germany","H5N1","Captive birds",1
+2023-01-27,"Germany","H5N1","Wild birds",3
+2023-01-27,"France","H5N1","Wild birds",4
+2023-01-27,"Denmark","H5N1","Wild birds",2
+2023-01-27,"Germany","H5","Wild birds",1
+2023-01-27,"Austria","H5N1","Wild birds",5
+2023-01-27,"Austria","H5","Wild birds",1
+2023-01-28,"Romania","H5N1","Farm",1
+2023-01-30,"Romania","H5N1","Wild birds",1
+2023-01-30,"Germany","H5N1","Wild birds",1
+2023-01-30,"France","H5N1","Wild birds",7
+2023-01-31,"Turkey","H5N1","Farm",1
+2023-01-31,"Sweden","H5N1","Wild birds",1
+2023-01-31,"Slovakia","H5N1","Backyard",1
+2023-01-31,"Slovakia","H5N1","Farm",1
+2023-01-31,"Slovakia","H5N1","Wild birds",1
+2023-01-31,"Germany","H5N1","Farm",1
+2023-01-31,"France","H5N1","Farm",1
+2023-01-31,"France","H5N1","Wild birds",8
+2023-01-31,"Czech Republic","H5N1","Backyard",1
+2023-01-31,"Belgium","H5N1","Wild birds",10
+2023-02-01,"The Netherlands","H5N1","Wild birds",1
+2023-02-01,"Switzerland","H5N1","Wild birds",1
+2023-02-01,"Slovenia","H5N1","Wild birds",1
+2023-02-01,"Norway","H5N1","Wild birds",3
+2023-02-01,"Germany","H5N1","Wild birds",4
+2023-02-01,"France","H5N1","Wild birds",9
+2023-02-01,"Czech Republic","H5N1","Backyard",1
+2023-02-01,"Belgium","H5N1","Wild birds",3
+2023-02-01,"Austria","H5N1","Wild birds",3
+2023-02-01,"Austria","H5","Wild birds",1
+2023-02-02,"United Kingdom","H5N1","Wild birds",1
+2023-02-02,"The Netherlands","H5N1","Wild birds",1
+2023-02-02,"Sweden","H5N1","Wild birds",2
+2023-02-02,"Romania","H5N1","Wild birds",1
+2023-02-02,"Germany","H5N1","Captive birds",1
+2023-02-02,"Germany","H5N1","Wild birds",7
+2023-02-02,"France","H5N1","Captive birds",4
+2023-02-02,"France","H5N1","Wild birds",6
+2023-02-02,"Belgium","H5N1","Wild birds",1
+2023-02-02,"Austria","H5N1","Farm",1
+2023-02-02,"Austria","H5N1","Wild birds",3
+2023-02-02,"Austria","H5","Wild birds",1
+2023-02-03,"Slovenia","H5N1","Captive birds",1
+2023-02-03,"Slovenia","H5N1","Wild birds",1
+2023-02-03,"Romania","H5N1","Wild birds",1
+2023-02-03,"Poland","H5N1","Wild birds",7
+2023-02-03,"Norway","H5N1","Wild birds",1
+2023-02-03,"Italy","H5N1","Wild birds",2
+2023-02-03,"Ireland","H5N1","Wild birds",1
+2023-02-03,"Germany","H5N1","Captive birds",2
+2023-02-03,"Germany","H5N1","Wild birds",1
+2023-02-03,"France","H5N1","Captive birds",1
+2023-02-03,"France","H5N1","Farm",1
+2023-02-03,"Denmark","H5N1","Wild birds",3
+2023-02-03,"Czech Republic","H5N1","Wild birds",1
+2023-02-03,"Belgium","H5N1","Wild birds",3
+2023-02-04,"Poland","H5N1","Farm",1
+2023-02-05,"Poland","H5N1","Farm",1
+2023-02-06,"Germany","H5N1","Wild birds",17
+2023-02-06,"France","H5N1","Farm",1
+2023-02-06,"Denmark","H5N1","Wild birds",4
+2023-02-06,"Austria","H5N1","Wild birds",1
+2023-02-07,"Switzerland","H5N1","Captive birds",1
+2023-02-07,"Switzerland","H5N1","Wild birds",1
+2023-02-07,"Sweden","H5N1","Wild birds",4
+2023-02-07,"Slovenia","H5N1","Captive birds",1
+2023-02-07,"Poland","H5N1","Farm",1
+2023-02-07,"Hungary","H5N1","Farm",1
+2023-02-07,"Germany","H5N1","Wild birds",7
+2023-02-07,"France","H5N1","Captive birds",1
+2023-02-07,"France","H5N1","Farm",2
+2023-02-07,"Czech Republic","H5N1","Wild birds",1
+2023-02-07,"Belgium","H5N1","Wild birds",14
+2023-02-07,"Austria","H5N1","Wild birds",1
+2023-02-08,"The Netherlands","H5N1","Wild birds",11
+2023-02-08,"Romania","H5N1","Wild birds",1
+2023-02-08,"Poland","H5N1","Wild birds",3
+2023-02-08,"Hungary","H5N1","Wild birds",1
+2023-02-08,"Germany","H5N1","Wild birds",12
+2023-02-08,"France","H5N1","Farm",2
+2023-02-08,"Denmark","H5N1","Wild birds",2
+2023-02-08,"Belgium","H5N1","Captive birds",1
+2023-02-08,"Austria","H5N1","Wild birds",1
+2023-02-08,"Austria","H5","Wild birds",1
+2023-02-09,"Sweden","H5N1","Wild birds",1
+2023-02-09,"Spain","H5N1","Wild birds",1
+2023-02-09,"Poland","H5N1","Farm",1
+2023-02-09,"Italy","H5N1","Wild birds",1
+2023-02-09,"Germany","H5N1","Captive birds",1
+2023-02-09,"Germany","H5N1","Wild birds",8
+2023-02-09,"Belgium","H5N1","Wild birds",12
+2023-02-09,"Austria","H5N1","Wild birds",1
+2023-02-10,"Sweden","H5N1","Wild birds",1
+2023-02-10,"Spain","H5N1","Farm",1
+2023-02-10,"Poland","H5N1","Farm",1
+2023-02-10,"Italy","H5N1","Wild birds",12
+2023-02-10,"Hungary","H5N1","Wild birds",1
+2023-02-10,"Germany","H5N1","Captive birds",1
+2023-02-10,"Germany","H5N1","Wild birds",5
+2023-02-10,"France","H5N1","Farm",2
+2023-02-10,"Belgium","H5N1","Captive birds",1
+2023-02-10,"Belgium","H5N1","Wild birds",10
+2023-02-10,"Austria","H5N1","Captive birds",1
+2023-02-10,"Austria","H5N1","Wild birds",1
+2023-02-10,"Poland","H5N1","Wild birds",1
+2023-02-11,"Poland","H5N1","Farm",4
+2023-02-12,"Poland","H5N1","Backyard",2
+2023-02-13,"The Netherlands","H5N1","Wild birds",10
+2023-02-13,"Poland","H5N1","Farm",2
+2023-02-13,"Italy","H5N1","Wild birds",2
+2023-02-13,"Germany","H5N1","Wild birds",19
+2023-02-14,"Hungary","H5N1","Farm",1
+2023-02-14,"Germany","H5N1","Wild birds",1
+2023-02-14,"Denmark","H5N1","Wild birds",4
+2023-02-15,"Italy",NA,"Wild birds",1
+2022-01-12,"USA","EA H5","Wild birds",1
+2022-01-12,"USA","EA H5N1","Wild birds",1
+2022-01-13,"USA","EA H5N1","Wild birds",2
+2022-01-16,"USA","EA H5","Wild birds",2
+2022-01-20,"USA","EA H5","Wild birds",13
+2022-01-20,"USA","EA H5N1","Wild birds",24
+2022-01-26,"USA","EA H5","Wild birds",30
+2022-01-26,"USA","EA H5N1","Wild birds",7
+2022-02-01,"USA","EA H5","Wild birds",4
+2022-02-01,"USA","EA H5N1","Wild birds",6
+2022-02-02,"USA","EA H5N1","Wild birds",1
+2022-02-08,"USA","EA H5","Wild birds",18
+2022-02-08,"USA","EA H5N1","Wild birds",7
+2022-02-09,"USA","EA H5","Wild birds",19
+2022-02-09,"USA","EA H5N1","Wild birds",4
+2022-02-11,"USA","EA H5N1","Wild birds",1
+2022-02-16,"USA","EA H5","Wild birds",74
+2022-02-16,"USA","EA H5N1","Captive birdss",2
+2022-02-16,"USA","EA H5N1","Wild birds",33
+2022-02-17,"USA","EA H5","Wild birds",1
+2022-02-17,"USA","EA H5N1","Wild birds",3
+2022-02-17,"USA","EA/AM H5N1","Wild birds",2
+2022-02-18,"USA","EA H5","Wild birds",2
+2022-02-18,"USA","EA/AM H5N1","Wild birds",2
+2022-02-23,"USA","EA H5","Wild birds",33
+2022-02-23,"USA","EA H5N1","Wild birds",12
+2022-02-24,"USA","EA H5","Captive birdss",1
+2022-02-26,"USA","EA H5N1","Captive birdss",2
+2022-02-26,"USA","EA H5N1","Wild birds",1
+2022-02-26,"USA","EA/AM H5N1","Captive birdss",1
+2022-02-26,"USA","EA/AM H5N1","Wild birds",2
+2022-03-01,"USA","EA H5","Wild birds",1
+2022-03-01,"USA","EA H5N1","Wild birds",4
+2022-03-01,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-02,"USA","EA H5N1","Wild birds",3
+2022-03-02,"USA","EA/AM H5N1","Captive birdss",3
+2022-03-04,"USA","EA H5","Wild birds",1
+2022-03-04,"USA","EA H5N1","Wild birds",1
+2022-03-04,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-04,"USA","EA/AM H5N1","Wild birds",11
+2022-03-06,"USA","EA/AM H5N1","Wild birds",1
+2022-03-08,"USA","EA H5","Wild birds",24
+2022-03-08,"USA","EA H5N1","Wild birds",10
+2022-03-08,"USA","EA/AM H5N1","Wild birds",1
+2022-03-09,"USA","EA H5","Captive birdss",1
+2022-03-09,"USA","EA H5","Wild birds",2
+2022-03-09,"USA","EA H5N1","Captive birdss",4
+2022-03-09,"USA","EA H5N1","Wild birds",5
+2022-03-09,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-09,"USA","EA/AM H5N1","Wild birds",1
+2022-03-10,"USA","EA H5N1","Captive birdss",1
+2022-03-10,"USA","EA H5N1","Wild birds",3
+2022-03-10,"USA","EA/AM H5N1","Wild birds",1
+2022-03-11,"USA","EA H5N1","Captive birdss",2
+2022-03-11,"USA","EA/AM H5N1","Captive birdss",2
+2022-03-11,"USA","EA/AM H5N1","Wild birds",3
+2022-03-14,"USA","EA H5N1","Wild birds",1
+2022-03-14,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-14,"USA","EA/AM H5N1","Wild birds",2
+2022-03-15,"USA","EA H5","Wild birds",2
+2022-03-15,"USA","EA H5N1","Wild birds",5
+2022-03-16,"USA","EA H5","Wild birds",4
+2022-03-16,"USA","EA H5N1","Wild birds",9
+2022-03-16,"USA","EA/AM H5N1","Wild birds",14
+2022-03-18,"USA","EA H5","Captive birdss",1
+2022-03-18,"USA","EA H5","Wild birds",4
+2022-03-18,"USA","EA H5N1","Wild birds",13
+2022-03-18,"USA","EA/AM H5N1","Wild birds",25
+2022-03-21,"USA","EA H5N1","Wild birds",2
+2022-03-21,"USA","EA/AM H5N1","Wild birds",1
+2022-03-22,"USA","EA H5","Wild birds",2
+2022-03-22,"USA","EA H5N1","Captive birdss",1
+2022-03-22,"USA","EA H5N1","Wild birds",10
+2022-03-22,"USA","EA/AM H5N1","Wild birds",8
+2022-03-24,"USA","EA H5","Wild birds",1
+2022-03-24,"USA","EA H5N1","Captive birdss",1
+2022-03-24,"USA","EA H5N1","Wild birds",16
+2022-03-24,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-24,"USA","EA/AM H5N1","Wild birds",15
+2022-03-25,"USA","EA H5N1","Wild birds",3
+2022-03-27,"USA","EA/AM H5N1","Wild birds",2
+2022-03-28,"USA","EA H5","Wild birds",3
+2022-03-28,"USA","EA H5EA/AM H5N1","Wild birds",1
+2022-03-28,"USA","EA H5N1","Captive birdss",10
+2022-03-28,"USA","EA H5N1","Wild birds",10
+2022-03-28,"USA","EA/AM H5N1","Wild birds",20
+2022-03-29,"USA","EA H5N1","Captive birdss",2
+2022-03-29,"USA","EA H5N1","Wild birds",1
+2022-03-29,"USA","EA/AM H5N1","Captive birdss",1
+2022-03-29,"USA","EA/AM H5N1","Wild birds",10
+2022-03-30,"USA","EA H5","Wild birds",43
+2022-03-30,"USA","EA H5N1","Captive birdss",1
+2022-03-30,"USA","EA H5N1","Wild birds",1
+2022-03-30,"USA","EA/AM H5N1","Captive birdss",2
+2022-03-30,"USA","EA/AM H5N1","Wild birds",2
+2022-03-31,"USA","EA H5","Wild birds",4
+2022-03-31,"USA","EA H5N1","Wild birds",48
+2022-03-31,"USA","EA/AM H5N1","Wild birds",9
+2022-04-01,"USA","EA H5","Wild birds",3
+2022-04-01,"USA","EA H5N1","Wild birds",2
+2022-04-01,"USA","EA/AM H5N1","Captive birdss",1
+2022-04-01,"USA","EA/AM H5N1","Wild birds",11
+2022-04-05,"USA","EA H5","Wild birds",2
+2022-04-05,"USA","EA H5N1","Captive birdss",2
+2022-04-05,"USA","EA H5N1","Wild birds",5
+2022-04-05,"USA","EA/AM H5N1","Captive birdss",7
+2022-04-05,"USA","EA/AM H5N1","Wild birds",6
+2022-04-06,"USA","EA H5","Captive birdss",1
+2022-04-06,"USA","EA H5","Wild birds",5
+2022-04-06,"USA","EA H5N1","Captive birdss",1
+2022-04-06,"USA","EA H5N1","Wild birds",18
+2022-04-06,"USA","EA/AM H5N1","Captive birdss",1
+2022-04-06,"USA","EA/AM H5N1","Wild birds",6
+2022-04-07,"USA","EA H5","Captive birdss",1
+2022-04-07,"USA","EA H5N1","Captive birdss",2
+2022-04-07,"USA","EA H5N1","Wild birds",1
+2022-04-07,"USA","EA/AM H5N1","Captive birdss",1
+2022-04-07,"USA","EA/AM H5N1","Wild birds",5
+2022-04-08,"USA","EA H5","Wild birds",1
+2022-04-08,"USA","EA H5N1","Wild birds",9
+2022-04-08,"USA","EA/AM H5N1","Wild birds",8
+2022-04-12,"USA","EA H5","Captive birdss",3
+2022-04-12,"USA","EA H5","Wild birds",2
+2022-04-12,"USA","EA H5N1","Captive birdss",9
+2022-04-12,"USA","EA H5N1","Wild birds",32
+2022-04-12,"USA","EA/AM H5N1","Captive birdss",4
+2022-04-12,"USA","EA/AM H5N1","Wild birds",15
+2022-04-12,"USA",NA,"Wild birds",1
+2022-04-14,"USA","EA H5","Wild birds",1
+2022-04-14,"USA","EA H5N1","Wild birds",41
+2022-04-14,"USA","EA/AM H5N1","Captive birdss",4
+2022-04-14,"USA","EA/AM H5N1","Wild birds",16
+2022-04-15,"USA","EA H5","Wild birds",5
+2022-04-15,"USA","EA H5N1","Captive birdss",1
+2022-04-15,"USA","EA H5N1","Wild birds",26
+2022-04-15,"USA","EA/AM H5N1","Captive birdss",2
+2022-04-15,"USA","EA/AM H5N1","Wild birds",21
+2022-04-18,"USA","EA H5","Captive birdss",1
+2022-04-18,"USA","EA H5","Wild birds",1
+2022-04-18,"USA","EA H5N1","Wild birds",7
+2022-04-18,"USA","EA/AM H5N1","Captive birdss",1
+2022-04-19,"USA","EA H5","Wild birds",5
+2022-04-19,"USA","EA H5N1","Wild birds",60
+2022-04-19,"USA","EA/AM H5N1","Captive birdss",6
+2022-04-19,"USA","EA/AM H5N1","Wild birds",6
+2022-04-20,"USA","EA H5","Wild birds",1
+2022-04-20,"USA","EA H5N1","Wild birds",11
+2022-04-20,"USA","EA/AM H5N1","Captive birdss",14
+2022-04-20,"USA","EA/AM H5N1","Wild birds",9
+2022-04-21,"USA","EA H5","Captive birdss",3
+2022-04-21,"USA","EA H5N1","Captive birdss",7
+2022-04-21,"USA","EA H5N1","Wild birds",14
+2022-04-21,"USA","EA/AM H5N1","Captive birdss",2
+2022-04-21,"USA","EA/AM H5N1","Wild birds",7
+2022-04-22,"USA","EA/AM H5N1","Wild birds",2
+2022-04-25,"USA","EA H5","Wild birds",2
+2022-04-26,"USA","EA H5","Captive birdss",2
+2022-04-26,"USA","EA H5","Wild birds",5
+2022-04-26,"USA","EA H5N1","Captive birdss",4
+2022-04-26,"USA","EA H5N1","Wild birds",28
+2022-04-26,"USA","EA/AM H5N1","Wild birds",30
+2022-04-27,"USA","EA/AM H5N1","Wild birds",1
+2022-04-28,"USA","EA H5","Wild birds",1
+2022-04-28,"USA","EA H5N1","Captive birdss",1
+2022-04-28,"USA","EA H5N1","Wild birds",5
+2022-04-28,"USA","EA/AM H5N1","Captive birdss",19
+2022-04-28,"USA","EA/AM H5N1","Wild birds",16
+2022-04-29,"USA","EA H5N1","Wild birds",24
+2022-04-29,"USA","EA/AM H5N1","Captive birdss",6
+2022-05-02,"USA","EA H5","Wild birds",5
+2022-05-02,"USA","EA H5N1","Captive birdss",3
+2022-05-02,"USA","EA H5N1","Wild birds",13
+2022-05-02,"USA","EA/AM H5N1","Captive birdss",10
+2022-05-02,"USA","EA/AM H5N1","Wild birds",5
+2022-05-03,"USA","EA H5","Wild birds",2
+2022-05-03,"USA","EA H5N1","Captive birdss",1
+2022-05-03,"USA","EA H5N1","Wild birds",29
+2022-05-03,"USA","EA/AM H5N1","Captive birdss",7
+2022-05-03,"USA","EA/AM H5N1","Wild birds",4
+2022-05-04,"USA","EA H5N1","Captive birdss",2
+2022-05-04,"USA","EA H5N1","Wild birds",15
+2022-05-04,"USA","EA/AM H5N1","Captive birdss",6
+2022-05-04,"USA","EA/AM H5N1","Wild birds",3
+2022-05-05,"USA","EA H5","Captive birdss",3
+2022-05-05,"USA","EA H5","Wild birds",7
+2022-05-05,"USA","EA H5N1","Captive birdss",1
+2022-05-05,"USA","EA H5N1","Wild birds",40
+2022-05-05,"USA","EA/AM H5N1","Captive birdss",18
+2022-05-05,"USA","EA/AM H5N1","Wild birds",11
+2022-05-05,"USA","H5N1","Mammals",2
+2022-05-06,"USA","EA H5","Wild birds",1
+2022-05-06,"USA","EA H5N1","Captive birdss",11
+2022-05-06,"USA","EA H5N1","Wild birds",13
+2022-05-06,"USA","EA/AM H5N1","Captive birdss",17
+2022-05-06,"USA","EA/AM H5N1","Wild birds",9
+2022-05-06,"USA","H5N1","Mammals",3
+2022-05-09,"USA","EA H5N1","Captive birdss",1
+2022-05-09,"USA","EA H5N1","Wild birds",16
+2022-05-09,"USA","EA/AM H5N1","Captive birdss",4
+2022-05-09,"USA","EA/AM H5N1","Wild birds",8
+2022-05-10,"USA","EA H5N1","Captive birdss",1
+2022-05-10,"USA","EA H5N1","Wild birds",1
+2022-05-10,"USA","EA/AM H5N1","Captive birdss",4
+2022-05-10,"USA","H5N1","Mammals",1
+2022-05-11,"USA","EA/AM H5N1","Wild birds",7
+2022-05-11,"USA","H5N1","Mammals",5
+2022-05-12,"USA","EA H5","Wild birds",1
+2022-05-12,"USA","EA H5N1","Captive birdss",1
+2022-05-12,"USA","EA H5N1","Wild birds",32
+2022-05-12,"USA","EA/AM H5N1","Captive birdss",17
+2022-05-12,"USA","EA/AM H5N1","Wild birds",7
+2022-05-12,"USA","H5N1","Mammals",4
+2022-05-13,"USA","EA H5","Wild birds",1
+2022-05-13,"USA","EA H5N1","Captive birdss",5
+2022-05-13,"USA","EA H5N1","Wild birds",36
+2022-05-13,"USA","EA/AM H5N1","Captive birdss",11
+2022-05-13,"USA","EA/AM H5N1","Wild birds",9
+2022-05-13,"USA","H5N1","Mammals",7
+2022-05-16,"USA","EA H5","Wild birds",1
+2022-05-16,"USA","EA/AM H5N1","Wild birds",11
+2022-05-16,"USA","H5N1","Mammals",5
+2022-05-17,"USA","EA H5","Wild birds",2
+2022-05-17,"USA","EA H5N1","Captive birdss",2
+2022-05-17,"USA","EA H5N1","Wild birds",20
+2022-05-17,"USA","EA/AM H5N1","Captive birdss",3
+2022-05-17,"USA","EA/AM H5N1","Wild birds",13
+2022-05-18,"USA","EA H5N1","Captive birdss",2
+2022-05-18,"USA","EA H5N1","Wild birds",17
+2022-05-18,"USA","EA/AM H5N1","Wild birds",5
+2022-05-18,"USA","H5N1","Mammals",1
+2022-05-19,"USA","EA H5N1","Captive birdss",2
+2022-05-19,"USA","EA H5N1","Wild birds",32
+2022-05-19,"USA","EA/AM H5N1","Captive birdss",2
+2022-05-19,"USA","EA/AM H5N1","Wild birds",1
+2022-05-19,"USA","H5N1","Mammals",1
+2022-05-20,"USA","EA H5N1","Captive birdss",3
+2022-05-20,"USA","EA H5N1","Wild birds",27
+2022-05-20,"USA","EA/AM H5N1","Captive birdss",2
+2022-05-20,"USA","EA/AM H5N1","Wild birds",7
+2022-05-23,"USA","EA H5N1","Captive birdss",2
+2022-05-23,"USA","EA H5N1","Wild birds",16
+2022-05-23,"USA","EA/AM H5N1","Captive birdss",1
+2022-05-23,"USA","EA/AM H5N1","Wild birds",5
+2022-05-24,"USA","EA H5N1","Captive birdss",1
+2022-05-24,"USA","EA H5N1","Wild birds",3
+2022-05-24,"USA","EA/AM H5N1","Wild birds",2
+2022-05-24,"USA","H5N1","Mammals",2
+2022-05-25,"USA","EA H5N1","Captive birdss",1
+2022-05-25,"USA","EA H5N1","Wild birds",13
+2022-05-25,"USA","EA/AM H5N1","Wild birds",2
+2022-05-25,"USA","EAH5","Captive birdss",1
+2022-05-25,"USA","H5N1","Mammals",1
+2022-05-26,"USA","EA H5N1","Captive birdss",1
+2022-05-26,"USA","EA H5N1","Wild birds",14
+2022-05-26,"USA","EA/AM H5N1","Captive birdss",5
+2022-05-26,"USA","EA/AM H5N1","Wild birds",2
+2022-05-27,"USA","EA H5N1","Captive birdss",1
+2022-05-27,"USA","EA H5N1","Wild birds",15
+2022-05-27,"USA","EA/AM H5N1","Wild birds",1
+2022-05-27,"USA","H5N1","Mammals",3
+2022-05-31,"USA","EA H5N1","Captive birdss",2
+2022-05-31,"USA","EA H5N1","Wild birds",22
+2022-05-31,"USA","EA/AM H5N1","Captive birdss",1
+2022-05-31,"USA","EA/AM H5N1","Wild birds",3
+2022-05-31,"USA","H5N1","Mammals",2
+2022-06-01,"USA","EA H5N1","Wild birds",15
+2022-06-02,"USA","EA H5N1","Wild birds",14
+2022-06-02,"USA","EA/AM H5N1","Wild birds",4
+2022-06-02,"USA","H5N1","Mammals",1
+2022-06-03,"USA","EA H5N1","Captive birdss",1
+2022-06-03,"USA","EA H5N1","Wild birds",6
+2022-06-03,"USA","EA/AM H5N1","Captive birdss",2
+2022-06-03,"USA","EA/AM H5N1","Wild birds",11
+2022-06-03,"USA","H5N1","Mammals",1
+2022-06-07,"USA","EA H5N1","Captive birdss",1
+2022-06-07,"USA","EA H5N1","Wild birds",11
+2022-06-07,"USA","EA/AM H5N1","Captive birdss",1
+2022-06-07,"USA","EA/AM H5N1","Wild birds",4
+2022-06-07,"USA","H5N1","Mammals",1
+2022-06-08,"USA","EA H5N1","Wild birds",9
+2022-06-08,"USA","EA/AM H5N1","Wild birds",23
+2022-06-08,"USA","H5N1","Mammals",2
+2022-06-09,"USA","EA H5N1","Wild birds",7
+2022-06-09,"USA","EA/AM H5N1","Captive birdss",1
+2022-06-09,"USA","EA/AM H5N1","Wild birds",3
+2022-06-09,"USA","H5N1","Mammals",4
+2022-06-10,"USA","EA H5N1","Wild birds",8
+2022-06-10,"USA","EA/AM H5N1","Wild birds",19
+2022-06-14,"USA","EA H5N1","Wild birds",24
+2022-06-14,"USA","EA/AM H5N1","Captive birdss",1
+2022-06-14,"USA","EA/AM H5N1","Wild birds",4
+2022-06-14,"USA","H5N1","Mammals",4
+2022-06-15,"USA","EA H5N1","Wild birds",7
+2022-06-15,"USA","EA/AM H5N1","Wild birds",6
+2022-06-16,"USA","EA H5N1","Wild birds",2
+2022-06-16,"USA","EA/AM H5N1","Wild birds",9
+2022-06-17,"USA","EA H5N1","Wild birds",1
+2022-06-17,"USA","EA/AM H5N1","Wild birds",8
+2022-06-17,"USA","H5N1","Mammals",4
+2022-06-21,"USA","EA/AM H5N1","Wild birds",6
+2022-06-21,"USA","H5N1","Mammals",1
+2022-06-22,"USA","EA H5N1","Wild birds",1
+2022-06-22,"USA","EA/AM H5N1","Captive birdss",1
+2022-06-22,"USA","EA/AM H5N1","Wild birds",4
+2022-06-22,"USA","H5N1","Mammals",2
+2022-06-24,"USA","EA H5","Wild birds",1
+2022-06-24,"USA","EA H5N1","Captive birdss",1
+2022-06-24,"USA","EA H5N1","Wild birds",22
+2022-06-24,"USA","EA/AM H5N1","Wild birds",2
+2022-06-24,"USA","H5N1","Mammals",2
+2022-06-28,"USA","EA H5N1","Wild birds",1
+2022-06-28,"USA","EA/AM H5N1","Wild birds",4
+2022-06-29,"USA","EA H5N1","Wild birds",2
+2022-06-29,"USA","EA/AM H5N1","Wild birds",10
+2022-06-29,"USA","H5N1","Mammals",1
+2022-07-01,"USA","H5N1","Mammals",4
+2022-07-06,"USA","EA /AM H5N1","Wild birds",1
+2022-07-06,"USA","EA H5N1","Captive birdss",1
+2022-07-06,"USA","EA H5N1","Wild birds",26
+2022-07-06,"USA","EA/AM H5N1","Mammals",1
+2022-07-06,"USA","EA/AM H5N1","Wild birds",8
+2022-07-07,"USA","EA H5N1","Wild birds",8
+2022-07-07,"USA","EA/AM H5N1","Mammals",1
+2022-07-07,"USA","EA/AM H5N1","Wild birds",1
+2022-07-08,"USA","EA H5N1","Wild birds",4
+2022-07-08,"USA","EA/AM H5N1","Wild birds",1
+2022-07-11,"USA","EA H5","Wild birds",1
+2022-07-11,"USA","EA H5N1","Captive birdss",1
+2022-07-11,"USA","EA H5N1","Wild birds",5
+2022-07-11,"USA","EA/AM H5N1","Wild birds",22
+2022-07-11,"USA","H5N1","Mammals",6
+2022-07-12,"USA","EA H5N1","Captive birdss",1
+2022-07-12,"USA","EA/AM H5N1","Wild birds",2
+2022-07-14,"USA","EA H5N1","Wild birds",2
+2022-07-14,"USA","EA/AM H5N1","Wild birds",10
+2022-07-15,"USA","EA H5N1","Wild birds",4
+2022-07-15,"USA","EA/AM H5N1","Wild birds",7
+2022-07-18,"USA","EA H5N1","Wild birds",8
+2022-07-18,"USA","EA/AM H5N1","Wild birds",6
+2022-07-18,"USA","H5N1","Mammals",1
+2022-07-19,"USA","EA/AM H5N1","Wild birds",2
+2022-07-20,"USA","EA H5N1","Wild birds",2
+2022-07-20,"USA","EA/AM H5N1","Wild birds",3
+2022-07-21,"USA","EA H5N1","Captive birdss",2
+2022-07-21,"USA","EA H5N1","Wild birds",1
+2022-07-21,"USA","EA/AM H5N1","Wild birds",4
+2022-07-22,"USA","EA H5N1","Wild birds",1
+2022-07-22,"USA","EA/AM H5N1","Wild birds",1
+2022-07-25,"USA","EA H5N1","Wild birds",26
+2022-07-25,"USA","EA/AM H5N1","Wild birds",7
+2022-07-25,"USA","H5N1","Mammals",6
+2022-07-27,"USA","EA H5N1","Wild birds",1
+2022-07-27,"USA","EA/AM H5","Wild birds",1
+2022-07-27,"USA","EA/AM H5N1","Wild birds",3
+2022-07-28,"USA","EA H5N1","Wild birds",4
+2022-07-28,"USA","EA/AM H5N1","Wild birds",6
+2022-07-29,"USA","EA H5N1","Wild birds",4
+2022-07-29,"USA","EA/AM H5N1","Wild birds",3
+2022-08-01,"USA","EA H5N1","Captive birdss",1
+2022-08-01,"USA","EA H5N1","Wild birds",6
+2022-08-03,"USA","EA H5N1","Wild birds",6
+2022-08-03,"USA","EA/AM H5N1","Wild birds",9
+2022-08-03,"USA","H5N1","Mammals",1
+2022-08-05,"USA","EA H5N1","Wild birds",4
+2022-08-05,"USA","EA/AM H5N1","Wild birds",5
+2022-08-05,"USA","EAAM H5N1","Wild birds",1
+2022-08-08,"USA","EA/AM H5N1","Wild birds",2
+2022-08-09,"USA","EA H5N1","Captive birdss",1
+2022-08-09,"USA","EA H5N1","Wild birds",1
+2022-08-09,"USA","EA/AM H5N1","Wild birds",7
+2022-08-11,"USA","EA H5N1","Wild birds",7
+2022-08-11,"USA","EA/AM H5N1","Wild birds",25
+2022-08-12,"USA","EA H5N1","Wild birds",1
+2022-08-15,"USA","EA H5","Wild birds",3
+2022-08-15,"USA","EA H5N1","Captive birdss",2
+2022-08-15,"USA","EA H5N1","Wild birds",27
+2022-08-15,"USA","H5N1","Mammals",1
+2022-08-16,"USA","EA H5N1","Wild birds",1
+2022-08-17,"USA","EA H5N1","Wild birds",10
+2022-08-17,"USA","EA/AM H5N1","Mammals",1
+2022-08-18,"USA","EA H5N1","Wild birds",12
+2022-08-18,"USA","EA/AM H5N1","Wild birds",1
+2022-08-22,"USA","EA H5N1","Wild birds",12
+2022-08-22,"USA","EA/AM H5N1","Wild birds",4
+2022-08-23,"USA","EA H5N1","Wild birds",3
+2022-08-24,"USA","EA H5N1","Captive birdss",1
+2022-08-24,"USA","EA H5N1","Wild birds",7
+2022-08-26,"USA","EA H5N1","Wild birds",7
+2022-08-26,"USA","IAV","Wild birds",1
+2022-08-29,"USA","EA H5","Wild birds",1
+2022-08-29,"USA","EA H5N1","Wild birds",17
+2022-08-30,"USA","EA H5","Wild birds",2
+2022-08-30,"USA","EA H5N1","Wild birds",4
+2022-08-31,"USA","EA H5N1","Wild birds",1
+2022-09-01,"USA","EA H5","Wild birds",1
+2022-09-01,"USA","EA H5N1","Wild birds",47
+2022-09-01,"USA","EA/AM H5N1","Wild birds",2
+2022-09-02,"USA","EA H5N1","Wild birds",16
+2022-09-02,"USA","EA/AM H5N1","Captive birdss",2
+2022-09-02,"USA","EA/AM H5N1","Wild birds",2
+2022-09-08,"USA","EA H5","Wild birds",1
+2022-09-08,"USA","EA H5N1","Captive birdss",2
+2022-09-08,"USA","EA H5N1","Wild birds",31
+2022-09-08,"USA","EA/AM H5N1","Wild birds",9
+2022-09-09,"USA","EA H5N1","Captive birdss",9
+2022-09-09,"USA","EA H5N1","Wild birds",17
+2022-09-13,"USA","EA H5","Wild birds",4
+2022-09-13,"USA","EA H5N1","Captive birdss",2
+2022-09-13,"USA","EA H5N1","Wild birds",117
+2022-09-13,"USA","EA/AM H5N1","Captive birdss",1
+2022-09-13,"USA","EA/AM H5N1","Wild birds",5
+2022-09-15,"USA","EA H5","Wild birds",2
+2022-09-15,"USA","EA H5N1","Captive birdss",7
+2022-09-15,"USA","EA H5N1","Wild birds",52
+2022-09-15,"USA","EA/AM H5N1","Captive birdss",1
+2022-09-15,"USA","EA/AM H5N1","Wild birds",5
+2022-09-16,"USA","EA H5","Wild birds",1
+2022-09-16,"USA","EA H5N1","Wild birds",17
+2022-09-16,"USA","EA/AM H5N1","Wild birds",9
+2022-09-19,"USA","EA H5","Wild birds",2
+2022-09-19,"USA","EA H5N1","Captive birdss",1
+2022-09-19,"USA","EA H5N1","Wild birds",17
+2022-09-19,"USA","EA/AM H5N1","Captive birdss",2
+2022-09-19,"USA","EA/AM H5N1","Wild birds",8
+2022-09-20,"USA","EA H5N1","Captive birdss",3
+2022-09-20,"USA","EA H5N1","Wild birds",35
+2022-09-20,"USA","EA/AM H5N1","Wild birds",1
+2022-09-21,"USA","EA H5N1","Captive birdss",4
+2022-09-21,"USA","EA H5N1","Wild birds",13
+2022-09-23,"USA","EA H5","Wild birds",9
+2022-09-23,"USA","EA H5N1","Captive birdss",4
+2022-09-23,"USA","EA H5N1","Wild birds",101
+2022-09-23,"USA","EA/AM H5N1","Wild birds",14
+2022-09-27,"USA","H5N1","Mammals",1
+2022-09-28,"USA","EA H5N1","Captive birdss",4
+2022-09-28,"USA","EA H5N1","Wild birds",29
+2022-09-28,"USA","EA/AM H5N1","Captive birdss",1
+2022-09-28,"USA","EA/AM H5N1","Wild birds",15
+2022-09-29,"USA","EA H5","Wild birds",1
+2022-09-29,"USA","EA H5N1","Captive birdss",4
+2022-09-29,"USA","EA H5N1","Wild birds",31
+2022-09-30,"USA","EA H5","Wild birds",2
+2022-09-30,"USA","EA H5N1","Captive birdss",10
+2022-09-30,"USA","EA H5N1","Wild birds",31
+2022-09-30,"USA","EA/AM H5N1","Captive birdss",4
+2022-09-30,"USA","EA/AM H5N1","Wild birds",4
+2022-10-03,"USA","EA H5","Wild birds",5
+2022-10-03,"USA","EA H5N1","Wild birds",55
+2022-10-04,"USA","EA H5","Captive birdss",1
+2022-10-04,"USA","EA H5N1","Captive birdss",3
+2022-10-04,"USA","EA H5N1","Wild birds",18
+2022-10-04,"USA","EA/AM H5N1","Captive birdss",2
+2022-10-04,"USA","EA/AM H5N1","Wild birds",1
+2022-10-06,"USA","EA H5N1","Captive birdss",7
+2022-10-06,"USA","EA H5N1","Wild birds",2
+2022-10-06,"USA","H5N1","Mammals",4
+2022-10-07,"USA","EA H5","Wild birds",4
+2022-10-07,"USA","EA H5N1","Wild birds",72
+2022-10-07,"USA","EA/AM H5N1","Wild birds",5
+2022-10-11,"USA","EA H5","Captive birdss",1
+2022-10-11,"USA","EA H5","Wild birds",14
+2022-10-11,"USA","EA/AM H5N1","Wild birds",3
+2022-10-12,"USA","EA H5","Captive birdss",4
+2022-10-12,"USA","EA H5","Wild birds",12
+2022-10-12,"USA","EA/AM H5N1","Captive birdss",2
+2022-10-12,"USA","EA/AM H5N1","Wild birds",2
+2022-10-13,"USA","EA H5","Wild birds",22
+2022-10-13,"USA","EA H5N1","Wild birds",2
+2022-10-13,"USA","EA/AM H5N1","Wild birds",4
+2022-10-17,"USA","EA H5","Wild birds",33
+2022-10-17,"USA","EA/AM H5","Wild birds",1
+2022-10-17,"USA","EA/AM H5N1","Wild birds",1
+2022-10-19,"USA","EA H5","Wild birds",2
+2022-10-19,"USA","EA H5N1","Captive birdss",3
+2022-10-19,"USA","EA H5N1","Wild birds",6
+2022-10-19,"USA","EA/AM H5N1","Captive birdss",6
+2022-10-19,"USA","EA/AM H5N1","Wild birds",22
+2022-10-25,"USA","EA H5","Wild birds",200
+2022-10-25,"USA","EA H5N1","Captive birdss",11
+2022-10-25,"USA","EA H5N1","Wild birds",140
+2022-10-25,"USA","EA/AM H5N1","Captive birdss",2
+2022-10-25,"USA","EA/AM H5N1","Wild birds",10
+2022-10-26,"USA","EA H5","Captive birdss",1
+2022-10-26,"USA","EA H5","Wild birds",2
+2022-10-26,"USA","EA H5N1","Captive birdss",1
+2022-10-26,"USA","EA H5N1","Wild birds",13
+2022-10-26,"USA","H5N1","Mammals",1
+2022-10-27,"USA","EA H5","Wild birds",4
+2022-10-27,"USA","EA H5N1","Captive birdss",1
+2022-10-27,"USA","EA H5N1","Wild birds",47
+2022-10-27,"USA","EA/AM H5N1","Captive birdss",1
+2022-10-27,"USA","EA/AM H5N1","Wild birds",1
+2022-10-27,"USA","H5N1","Mammals",1
+2022-10-28,"USA","EA H5N1","Captive birdss",8
+2022-10-28,"USA","EA H5N1","Wild birds",72
+2022-10-28,"USA","H5N1","Mammals",1
+2022-10-31,"USA","EA H5","Wild birds",5
+2022-10-31,"USA","EA H5N1","Captive birdss",5
+2022-10-31,"USA","EA H5N1","Wild birds",62
+2022-11-01,"USA","EA H5","Wild birds",1
+2022-11-01,"USA","EA H5N1","Captive birdss",1
+2022-11-01,"USA","EA H5N1","Wild birds",50
+2022-11-01,"USA","EA/AM H5N1","Wild birds",1
+2022-11-02,"USA","EA H5","Wild birds",1
+2022-11-02,"USA","EA/AM H5N1","Wild birds",3
+2022-11-03,"USA","EA H5","Wild birds",1
+2022-11-03,"USA","EA H5N1","Wild birds",43
+2022-11-03,"USA","EA/AM H5","Wild birds",7
+2022-11-03,"USA","EA/AM H5N1","Wild birds",20
+2022-11-03,"USA","H5N1","Mammals",1
+2022-11-04,"USA","EA H5N1","Wild birds",5
+2022-11-08,"USA","EA H5N1","Captive birdss",2
+2022-11-08,"USA","EA H5N1","Wild birds",42
+2022-11-09,"USA","EA H5N1","Captive birdss",7
+2022-11-09,"USA","EA H5N1","Wild birds",49
+2022-11-10,"USA","EA H5N1","Captive birdss",1
+2022-11-10,"USA","EA H5N1","Wild birds",31
+2022-11-10,"USA","H5N1","Mammals",1
+2022-11-14,"USA","EA H5N1","Captive birdss",2
+2022-11-14,"USA","EA H5N1","Wild birds",12
+2022-11-15,"USA","EA H5N1","Captive birdss",9
+2022-11-15,"USA","EA H5N1","Wild birds",15
+2022-11-16,"USA","EA H5","Wild birds",1
+2022-11-16,"USA","EA H5N1","Captive birdss",1
+2022-11-16,"USA","EA H5N1","Wild birds",87
+2022-11-16,"USA","H5N1","Mammals",1
+2022-11-17,"USA","EA H5N1","Captive birdss",1
+2022-11-17,"USA","EA H5N1","Wild birds",37
+2022-11-18,"USA","EA H5N1","Wild birds",6
+2022-11-21,"USA","EA H5","Wild birds",6
+2022-11-21,"USA","EA H5N1","Captive birdss",4
+2022-11-21,"USA","EA H5N1","Wild birds",136
+2022-11-21,"USA","EA/AM H5N1","Wild birds",1
+2022-11-21,"USA","H5N1","Mammals",5
+2022-11-22,"USA","EA H5","Wild birds",4
+2022-11-22,"USA","EA H5N1","Captive birdss",4
+2022-11-22,"USA","EA H5N1","Wild birds",17
+2022-11-23,"USA","EA H5N1","Wild birds",1
+2022-11-25,"USA","EA H5","Wild birds",1
+2022-11-25,"USA","EA H5N1","Captive birdss",16
+2022-11-25,"USA","EA H5N1","Wild birds",30
+2022-11-28,"USA","EA H5N1","Captive birdss",4
+2022-11-28,"USA","EA H5N1","Wild birds",31
+2022-11-29,"USA","EA H5N1","Wild birds",11
+2022-12-01,"USA","EA H5","Wild birds",1
+2022-12-01,"USA","EA H5N1","Captive birdss",6
+2022-12-01,"USA","EA H5N1","Wild birds",7
+2022-12-02,"USA","EA H5","Captive birdss",1
+2022-12-02,"USA","EA H5","Wild birds",4
+2022-12-02,"USA","EA H5N1","Captive birdss",3
+2022-12-02,"USA","EA H5N1","Wild birds",25
+2022-12-02,"USA","H5N1","Mammals",1
+2022-12-05,"USA","EA H5","Wild birds",6
+2022-12-05,"USA","EA H5N1","Wild birds",33
+2022-12-06,"USA","EA H5N1","Wild birds",84
+2022-12-06,"USA","H5N1","Mammals",2
+2022-12-07,"USA","EA H5N1","Captive birdss",8
+2022-12-07,"USA","EA H5N1","Wild birds",20
+2022-12-08,"USA","EA H5","Wild birds",1
+2022-12-08,"USA","EA H5N1","Wild birds",61
+2022-12-08,"USA","H5N1","Mammals",6
+2022-12-09,"USA","EA H5","Wild birds",1
+2022-12-09,"USA","EA H5N1","Captive birdss",5
+2022-12-09,"USA","EA H5N1","Wild birds",67
+2022-12-12,"USA","EA H5","Wild birds",1
+2022-12-12,"USA","EA H5N1","Captive birdss",3
+2022-12-12,"USA","EA H5N1","Wild birds",59
+2022-12-13,"USA","EA H5","Wild birds",1
+2022-12-13,"USA","EA H5N1","Captive birdss",2
+2022-12-13,"USA","EA H5N1","Wild birds",42
+2022-12-15,"USA","EA H5","Wild birds",4
+2022-12-15,"USA","EA H5N1","Captive birdss",3
+2022-12-15,"USA","EA H5N1","Wild birds",50
+2022-12-16,"USA","EA H5","Wild birds",2
+2022-12-16,"USA","EA H5N1","Captive birdss",10
+2022-12-16,"USA","EA H5N1","Wild birds",59
+2022-12-16,"USA","H5N1","Mammals",2
+2022-12-17,"USA","EA H5","Wild birds",1
+2022-12-17,"USA","EA H5N1","Wild birds",8
+2022-12-20,"USA","EA H5","Wild birds",2
+2022-12-20,"USA","EA H5N1","Captive birdss",14
+2022-12-20,"USA","EA H5N1","Wild birds",80
+2022-12-20,"USA","H5N1","Mammals",2
+2022-12-21,"USA","EA H5","Wild birds",1
+2022-12-21,"USA","EA H5N1","Captive birdss",2
+2022-12-21,"USA","EA H5N1","Wild birds",7
+2022-12-22,"USA","EA H5","Wild birds",3
+2022-12-22,"USA","EA H5N1","Wild birds",54
+2022-12-27,"USA","EA H5N1","Captive birdss",4
+2022-12-27,"USA","EA H5N1","Wild birds",30
+2022-12-29,"USA","EA H5","Wild birds",4
+2022-12-29,"USA","EA H5N1","Captive birdss",1
+2022-12-29,"USA","EA H5N1","Wild birds",12
+2022-12-30,"USA","EA H5","Wild birds",1
+2022-12-30,"USA","EA H5N1","Captive birdss",8
+2022-12-30,"USA","EA H5N1","Wild birds",15
+2023-01-03,"USA","EA H5N1","Wild birds",17
+2023-01-03,"USA","H5N1","Mammals",3
+2023-01-04,"USA","EA H5","Captive birdss",1
+2023-01-04,"USA","EA H5","Wild birds",11
+2023-01-04,"USA","EA H5N1","Captive birdss",10
+2023-01-04,"USA","EA H5N1","Wild birds",65
+2023-01-05,"USA","EA H5","Wild birds",3
+2023-01-05,"USA","EA H5N1","Wild birds",15
+2023-01-09,"USA","EA H5","Wild birds",1
+2023-01-09,"USA","EA H5N1","Captive birdss",3
+2023-01-09,"USA","EA H5N1","Wild birds",55
+2023-01-09,"USA","H5N1","Mammals",1
+2023-01-10,"USA","EA H5","Wild birds",2
+2023-01-10,"USA","EA H5N1","Captive birdss",1
+2023-01-10,"USA","EA H5N1","Wild birds",23
+2023-01-11,"USA","EA H5N1","Captive birdss",1
+2023-01-12,"USA","EA H5","Wild birds",1
+2023-01-12,"USA","EA H5N1","Wild birds",23
+2023-01-12,"USA","EA H5N1","Wild birds",7
+2023-01-13,"USA","EA H5","Wild birds",1
+2023-01-13,"USA","EA H5N1","Wild birds",40
+2023-01-17,"USA","EA/AM H5N1","Wild birds",3
+2023-01-18,"USA","EA H5N1","Captive birdss",1
+2023-01-18,"USA","EA H5N1","Wild birds",49
+2023-01-19,"USA","EA H5N1","Wild birds",7
+2023-01-20,"USA","EA H5","Captive birdss",1
+2023-01-20,"USA","EA H5N1","Captive birdss",1
+2023-01-20,"USA","EA H5N1","Wild birds",17
+2023-01-23,"USA","H5N1","Mammals",2
+2023-01-24,"USA","EA H5N1","Wild birds",13
+2023-01-24,"USA","H5N1","Mammals",1
+2023-01-26,"USA","EA H5","Wild birds",2
+2023-01-26,"USA","EA H5N1","Wild birds",37
+2023-01-27,"USA","EA H5N1","Wild birds",7
+2023-01-27,"USA","H5N1","Mammals",1
+2023-01-31,"USA","EA H5","Wild birds",1
+2023-01-31,"USA","EA H5N1","Captive birdss",1
+2023-01-31,"USA","EA H5N1","Wild birds",21
+2023-02-01,"USA","EA H5N1","Wild birds",4
+2023-02-01,"USA","H5N1","Mammals",2
+2023-02-03,"USA","EA H5N1","Captive birdss",1
+2023-02-03,"USA","EA H5N1","Wild birds",4
+2023-02-06,"USA","EA H5N1","Wild birds",3
+2023-02-08,"USA","EA H5","Wild birds",1
+2023-02-08,"USA","EA H5N1","Wild birds",6
+2023-02-09,"USA","EA H5N1","Wild birds",1
+2023-02-10,"USA","EA H5N1","Wild birds",3
