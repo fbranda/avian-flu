@@ -30,3 +30,5 @@ df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/avian
 ## License and attribution
 
 This repository and data exports are published under the CC BY 4.0 license.
+
+Please cite as: "Francesco Branda Avian Flu (accessed on YYYY-MM-DD)"
