@@ -1,4 +1,4 @@
-"n","ADIS Reference","Region","Province","Latitude","Longitude","Species","Subtype","Confirmation date","Extinction date","Measures Protection Zone in force until","Measures Surveillance Zone in force until"
+"n","ADIS Reference","Region","Province","Latitude","Longitude","Species","HPAI strain","Confirmation date","Extinction date","Measures Protection Zone in force until","Measures Surveillance Zone in force until"
 1,"IT-HPAI(P)-2022-00025","VENETO","TREVISO",45.66754571,12.24507363,"Multispecies","H5N1",2022-09-22,2022-10-03,2022-10-24,2022-11-02
 2,"IT-HPAI(P)-2022-00026","VENETO","VERONA",45.43839046,10.99352685,"Broiler","H5N1",2022-10-18,2022-10-22,2022-11-12,2022-11-21
 3,"IT-HPAI(P)-2022-00027","LOMBARDIA","BRESCIA",45.53993052,10.21910323,"Fattening turkey","H5N1",2022-10-19,2022-10-23,2022-11-13,2022-11-22
