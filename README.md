@@ -38,7 +38,7 @@ Currently, the United Kingdom is not included. For further information on this c
 | **Longitude**      | WGS84       | Longitude of the province  |
 | **No. animals**      | Integer       | Number of cases  |
 | **Species**      | String       | Name of the species  |
-| **Subtype**      | String       | Name of the HPAI strain  |
+| **HPAI strain**      | String       | Name of the HPAI strain  |
 | **Confirmation date**      | YYYY-MM-DD| Date of notification	  |
 
 **Directory:**  Italy<br>
@@ -55,7 +55,7 @@ Currently, the United Kingdom is not included. For further information on this c
 | **Longitude**      | WGS84       | Longitude of the province  |
 | **No. animals**      | Integer       | Number of cases  |
 | **Species**      | String       | Name of the species  |
-| **Subtype**      | String       | Name of the HPAI strain |
+| **HPAI strain**      | String       | Name of the HPAI strain  |
 | **Confirmation date**      | YYYY-MM-DD| Date of notification	  |
 | **Extinction date**      | YYYY-MM-DD| Termination date surveillance	  |
 | **Measures Protection Zone in force until**      | YYYY-MM-DD| The boundaries of the protection and surveillance zones and the date on which the measures applied will be lifted, were decided according to art 21 point 2 ‘The competent authority shall adapt the boundaries of the initial restricted zone, including the boundaries of the protection, surveillance and the further restricted zones, in the case of the overlapping of two or more restricted zones due to further outbreaks of the category A disease.’, and art 39 point 1 a) and b) of the Commission Delegated Regulation (EU) 687/2020 ‘The competent authority may lift the measures provided for in Section 1 and 2 of this Chapter only if the minimum period set out in Annex X has elapsed and the following conditions are fulfilled: (a) the preliminary cleaning and disinfection and, where relevant, control of insects and rodents, has been performed in accordance with Article 15 in the affected establishment; and (b) in all establishments keeping animals of listed species in the protection zone, animals of listed species have undergone, with favourable results, clinical and when necessary laboratory examination in accordance with Article 26.’ The amendments to these zone will be published regularly with the Commission Implementing Decision (EU) 2021/641.	  |
