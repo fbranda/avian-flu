@@ -10,6 +10,11 @@ Currently, the United Kingdom is not included. For further information on this c
 
 ## Data dictionary
 
+The [data dictionary](https://github.com/fbranda/avian-flu/blob/main/data_dictionary.yml) contains information about columns/fields in the list files.
+
+
+## Data schema
+
 **Filename:** general-situation-#.csv
 
 
