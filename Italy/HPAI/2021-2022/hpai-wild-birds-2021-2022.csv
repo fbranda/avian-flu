@@ -1,4 +1,4 @@
-"n","ID ADIS","Region","Province","Latitude","Longitude","No. animals","Species","Subtype","Confirmation date"
+"n","ID ADIS","Region","Province","Latitude","Longitude","No. animals","Species","HPAI strain","Confirmation date"
 1,"IT-HPAI(NON-P)-2021-00001","LOMBARDIA","BRESCIA",45.53993052,10.21910323,1,"Mallard duck (Anas platyrhynchos)","H5N1",2021-10-30
 2,"IT-HPAI(NON-P)-2021-00002","LOMBARDIA","BRESCIA",45.53993052,10.21910323,1,"Eurasian wigeon (Mareca penelope)","H5N1",2021-10-30
 3,"IT-HPAI(NON-P)-2021-00003","VENETO","VERONA",45.43839046,10.99352685,1,"Yellow-legged gull (Larus michahellis)","H5N1",2021-11-16
