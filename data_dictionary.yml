@@ -1,0 +1,170 @@
+dictionary_last_modified: 2023-02-21
+fields:
+  - name: ID
+    type: string
+    description: >
+      Unique ID of the case. ID starts with N for non-endemic list
+      and E for endemic list.
+    required: true
+
+  - name: Pathogen
+    type: string
+    description: >
+      Name of the Avian flu strain
+    required: true
+
+  - name: Case_status
+    type: confirmed | suspected | discarded | omit_error
+    description: >
+      Status of a case. Cases which are discarded were previously
+      suspected but have now been confirmed negative, and should
+      be excluded from case counts. Cases which are omit_error were
+      incorrectly added and should be dismissed from any data
+      interpretation.
+    required: true
+
+  - name: Location
+    type: string
+    description: Country subdivision where case was reported
+    examples: [Islington, Croydon]
+
+  - name: City
+    type: string
+    description: City where case was reported
+    examples: [London, Madrid, Sydney, Boston]
+
+  - name: Country
+    type: string
+    description: Country where case was reported
+    required: true
+    examples: [England, United States, Spain, Australia]
+
+  - name: Country_ISO3
+    type: string
+    description: ISO 3166-1 alpha-3, three letter country codes
+    required: true
+    examples: [ITA, GBR, ESP, BOL]
+
+  - name: Age
+    type: integer-range
+    description: Age of the individual, specified as a range,
+      either open-ended (<n, >n) or as a range delimited by a hyphen (m-n)
+
+  - name: Gender
+    type: male | female | other
+    description: Gender of the individual
+
+  - name: Date_onset
+    type: iso8601date
+    description: Date of onset of symptoms
+
+  - name: Date_confirmation
+    type: iso8601date
+    description: Date when case was confirmed
+
+  - name: Symptoms
+    type: string
+    description: Comma separated list of symptoms
+    examples:
+      - headache
+      - cough
+      - aching muscles
+      - pain
+      - fever
+      - diarrhoea
+      - severe pneumonia
+      - conjunctivitis
+      - sickness
+
+
+  - name: Hospitalized (Y/N/NA)
+    type: Y | N | NA
+    description: Whether individual was hospitalised (Y=Yes, N=No, NA=Not applicable)
+
+  - name: Date_hospitalization
+    type: iso8601date
+    description: Date individual was hospitalised
+
+  - name: Isolated
+    type: Y | N | NA
+    description: Whether individual was isolated (Y=Yes, N=No, NA=Not applicable)
+
+  - name: Date_isolation
+    type: iso8601date
+    description: Date individual entered isolation
+
+  - name: Outcome
+    type: recovered | death
+    description: Optional field that specifies outcome of the disease
+
+  - name: Contact_comment
+    type: string
+    description: Free text describing how individual came into contact
+    examples:
+      - Under investigation
+      - Index case
+      - Flight
+
+  - name: Contact_ID
+    type: integer
+    description: If specified, is the case ID from which this patient contracted the virus
+
+  - name: Contact_location
+    type: string
+    description: Location where contact happened that led to transmission
+    examples: [Household]
+
+  - name: Travel_history
+    type: Y | N | NA
+    description: Whether individual has travel history (Y=Yes, N=No, NA=Not applicable)
+
+  - name: Travel_history_entry
+    type: string
+    description: Date when individual entered the country
+
+  - name: Travel_history_start
+    type: string
+    description: Free text describing when travel started
+
+  - name: Travel_history_location
+    type: string
+    description: Location where individual had travelled
+
+  - name: Travel_history_country
+    type: string
+    description: Country where individual had travelled
+
+  - name: Genomics_Metadata
+    type: string
+    description: Which clade the viral strain belongs to
+    examples:
+      - West African Clade
+      - North African Clade
+
+  - name: Confirmation_method
+    type: string
+    description: Test used to confirm diagnosis
+    examples: ["RT-PCR"]
+
+  - name: Source
+    type: url
+    description: URL of news story or government source where this case was confirmed
+    required: true
+
+  - name: Source_II
+    type: url
+    description: URL of news story or government source where this case was confirmed (archived or secondary source)
+
+  - name: Date_entry
+    type: iso8601date
+    description: Date case was entered into line list
+    required: true
+
+  - name: Date_death
+    type: iso8601date
+    description: Date of death
+
+  - name: Date_last_modified
+    type: iso8601date
+    description: Last date when case was modified in line list
+    required: true
