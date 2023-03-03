@@ -23,12 +23,12 @@ fields:
       interpretation.
     required: true
 
-  - name: Location
+  - name: Province/Region
     type: string
     description: Country subdivision where case was reported
     examples: [Islington, Croydon]
 
-  - name: City
+  - name: District/City
     type: string
     description: City where case was reported
     examples: [London, Madrid, Sydney, Boston]
