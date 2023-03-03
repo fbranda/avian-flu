@@ -82,10 +82,9 @@ import pandas as pd
 df = pd.read_csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv")
 ```
 
-**R** (requires `httr`):
+**R**:
 ```r
-library(httr)
-df <- read.csv(text=content(GET("https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv")))
+df <- read.csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv")
 ```
 
 ## License and attribution
