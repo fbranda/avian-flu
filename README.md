@@ -15,7 +15,7 @@ The [data dictionary](https://github.com/fbranda/avian-flu/blob/main/data_dictio
 
 ## Data schema
 
-**Filename:** general-situation-#.csv
+**Filename:** europe-cases.csv
 
 
 | Field                 | Format                       |Description                      
@@ -73,18 +73,18 @@ The [data dictionary](https://github.com/fbranda/avian-flu/blob/main/data_dictio
 
 ## Getting the data
 
-**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv
+**Direct download (CSV)**: https://raw.githubusercontent.com/fbranda/avian-flu/main/europe-cases.csv
 
 
 **Python** (requires `pandas`):
 ```python
 import pandas as pd
-df = pd.read_csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/europe-cases.csv")
 ```
 
 **R**:
 ```r
-df <- read.csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/general-situation.csv")
+df <- read.csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/europe-cases.csv")
 ```
 
 ## License and attribution
