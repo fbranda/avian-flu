@@ -26,7 +26,7 @@ fields:
   - name: Province/Region
     type: string
     description: Country subdivision where case was reported
-    examples: [Islington, Croydon]
+    examples: [Bolivar, Guangxi]
 
   - name: District/City
     type: string
@@ -46,9 +46,8 @@ fields:
     examples: [ITA, GBR, ESP, BOL]
 
   - name: Age
-    type: integer-range
-    description: Age of the individual, specified as a range,
-      either open-ended (<n, >n) or as a range delimited by a hyphen (m-n)
+    type: Integer
+    description: Age of the individual
 
   - name: Gender
     type: male | female | other
@@ -79,11 +78,11 @@ fields:
 
   - name: Hospitalized (Y/N/NA)
     type: Y | N | NA
-    description: Whether individual was hospitalised (Y=Yes, N=No, NA=Not applicable)
+    description: Whether individual was hospitalized (Y=Yes, N=No, NA=Not applicable)
 
   - name: Date_hospitalization
     type: iso8601date
-    description: Date individual was hospitalised
+    description: Date individual was hospitalized
 
   - name: Isolated
     type: Y | N | NA
