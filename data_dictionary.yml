@@ -75,14 +75,6 @@ fields:
       - conjunctivitis
       - sickness
       
-  - name: Comorbidities
-    type: string
-    description: Comma separated list of comorbidities
-    examples:
-      - cancer
-      - diabetic
-      - hypertension
-
   - name: Hospitalized (Y/N/NA)
     type: Y | N | NA
     description: Whether individual was hospitalized (Y=Yes, N=No, NA=Not applicable)
