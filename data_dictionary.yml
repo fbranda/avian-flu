@@ -74,7 +74,14 @@ fields:
       - severe pneumonia
       - conjunctivitis
       - sickness
-
+      
+  - name: Comorbidities
+    type: string
+    description: Comma separated list of comorbidities
+    examples:
+      - cancer
+      - diabetic
+      - hypertension
 
   - name: Hospitalized (Y/N/NA)
     type: Y | N | NA
