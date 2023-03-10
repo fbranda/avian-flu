@@ -20,7 +20,7 @@ The [data dictionary](https://github.com/fbranda/avian-flu/blob/main/data_dictio
 
 | Field                 | Format                       |Description                      
 |-----------------------------|-----------------------------------|-------------------------------|
-| **Confirmed date**      | YYYY-MM-DD Date of notification	  |
+| **Confirmed date**      | YYYY-MM-DD  | Date of notification	 
 | **Country date**      | String       | Name of the country	 |
 | **Lat**      | WGS84       | Latitude of the country  |
 | **Long**      | WGS84       | Longitude of the country  |
