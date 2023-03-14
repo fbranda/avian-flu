@@ -1,4 +1,4 @@
-"n","ID ADIS","Region","Region code","Province","Code province","Abbreviation province","Latitude","Longitude","No. animals","Species","HPAI strain","Confirmation date"
+"n","ID ADIS","Region","Code region","Province","Code province","Abbreviation province","Latitude","Longitude","No. animals","Species","HPAI strain","Confirmation date"
 1,"IT-HPAI(NON-P)-2021-00010","EMILIA ROMAGNA",8,"RAVENNA",39,"RA",44.41722493,12.19913936,3,"Common teal (Anas crecca) Mallard duck (Anas platyrhynchos)","H5N1",2022-09-29
 2,"IT-HPAI(NON-P)-2022-00011","LOMBARDIA",3,"MANTOVA",20,"MN",45.15726772,10.79277363,11,"Mallard duck (Anas platyrhynchos)","H5N1",2022-10-13
 3,"IT-HPAI(NON-P)-2022-00012","VENETO",5,"VENEZIA",27,"VE",45.43490485,12.33845213,1,"Greylag goose (Anser anser)","H5N1",2022-10-13
