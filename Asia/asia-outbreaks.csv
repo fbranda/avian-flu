@@ -1,0 +1,327 @@
+"Start date collected","End date collected","Region","Country","Lat","Long","HPAI strain","WOAH Classification","New outbreaks","Cumulative outbreaks"
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5N5)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5N8)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5N1)","Wild birds",1,1
+2021-09-16,2021-12-08,"Asia","China",35.8617,104.1954,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Domestic birds",2,2
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5Nx)","Wild birds",2,2
+2021-09-16,2021-12-08,"Asia","India",20.5937,78.9629,"A(H5N1)","Wild birds",1,1
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5Nx)","Domestic birds",4,4
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5N1)","Domestic birds",2,2
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Iran",32.4279,53.688,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",5,5
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",0,5
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Wild birds",2,2
+2021-09-16,2021-12-08,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",4,4
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",2,6
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Wild birds",1,1
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Domestic birds",5,5
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Domestic birds",0,5
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",10,10
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",0,10
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Wild birds",5,5
+2021-09-16,2021-12-08,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Wild birds",5,5
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5Nx)","Domestic birds",4,4
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5Nx)","Domestic birds",0,4
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5N1)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Asia","Pakistan",30.3753,69.3451,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N2)","Domestic birds",19,19
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N5)","Domestic birds",3,3
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Wild birds",1,1
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Wild birds",2,2
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Hong Kong",22.3193,114.1694,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",10,10
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N1)","Wild birds",1,2
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5N8)","Wild birds",1,1
+2021-12-09,2022-03-15,"Asia","India",20.5937,78.9629,"A(H5Nx)","Wild birds",0,2
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N1)","Domestic birds",0,2
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N5)","Domestic birds",6,6
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N8)","Domestic birds",2,2
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Iran",32.4279,53.688,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",13,18
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Wild birds",16,16
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Wild birds",0,2
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",0,6
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N8)","Domestic birds",2,2
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Wild birds",0,1
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5N8)","Wild birds",1,1
+2021-12-09,2022-03-15,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",36,46
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Wild birds",29,34
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5N8)","Wild birds",1,1
+2021-12-09,2022-03-15,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Wild birds",0,5
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Domestic birds",17,17
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Wild birds",1,1
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Nepal",28.3949,84.124,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Domestic birds",12,12
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Philippines",12.8797,121.774,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N1)","Domestic birds",5,5
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N1)","Wild birds",3,3
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Asia","Vietnam",14.0583,108.2772,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N2)","Domestic birds",3,22
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Wild birds",0,1
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",1,11
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5N1)","Wild birds",0,2
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5N8)","Wild birds",0,1
+2022-03-16,2022-06-10,"Asia","India",20.5937,78.9629,"A(H5Nx)","Wild birds",0,2
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5N1)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5N8)","Domestic birds",2,2
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5N1)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Iraq",33.2232,43.6793,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",0,18
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Wild birds",0,16
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5N8)","Wild birds",2,2
+2022-03-16,2022-06-10,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Wild birds",0,2
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",9,15
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5N8)","Domestic birds",0,2
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Wild birds",33,34
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5N8)","Wild birds",0,1
+2022-03-16,2022-06-10,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Wild birds",7,7
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",1,47
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Wild birds",5,39
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5N8)","Wild birds",0,1
+2022-03-16,2022-06-10,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Wild birds",0,5
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Domestic birds",4,21
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Wild birds",0,1
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Nepal",28.3949,84.124,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Domestic birds",17,29
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Asia","Philippines",12.8797,121.774,"A(H5Nx)","Wild birds",0,0
+2022-06-11,2022-09-09,"Asia","China",35.8617,104.1954,"A(H5N1)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","China",35.8617,104.1954,"A(H5N2)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","China",35.8617,104.1954,"A(H5N1)","Wild birds",2,3
+2022-06-11,2022-09-09,"Asia","China",35.8617,104.1954,"A(H5Nx)","Wild birds",0,0
+2022-06-11,2022-09-09,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N2)","Domestic birds",3,25
+2022-06-11,2022-09-09,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Wild birds",0,1
+2022-06-11,2022-09-09,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5Nx)","Wild birds",0,0
+2022-06-11,2022-09-09,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N2)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Wild birds",0,0
+2022-06-11,2022-09-09,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Wild birds",1,1
+2022-06-11,2022-09-09,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Domestic birds",62,91
+2022-06-11,2022-09-09,"Asia","Philippines",12.8797,121.774,"A(H5N2)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Wild birds",0,0
+2022-06-11,2022-09-09,"Asia","Philippines",12.8797,121.774,"A(H5Nx)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N2)","Domestic birds",1,26
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N1)","Wild birds",0,1
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Chinese Taipei",23.6978,120.9605,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Wild birds",2,4
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Hong Kong",22.3193,114.1694,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",2,13
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(H5N1)","Wild birds",0,2
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","India",20.5937,78.9629,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",2,20
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Wild birds",0,16
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Israel",31.0461,34.8516,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",12,27
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Wild birds",31,65
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(H5N2)","Wild birds",1,1
+2022-09-10,2022-12-02,"Asia","Japan",36.2048,138.2529,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",3,50
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Wild birds",0,39
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Korea",35.9078,127.7669,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(H5N1)","Domestic birds",1,6
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(H5N1)","Wild birds",0,3
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Asia","Vietnam",14.0583,108.2772,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5N1)","Domestic birds",26,26
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5N2)","Domestic birds",8,8
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5N5)","Domestic birds",1,1
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5N1)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Taiwan",23.6978,120.9605,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5N1)","Wild birds",1,5
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Hong Kong",22.3193,114.1694,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5N1)","Domestic birds",10,23
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5N1)","Wild birds",0,2
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(H5Nx)","Wild birds",0,2
+2022-12-03,2023-03-01,"Asia","India",20.5937,78.9629,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Domestic birds",9,29
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5N1)","Wild birds",2,18
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(H5Nx)","Wild birds",0,2
+2022-12-03,2023-03-01,"Asia","Israel",31.0461,34.8516,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Domestic birds",52,79
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5N2)","Domestic birds",1,1
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5N1)","Wild birds",39,104
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(H5Nx)","Wild birds",8,15
+2022-12-03,2023-03-01,"Asia","Japan",36.2048,138.2529,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Domestic birds",0,5
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5N1)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(H5Nx)","Wild birds",0,1
+2022-12-03,2023-03-01,"Asia","Kazakhstan",48.0196,66.9237,"A(Not typed)","Wild birds",1,1
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Domestic birds",25,75
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5N1)","Wild birds",0,39
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(H5Nx)","Wild birds",0,5
+2022-12-03,2023-03-01,"Asia","Korea",35.9078,127.7669,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Domestic birds",7,28
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5N1)","Wild birds",0,1
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Nepal",28.3949,84.124,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Domestic birds",3,94
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5N1)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Philippines",12.8797,121.774,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5N1)","Domestic birds",2,2
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5N1)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Asia","Turkey",38.9637,35.2433,"A(Not typed)","Wild birds",0,0
