@@ -1,0 +1,132 @@
+State,County,Date Collected,Date Detected,HPAI Strain,Species
+Wisconsin,Rock,2022-04-19,2022-05-05,H5N1,Red fox
+Wisconsin,Waushara,2022-04-24,2022-05-05,H5N1,Red fox
+Wisconsin,Dane,2022-05-05,2022-05-06,H5N1,Red fox
+Wisconsin,Jefferson,2022-04-09,2022-05-06,H5N1,Red fox
+Wisconsin,Jefferson,2022-04-09,2022-05-06,H5N1,Red fox
+Minnesota,Anoka,2022-04-22,2022-05-10,H5N1,Red fox
+Iowa,Hancock,2022-05-06,2022-05-11,H5N1,Red fox
+Michigan,Lapeer,2022-04-14,2022-05-11,H5N1,Red fox
+Michigan,Macomb,2022-04-01,2022-05-11,H5N1,Red fox
+Michigan,Macomb,2022-04-01,2022-05-11,H5N1,Red fox
+Michigan,St Clair,2022-04-13,2022-05-11,H5N1,Red fox
+Minnesota,Hennepin,2022-05-10,2022-05-12,H5N1,Red fox
+Minnesota,Washington,2022-05-10,2022-05-12,H5N1,Red fox
+Minnesota,Dakota,2022-05-10,2022-05-12,H5N1,Red fox
+Minnesota,Hennepin,2022-05-10,2022-05-12,H5N1,Red fox
+Wisconsin,Adams,2022-05-03,2022-05-13,H5N1,Red fox
+Wisconsin,Adams,2022-05-03,2022-05-13,H5N1,Red fox
+Wisconsin,Dane,2022-04-12,2022-05-13,H5N1,Red fox
+Wisconsin,Grant,2022-05-06,2022-05-13,H5N1,Red fox
+Wisconsin,Grant,2022-05-06,2022-05-13,H5N1,Red fox
+Wisconsin,Jefferson,2022-04-11,2022-05-13,H5N1,Red fox
+Wisconsin,Rock,2022-04-19,2022-05-13,H5N1,Red fox
+New York,St Lawrence,2022-04-15,2022-05-16,H5N1,Red fox
+New York,Erie,2022-04-27,2022-05-16,H5N1,Red fox
+New York,Erie,2022-04-27,2022-05-16,H5N1,Red fox
+New York,St Lawrence,2022-04-15,2022-05-16,H5N1,Red fox
+New York,Tompkins,2022-04-11,2022-05-16,H5N1,Red fox
+Iowa,Cedar,2022-05-11,2022-05-18,H5N1,Red fox
+New York,Niagara,2022-05-10,2022-05-19,H5N1,Red fox
+Wisconsin,Lincoln,2022-05-05,2022-05-24,H5N1,Bobcat
+Wisconsin,Lincoln,2022-04-24,2022-05-24,H5N1,Bobcat
+Alaska,Aleutians West,2022-05-10,2022-05-25,H5N1,Red fox
+Minnesota,Stearns,2022-05-10,2022-05-27,H5N1,Red fox
+Minnesota,Itasca,2022-05-13,2022-05-27,H5N1,Red fox
+New York,Erie,2022-05-20,2022-05-27,H5N1,Red fox
+Iowa,Buchanan,2022-05-20,2022-05-31,H5N1,Virginia opossum
+Iowa,Buchanan,2022-05-20,2022-05-31,H5N1,Virginia opossum
+North Dakota,Dickey,2022-05-18,2022-06-02,H5N1,Red fox
+Minnesota,Scott,2022-05-29,2022-06-03,H5N1,Red fox
+Michigan,Osceola,2022-05-19,2022-06-07,H5N1,Red fox
+North Dakota,Burleigh,2022-05-18,2022-06-08,H5N1,Red fox
+Utah,Salt Lake,2022-05-26,2022-06-08,H5N1,Red fox
+Michigan,Midland,2022-05-10,2022-06-09,H5N1,Red fox
+Michigan,Midland,2022-05-10,2022-06-09,H5N1,Red fox
+Michigan,Osceola,2022-05-05,2022-06-09,H5N1,Red fox
+Michigan,Otsego,2022-05-18,2022-06-09,H5N1,Red fox
+Washington,Franklin,2022-06-06,2022-06-14,H5N1,Raccoon
+Washington,Franklin,2022-06-06,2022-06-14,H5N1,Raccoon
+Washington,Franklin,2022-06-06,2022-06-14,H5N1,Raccoon
+Washington,Franklin,2022-06-06,2022-06-14,H5N1,Raccoon
+Michigan,Bay,2022-05-18,2022-06-17,H5N1,Red fox
+Michigan,Gladwin,2022-05-14,2022-06-17,H5N1,Red fox
+Michigan,Muskegon,2022-06-01,2022-06-17,H5N1,Red fox
+Michigan,Wexford,2022-05-03,2022-06-17,H5N1,Coyote
+Idaho,Latah,2022-06-05,2022-06-21,H5N1,Striped skunk
+Idaho,Adams,2022-06-07,2022-06-22,H5N1,Striped skunk
+Idaho,Adams,2022-06-07,2022-06-22,H5N1,Striped skunk
+Michigan,Chippewa,2022-05-31,2022-06-24,H5N1,Red fox
+Michigan,Iron,2022-06-20,2022-06-24,H5N1,Raccoon
+Wisconsin,St Croix,2022-04-14,2022-06-29,H5N1,Fisher
+Maine,Cumberland,2022-06-24,2022-07-01,H5N1,Harbor seal
+Maine,Lincoln,2022-06-27,2022-07-01,H5N1,Harbor seal
+Maine,Sagadahoc,2022-06-26,2022-07-01,H5N1,Harbor seal
+Maine,York,2022-06-22,2022-07-01,H5N1,Harbor seal
+Washington,Stevens,2022-06-29,2022-07-06,EA/AM H5N1,Raccoon
+Alaska,Nome Census Area,2022-06-13,2022-07-07,EA/AM H5N1,Red fox
+Maine,Cumberland,2022-06-29,2022-07-11,H5N1,Harbor seal
+Maine,Cumberland,2022-06-28,2022-07-11,H5N1,Harbor seal
+Maine,Cumberland,2022-07-01,2022-07-11,H5N1,Harbor seal
+Maine,Cumberland,2022-07-02,2022-07-11,H5N1,Harbor seal
+Maine,Lincoln,2022-07-02,2022-07-11,H5N1,Harbor seal
+Maine,Sagadahoc,2022-07-01,2022-07-11,H5N1,Grey seal
+Michigan,Bay,2022-05-15,2022-07-18,H5N1,Red fox
+Maine,Cumberland,2022-07-07,2022-07-25,H5N1,Harbor seal
+Maine,Cumberland,2022-07-08,2022-07-25,H5N1,Harbor seal
+Maine,Cumberland,2022-07-09,2022-07-25,H5N1,Harbor seal
+Maine,Sagadahoc,2022-07-05,2022-07-25,H5N1,Harbor seal
+Maine,York,2022-07-09,2022-07-25,H5N1,Harbor seal
+Maine,York,2022-07-10,2022-07-25,H5N1,Harbor seal
+Idaho,Ada,2022-07-22,2022-08-03,H5N1,Skunk
+Maine,York,2022-07-13,2022-08-15,H5N1,Harbor seal
+Florida,Dixie,2022-03-30,2022-08-17,EA/AM H5N1,Bottlenose dolphin
+New York,Onandaga,2022-09-17,2022-09-27,H5N1,Amur leopard
+New York,Cayuga,2022-09-19,2022-10-06,H5N1,Red fox
+New York,Cayuga,2022-09-19,2022-10-06,H5N1,Red fox
+New York,Cayuga,2022-09-19,2022-10-06,H5N1,Red fox
+New York,Cayuga,2022-09-19,2022-10-06,H5N1,Red fox
+Illinois,Cook,2022-10-04,2022-10-26,H5N1,Virginia opossum
+New York,Tompkins,2022-10-20,2022-10-27,H5N1,Red fox
+Montana,Gallatin,2022-10-20,2022-10-28,H5N1,Skunk
+Minnesota,Itasca,2022-10-21,2022-11-03,H5N1,Striped skunk
+Colorado,Weld,2022-10-17,2022-11-10,H5N1,Striped skunk
+Alaska,Hoonah-Angoon,2022-10-20,2022-11-16,H5N1,American black bear
+Idaho,Jefferson,2022-11-04,2022-11-21,H5N1,Striped skunk
+Idaho,Jefferson,2022-11-04,2022-11-21,H5N1,Striped skunk
+Idaho,Jefferson,2022-11-04,2022-11-21,H5N1,Striped skunk
+Wisconsin,Douglas,2022-11-15,2022-11-21,H5N1,Striped skunk
+Wisconsin,Douglas,2022-11-15,2022-11-21,H5N1,Striped skunk
+Montana,Madison,2022-11-22,2022-12-02,H5N1,Red fox
+Montana,Teton,2022-10-31,2022-12-06,H5N1,Grizzly bear
+Alaska,Kodiak Island,2022-11-29,2022-12-06,H5N1,Kodiak bear
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Oregon,Columbia,2022-11-28,2022-12-08,H5N1,Skunk
+Washington,Island,2022-12-07,2022-12-16,H5N1,Raccoon
+Nebraska,Scotts Bluff,2022-04-20,2022-12-16,H5N1,Grizzly bear
+Oregon,Curry,2022-12-19,2023-01-03,H5N1,Raccoon
+Montana,Flathead,2022-12-16,2022-12-20,H5N1,Grizzly bear
+Montana,Cascade,2022-12-16,2022-12-20,H5N1,Striped Skunk
+Nebraska,Scotts Bluff,2022-12-21,2023-01-03,H5N1,Amur tiger
+Nebraska,Scotts Bluff,2022-12-21,2023-01-03,H5N1,Mountain lion
+South Dakota,Spink,2022-12-07,2023-01-09,H5N1,Red fox
+Wisconsin,Dane,2023-01-09,2023-01-23,H5N1,Red fox
+Washington,Spokane,2023-01-11,2023-01-23,H5N1,Bobcat
+California,Butte,2022-12-27,2023-01-24,H5N1,Bobcat
+Wyoming,Hot Springs,2023-01-08,2023-01-27,H5N1,Red fox
+Oregon,Crook,2023-01-23,2023-02-01,H5N1,Striped Skunk
+Oregon,Crook,2023-01-23,2023-02-01,H5N1,Striped Skunk
+Idaho,Madison,2022-09-20,2023-01-20,H5N1,Red fox
+North Carolina,Hyde,2022-12-26,2023-02-06,H5N1,American black bear
+Colorado,Huerfano,2023-01-09,2023-02-08,H5N1,American black bear
+Colorado,Gunnison,2023-01-17,2023-02-08,H5N1,Mountain lion
+Colorado,Alamosa,2022-12-27,2023-02-10,H5N1,Red fox
+Colorado,Pueblo,2023-01-24,2023-02-10,H5N1,Red fox
+Colorado,Boulder,2023-01-25,2023-02-10,H5N1,Mountain lion
+Colorado,Gunnison,2023-02-02,2023-02-10,H5N1,Mountain lion
+Colorado,El Paso,2023-02-07,2023-02-14,H5N1,Bobcat
+Kansas,Rawlins,2023-01-27,2023-02-14,H5N1,Striped skunk

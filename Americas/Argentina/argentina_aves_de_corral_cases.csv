@@ -1,0 +1,139 @@
+"Date Collected","Provincia","Species","New cases","Cumulative cases"
+2023-03-06,"Buenos Aires","Reproductores",2,2
+2023-03-06,"Chaco","Reproductores",0,0
+2023-03-06,"Cordoba","Reproductores",0,0
+2023-03-06,"Jujuy","Reproductores",0,0
+2023-03-06,"Neuquen","Reproductores",0,0
+2023-03-06,"Rio Negro","Reproductores",0,0
+2023-03-06,"Salta","Reproductores",0,0
+2023-03-06,"San Luis","Reproductores",0,0
+2023-03-06,"Santa Fe","Reproductores",0,0
+2023-03-06,"Santiago Del Estero","Reproductores",0,0
+2023-03-06,"Total","Reproductores",2,2
+2023-03-06,"Buenos Aires","Parrilleros",0,0
+2023-03-06,"Chaco","Parrilleros",0,0
+2023-03-06,"Cordoba","Parrilleros",0,0
+2023-03-06,"Jujuy","Parrilleros",0,0
+2023-03-06,"Neuquen","Parrilleros",0,0
+2023-03-06,"Rio Negro","Parrilleros",1,1
+2023-03-06,"Salta","Parrilleros",0,0
+2023-03-06,"San Luis","Parrilleros",0,0
+2023-03-06,"Santa Fe","Parrilleros",0,0
+2023-03-06,"Santiago Del Estero","Parrilleros",0,0
+2023-03-06,"Total","Parrilleros",1,1
+2023-03-06,"Buenos Aires","Ponedoras",0,0
+2023-03-06,"Chaco","Ponedoras",0,0
+2023-03-06,"Cordoba","Ponedoras",0,0
+2023-03-06,"Jujuy","Ponedoras",0,0
+2023-03-06,"Neuquen","Ponedoras",1,1
+2023-03-06,"Rio Negro","Ponedoras",0,0
+2023-03-06,"Salta","Ponedoras",0,0
+2023-03-06,"San Luis","Ponedoras",0,0
+2023-03-06,"Santa Fe","Ponedoras",0,0
+2023-03-06,"Santiago Del Estero","Ponedoras",0,0
+2023-03-06,"Total","Ponedoras",1,1
+2023-03-08,"Buenos Aires","Reproductores",0,2
+2023-03-08,"Chaco","Reproductores",0,0
+2023-03-08,"Cordoba","Reproductores",0,0
+2023-03-08,"Jujuy","Reproductores",0,0
+2023-03-08,"Neuquen","Reproductores",0,0
+2023-03-08,"Rio Negro","Reproductores",0,0
+2023-03-08,"Salta","Reproductores",0,0
+2023-03-08,"San Luis","Reproductores",0,0
+2023-03-08,"Santa Fe","Reproductores",0,0
+2023-03-08,"Santiago Del Estero","Reproductores",0,0
+2023-03-08,"Total","Reproductores",0,2
+2023-03-08,"Buenos Aires","Parrilleros",0,0
+2023-03-08,"Chaco","Parrilleros",0,0
+2023-03-08,"Cordoba","Parrilleros",0,0
+2023-03-08,"Jujuy","Parrilleros",0,0
+2023-03-08,"Neuquen","Parrilleros",0,0
+2023-03-08,"Rio Negro","Parrilleros",0,1
+2023-03-08,"Salta","Parrilleros",0,0
+2023-03-08,"San Luis","Parrilleros",0,0
+2023-03-08,"Santa Fe","Parrilleros",0,0
+2023-03-08,"Santiago Del Estero","Parrilleros",0,0
+2023-03-08,"Total","Parrilleros",0,1
+2023-03-08,"Buenos Aires","Ponedoras",0,0
+2023-03-08,"Chaco","Ponedoras",0,0
+2023-03-08,"Cordoba","Ponedoras",0,0
+2023-03-08,"Jujuy","Ponedoras",0,0
+2023-03-08,"Neuquen","Ponedoras",0,1
+2023-03-08,"Rio Negro","Ponedoras",0,0
+2023-03-08,"Salta","Ponedoras",0,0
+2023-03-08,"San Luis","Ponedoras",0,0
+2023-03-08,"Santa Fe","Ponedoras",0,0
+2023-03-08,"Santiago Del Estero","Ponedoras",0,0
+2023-03-08,"Total","Ponedoras",0,1
+2023-03-10,"Buenos Aires","Reproductores",0,2
+2023-03-10,"Chaco","Reproductores",0,0
+2023-03-10,"Cordoba","Reproductores",0,0
+2023-03-10,"Jujuy","Reproductores",0,0
+2023-03-10,"La Pampa","Reproductores",0,0
+2023-03-10,"Neuquen","Reproductores",0,0
+2023-03-10,"Rio Negro","Reproductores",0,0
+2023-03-10,"Salta","Reproductores",0,0
+2023-03-10,"San Luis","Reproductores",0,0
+2023-03-10,"Santa Fe","Reproductores",0,0
+2023-03-10,"Santiago Del Estero","Reproductores",0,0
+2023-03-10,"Total","Reproductores",0,2
+2023-03-10,"Buenos Aires","Parrilleros",0,0
+2023-03-10,"Chaco","Parrilleros",0,0
+2023-03-10,"Cordoba","Parrilleros",0,0
+2023-03-10,"Jujuy","Parrilleros",0,0
+2023-03-10,"La Pampa","Parrilleros",0,0
+2023-03-10,"Neuquen","Parrilleros",0,0
+2023-03-10,"Rio Negro","Parrilleros",1,2
+2023-03-10,"Salta","Parrilleros",0,0
+2023-03-10,"San Luis","Parrilleros",0,0
+2023-03-10,"Santa Fe","Parrilleros",0,0
+2023-03-10,"Santiago Del Estero","Parrilleros",0,0
+2023-03-10,"Total","Parrilleros",1,2
+2023-03-10,"Buenos Aires","Ponedoras",0,0
+2023-03-10,"Chaco","Ponedoras",0,0
+2023-03-10,"Cordoba","Ponedoras",0,0
+2023-03-10,"Jujuy","Ponedoras",0,0
+2023-03-10,"La Pampa","Ponedoras",0,0
+2023-03-10,"Neuquen","Ponedoras",0,1
+2023-03-10,"Rio Negro","Ponedoras",0,0
+2023-03-10,"Salta","Ponedoras",0,0
+2023-03-10,"San Luis","Ponedoras",0,0
+2023-03-10,"Santa Fe","Ponedoras",0,0
+2023-03-10,"Santiago Del Estero","Ponedoras",0,0
+2023-03-10,"Total","Ponedoras",0,1
+2023-03-11,"Buenos Aires","Reproductores",0,2
+2023-03-11,"Chaco","Reproductores",0,0
+2023-03-11,"Cordoba","Reproductores",0,0
+2023-03-11,"Jujuy","Reproductores",0,0
+2023-03-11,"La Pampa","Reproductores",0,0
+2023-03-11,"Neuquen","Reproductores",0,0
+2023-03-11,"Rio Negro","Reproductores",0,0
+2023-03-11,"Salta","Reproductores",0,0
+2023-03-11,"San Luis","Reproductores",0,0
+2023-03-11,"Santa Fe","Reproductores",0,0
+2023-03-11,"Santiago Del Estero","Reproductores",0,0
+2023-03-11,"Total","Reproductores",0,2
+2023-03-11,"Buenos Aires","Parrilleros",0,0
+2023-03-11,"Chaco","Parrilleros",0,0
+2023-03-11,"Cordoba","Parrilleros",0,0
+2023-03-11,"Jujuy","Parrilleros",0,0
+2023-03-11,"La Pampa","Parrilleros",0,0
+2023-03-11,"Neuquen","Parrilleros",0,0
+2023-03-11,"Rio Negro","Parrilleros",0,2
+2023-03-11,"Salta","Parrilleros",0,0
+2023-03-11,"San Luis","Parrilleros",0,0
+2023-03-11,"Santa Fe","Parrilleros",0,0
+2023-03-11,"Santiago Del Estero","Parrilleros",0,0
+2023-03-11,"Total","Parrilleros",0,2
+2023-03-11,"Buenos Aires","Ponedoras",0,0
+2023-03-11,"Chaco","Ponedoras",0,0
+2023-03-11,"Cordoba","Ponedoras",0,0
+2023-03-11,"Jujuy","Ponedoras",0,0
+2023-03-11,"La Pampa","Ponedoras",0,0
+2023-03-11,"Neuquen","Ponedoras",0,1
+2023-03-11,"Rio Negro","Ponedoras",0,0
+2023-03-11,"Salta","Ponedoras",0,0
+2023-03-11,"San Luis","Ponedoras",0,0
+2023-03-11,"Santa Fe","Ponedoras",0,0
+2023-03-11,"Santiago Del Estero","Ponedoras",0,0
+2023-03-11,"Total","Ponedoras",0,1
