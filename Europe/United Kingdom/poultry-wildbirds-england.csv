@@ -1,0 +1,179 @@
+"Report date","Region","WOAH Classification","Count of incidents"
+2022-10-03,"East Midlands","Wild bird",1
+2022-10-03,"North West","Wild bird",1
+2022-10-03,"South East","Wild bird",1
+2022-10-03,"South West","Wild bird",7
+2022-10-03,"West Midlands","Wild bird",2
+2022-10-10,"East of England","Wild bird",9
+2022-10-10,"North East","Wild bird",1
+2022-10-10,"North West","Wild bird",6
+2022-10-10,"South West","Wild bird",8
+2022-10-10,"West Midlands","Wild bird",4
+2022-10-10,"Yorkshire & Humber","Wild bird",1
+2022-10-17,"East Midlands","Wild bird",4
+2022-10-17,"East of England","Wild bird",6
+2022-10-17,"London","Wild bird",2
+2022-10-17,"North East","Wild bird",1
+2022-10-17,"North West","Wild bird",4
+2022-10-17,"South East","Wild bird",3
+2022-10-17,"South West","Wild bird",7
+2022-10-17,"West Midlands","Wild bird",4
+2022-10-17,"Yorkshire & Humber","Wild bird",2
+2022-10-24,"London","Wild bird",1
+2022-10-24,"North West","Wild bird",2
+2022-10-24,"South East","Wild bird",1
+2022-10-24,"West Midlands","Wild bird",2
+2022-10-24,"Yorkshire & Humber","Wild bird",1
+2022-10-31,"East Midlands","Wild bird",2
+2022-10-31,"East of England","Wild bird",6
+2022-10-31,"London","Wild bird",5
+2022-10-31,"North West","Wild bird",4
+2022-10-31,"South East","Wild bird",5
+2022-10-31,"South West","Wild bird",2
+2022-10-31,"West Midlands","Wild bird",6
+2022-10-31,"Yorkshire & Humber","Wild bird",4
+2022-11-07,"East Midlands","Wild bird",3
+2022-11-07,"East of England","Wild bird",4
+2022-11-07,"London","Wild bird",1
+2022-11-07,"North East","Wild bird",1
+2022-11-07,"North West","Wild bird",6
+2022-11-07,"South East","Wild bird",2
+2022-11-07,"South West","Wild bird",5
+2022-11-07,"West Midlands","Wild bird",3
+2022-11-07,"Yorkshire & Humber","Wild bird",4
+2022-11-14,"East Midlands","Wild bird",1
+2022-11-14,"East of England","Wild bird",13
+2022-11-14,"London","Wild bird",2
+2022-11-14,"North East","Wild bird",6
+2022-11-14,"North West","Wild bird",3
+2022-11-14,"South East","Wild bird",6
+2022-11-14,"South West","Wild bird",4
+2022-11-14,"West Midlands","Wild bird",10
+2022-11-14,"Yorkshire & Humber","Wild bird",9
+2022-11-21,"East Midlands","Wild bird",2
+2022-11-21,"East of England","Wild bird",4
+2022-11-21,"London","Wild bird",1
+2022-11-21,"North East","Wild bird",1
+2022-11-21,"North West","Wild bird",1
+2022-11-21,"South East","Wild bird",2
+2022-11-21,"South West","Wild bird",7
+2022-11-21,"West Midlands","Wild bird",2
+2022-11-21,"Yorkshire & Humber","Wild bird",9
+2022-11-28,"East of England","Wild bird",3
+2022-11-28,"London","Wild bird",4
+2022-11-28,"North West","Wild bird",2
+2022-11-28,"South East","Wild bird",4
+2022-11-28,"South West","Wild bird",2
+2022-11-28,"West Midlands","Wild bird",3
+2022-11-28,"Yorkshire & Humber","Wild bird",5
+2022-12-05,"East of England","Wild bird",1
+2022-12-05,"London","Wild bird",2
+2022-12-05,"North West","Wild bird",6
+2022-12-05,"South East","Wild bird",3
+2022-12-05,"West Midlands","Wild bird",1
+2022-12-05,"Yorkshire & Humber","Wild bird",5
+2022-12-12,"East of England","Wild bird",2
+2022-12-12,"London","Wild bird",1
+2022-12-12,"North East","Wild bird",2
+2022-12-12,"North West","Wild bird",5
+2022-12-12,"South East","Wild bird",3
+2022-12-12,"South West","Wild bird",2
+2022-12-12,"Yorkshire & Humber","Wild bird",11
+2022-12-19,"East Midlands","Wild bird",1
+2022-12-19,"East of England","Wild bird",4
+2022-12-19,"London","Wild bird",2
+2022-12-19,"North West","Wild bird",5
+2022-12-19,"South East","Wild bird",5
+2022-12-19,"West Midlands","Wild bird",2
+2022-12-19,"Yorkshire & Humber","Wild bird",3
+2022-12-26,"North East","Wild bird",3
+2022-12-26,"North West","Wild bird",4
+2022-12-26,"West Midlands","Wild bird",6
+2022-12-26,"Yorkshire & Humber","Wild bird",5
+2023-01-02,"East of England","Wild bird",2
+2023-01-02,"North East","Wild bird",14
+2023-01-02,"North West","Wild bird",3
+2023-01-02,"South East","Wild bird",6
+2023-01-02,"South West","Wild bird",3
+2023-01-02,"West Midlands","Wild bird",4
+2023-01-02,"Yorkshire & Humber","Wild bird",4
+2023-01-09,"East Midlands","Wild bird",1
+2023-01-09,"East of England","Wild bird",2
+2023-01-09,"North West","Wild bird",3
+2023-01-09,"South East","Wild bird",4
+2023-01-09,"West Midlands","Wild bird",2
+2023-01-09,"Yorkshire & Humber","Wild bird",4
+2023-01-16,"East of England","Wild bird",1
+2023-01-16,"London","Wild bird",1
+2023-01-16,"North West","Wild bird",3
+2023-01-16,"Yorkshire & Humber","Wild bird",1
+2023-01-23,"East Midlands","Wild bird",1
+2023-01-23,"East of England","Wild bird",1
+2023-01-23,"North East","Wild bird",2
+2023-01-23,"South East","Wild bird",1
+2023-01-23,"South West","Wild bird",1
+2023-01-23,"West Midlands","Wild bird",1
+2023-01-30,"East Midlands","Wild bird",1
+2023-01-30,"North East","Wild bird",1
+2023-01-30,"South West","Wild bird",1
+2023-01-30,"West Midlands","Wild bird",1
+2023-02-06,"North East","Wild bird",2
+2023-02-06,"North West","Wild bird",3
+2023-02-06,"South East","Wild bird",2
+2023-02-06,"South West","Wild bird",1
+2023-02-06,"West Midlands","Wild bird",1
+2023-02-06,"Yorkshire & Humber","Wild bird",1
+2022-09-26,"East of England","Infected premise",3
+2022-09-26,"South East","Infected premise",1
+2022-09-26,"West Midlands","Infected premise",1
+2022-10-03,"East of England","Infected premise",19
+2022-10-03,"North West","Infected premise",1
+2022-10-03,"South West","Infected premise",1
+2022-10-03,"West Midlands","Infected premise",1
+2022-10-10,"East Midlands","Infected premise",1
+2022-10-10,"East of England","Infected premise",12
+2022-10-10,"North West","Infected premise",2
+2022-10-10,"West Midlands","Infected premise",1
+2022-10-17,"East Midlands","Infected premise",1
+2022-10-17,"East of England","Infected premise",13
+2022-10-17,"North West","Infected premise",2
+2022-10-17,"South East","Infected premise",1
+2022-10-17,"Yorkshire & Humber","Infected premise",2
+2022-10-24,"East Midlands","Infected premise",3
+2022-10-24,"East of England","Infected premise",9
+2022-10-24,"North West","Infected premise",5
+2022-10-24,"South West","Infected premise",2
+2022-10-31,"East Midlands","Infected premise",3
+2022-10-31,"East of England","Infected premise",9
+2022-10-31,"North West","Infected premise",3
+2022-10-31,"Yorkshire & Humber","Infected premise",1
+2022-11-07,"East Midlands","Infected premise",2
+2022-11-07,"East of England","Infected premise",3
+2022-11-07,"North West","Infected premise",3
+2022-11-07,"West Midlands","Infected premise",1
+2022-11-07,"Yorkshire & Humber","Infected premise",1
+2022-11-14,"East Midlands","Infected premise",5
+2022-11-14,"South East","Infected premise",1
+2022-11-14,"South West","Infected premise",1
+2022-11-14,"Yorkshire & Humber","Infected premise",1
+2022-11-21,"East Midlands","Infected premise",2
+2022-11-21,"East of England","Infected premise",2
+2022-11-21,"North East","Infected premise",1
+2022-11-21,"West Midlands","Infected premise",3
+2022-11-21,"Yorkshire & Humber","Infected premise",1
+2022-11-28,"East of England","Infected premise",1
+2022-11-28,"South West","Infected premise",2
+2022-12-05,"East of England","Infected premise",2
+2022-12-05,"South East","Infected premise",1
+2022-12-12,"West Midlands","Infected premise",1
+2022-12-12,"Yorkshire & Humber","Infected premise",2
+2022-12-19,"East of England","Infected premise",1
+2022-12-19,"South East","Infected premise",1
+2022-12-19,"West Midlands","Infected premise",1
+2022-12-19,"Yorkshire & Humber","Infected premise",1
+2023-01-02,"East of England","Infected premise",2
+2023-01-09,"East of England","Infected premise",3
+2023-01-09,"North West","Infected premise",1
+2023-01-09,"West Midlands","Infected premise",1
+2023-01-16,"East Midlands","Infected premise",1
+2023-02-06,"North West","Infected premise",1
