@@ -4,9 +4,10 @@ This repository contains the most updated information on HPAI outbreaks in domes
 
 Currently, the United Kingdom is not included. For further information on this country, please refer to the website for [Avian Influenza (bird flu)](https://www.gov.uk/guidance/avian-influenza-bird-flu).
 
-## NEXT UPDATE
-1) Data from the United Kingdom will be added
-2) European data by species will be added
+## Information on data files
+1) The **Argentina** folder was added on March 12
+2) The **Americas**, **Asia**, **Africa** folders was added on March 15
+3) The **United Kingdom** folder was added on March 16
 
 ## Data dictionary
 
