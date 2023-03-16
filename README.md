@@ -2,7 +2,6 @@
 
 This repository contains the most updated information on HPAI outbreaks in domestic poultry and captive birds and HPAI positive cases in wild birds in (i) Europe, according to official reporting sources ([ADIS – Animal Disease Information System](https://eurlaidata.izsvenezie.it/)); (ii) USA, according to official reporting sources ([USDA - United States Department of Agriculture](https://www.aphis.usda.gov/aphis/home/)); (iii) Italy, according to official reporting sources ([IZSVe - Istituto Zooprofilattico Sperimentale delle Venezie](https://www.izsvenezie.com/)); (iv) Argentina, according to official reporting sources ([SENASA - DIRECCIÓN NACIONAL DE SANIDAD ANIMAL](https://www.argentina.gob.ar/senasa/influenza-aviar))
 
-Currently, the United Kingdom is not included. For further information on this country, please refer to the website for [Avian Influenza (bird flu)](https://www.gov.uk/guidance/avian-influenza-bird-flu).
 
 ## Information on data files
 1) The **Argentina** folder was added on March 12
