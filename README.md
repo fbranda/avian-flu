@@ -26,7 +26,7 @@ The [data dictionary](https://github.com/fbranda/avian-flu/blob/main/data_dictio
 | **Long**      | WGS84       | Longitude of the country  |
 | **HPAI strain**      | String       | Name of the HPAI strain  |
 | **WOAH Classification**      | String       | Name of the species  |
-| **Cases**      | Integer       | Number of cases  |
+| **Outbreaks**      | Integer       | Number of outbreaks  |
 
 
 **Directory:**  Italy<br>
