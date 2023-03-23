@@ -14,8 +14,8 @@ This repository contains the most updated information on HPAI outbreaks in domes
 3) The **United Kingdom** folder was added on March 16
 
 ## Visualization
-1) Italy Map
-<a href="https://lnkd.in/dbT2T3WG"><img src="https://github.com/fbranda/avian-flu/blob/main/images/Fr6xLWsXoAA_gpj.jpeg" alt="Italy" data-canonical-src="https://github.com/fbranda/avian-flu/blob/main/images/Fr6xLWsXoAA_gpj.jpeg" width="400"/></a>
+1) Italy Map <br><br>
+<a href="https://lnkd.in/dbT2T3WG"><img src="https://github.com/fbranda/avian-flu/blob/main/images/Fr6xLWsXoAA_gpj.jpeg" alt="Italy" data-canonical-src="https://github.com/fbranda/avian-flu/blob/main/images/Fr6xLWsXoAA_gpj.jpeg" width="700"/></a>
 
 ## Data dictionary
 
