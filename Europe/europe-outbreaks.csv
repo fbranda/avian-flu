@@ -3446,7 +3446,7 @@
 2022-11-16,"France",46.2276,2.2137,"H5N1","Farm",5
 2022-11-16,"France",46.2276,2.2137,"H5N1","Wild birds",3
 2022-11-16,"Croatia",45.1,15.2,"H5N1","Backyard",1
-2022-11-16,"Italy",NA,NA,"H5N1","Farm",1
+2022-11-16,"Italy",41.87194,12.56738,"H5N1","Farm",1
 2022-11-17,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
 2022-11-17,"Norway",60.472,8.4689,"H5N1","Wild birds",3
 2022-11-17,"Northern Ireland",53.1424,-7.6921,"H5N1","Wild birds",1
@@ -3859,7 +3859,7 @@
 2023-01-19,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
 2023-01-19,"Germany",51.165691,10.451526,"H5N1","Captive birds",2
 2023-01-19,"Germany",51.165691,10.451526,"H5N1","Wild birds",6
-2023-01-19,"France",46.2276,2.2137,"H5N1","Farm",3
+2023-01-19,"France",46.2276,2.2137,"H5N1","Farm",4
 2023-01-19,"France",46.2276,2.2137,"H5N1","Wild birds",3
 2023-01-19,"Czech Republic",49.8175,15.473,"H5N1","Farm",1
 2023-01-19,"Belgium",50.8333,44.69936,"H5N1","Wild birds",3
@@ -3904,7 +3904,6 @@
 2023-01-25,"The Netherlands",52.1326,5.2913,"H5N1","Farm",1
 2023-01-25,"Poland",51.9194,19.1451,"H5N1","Backyard",2
 2023-01-25,"Poland",51.9194,19.1451,"H5N1","Farm",1
-2023-01-25,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
 2023-01-25,"France",46.2276,2.2137,"H5N1","Captive birds",1
 2023-01-25,"France",46.2276,2.2137,"H5N1","Farm",2
 2023-01-25,"France",46.2276,2.2137,"H5N1","Wild birds",1
@@ -3913,6 +3912,7 @@
 2023-01-25,"Austria",47.5162,14.5501,"H5N1","Farm",1
 2023-01-25,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
 2023-01-25,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-01-25,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
 2023-01-26,"The Netherlands",52.1326,5.2913,"H5N1","Farm",1
 2023-01-26,"Sweden",60.128161,18.643501,"H5N1","Captive birds",1
 2023-01-26,"Sweden",60.128161,18.643501,"H5N1","Wild birds",2
@@ -3921,10 +3921,10 @@
 2023-01-26,"Slovakia",48.669,19.699,"H5N1","Wild birds",2
 2023-01-26,"Poland",51.9194,19.1451,"H5N1","Wild birds",1
 2023-01-26,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-01-26,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
 2023-01-26,"France",46.2276,2.2137,"H5N1","Captive birds",2
 2023-01-26,"Czech Republic",49.8175,15.473,"H5N1","Farm",1
 2023-01-26,"Belgium",50.8333,44.69936,"H5N1","Wild birds",6
+2023-01-26,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
 2023-01-27,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",3
 2023-01-27,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",4
 2023-01-27,"Romania",45.9432,24.9668,"H5N1","Farm",2
@@ -3935,16 +3935,16 @@
 2023-01-27,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
 2023-01-27,"Ireland",53.1424,-7.6921,"H5N1","Wild birds",1
 2023-01-27,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-01-27,"Germany",51.165691,10.451526,"H5N1","Wild birds",3
 2023-01-27,"France",46.2276,2.2137,"H5N1","Wild birds",4
 2023-01-27,"Denmark",56.2639,9.5018,"H5N1","Wild birds",2
 2023-01-27,"Germany",51.165691,10.451526,"H5","Wild birds",1
 2023-01-27,"Austria",47.5162,14.5501,"H5N1","Wild birds",5
 2023-01-27,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-01-27,"Germany",51.165691,10.451526,"H5N1","Wild birds",3
 2023-01-28,"Romania",45.9432,24.9668,"H5N1","Farm",1
 2023-01-30,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
-2023-01-30,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
 2023-01-30,"France",46.2276,2.2137,"H5N1","Wild birds",7
+2023-01-30,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
 2023-01-31,"Turkey",38.9637,35.2433,"H5N1","Farm",1
 2023-01-31,"Sweden",60.128161,18.643501,"H5N1","Wild birds",1
 2023-01-31,"Slovakia",48.669,19.699,"H5N1","Backyard",1
@@ -3959,24 +3959,24 @@
 2023-02-01,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",1
 2023-02-01,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
 2023-02-01,"Norway",60.472,8.4689,"H5N1","Wild birds",3
-2023-02-01,"Germany",51.165691,10.451526,"H5N1","Wild birds",4
-2023-02-01,"France",46.2276,2.2137,"H5N1","Wild birds",14
+2023-02-01,"France",46.2276,2.2137,"H5N1","Wild birds",15
 2023-02-01,"Czech Republic",49.8175,15.473,"H5N1","Backyard",1
 2023-02-01,"Belgium",50.8333,44.69936,"H5N1","Wild birds",3
 2023-02-01,"Austria",47.5162,14.5501,"H5N1","Wild birds",3
 2023-02-01,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-02-01,"Germany",51.165691,10.451526,"H5N1","Wild birds",4
 2023-02-02,"United Kingdom",55.3781,-3.436,"H5N1","Wild birds",1
 2023-02-02,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",1
 2023-02-02,"Sweden",60.128161,18.643501,"H5N1","Wild birds",2
 2023-02-02,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
 2023-02-02,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-02,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
 2023-02-02,"France",46.2276,2.2137,"H5N1","Captive birds",4
 2023-02-02,"France",46.2276,2.2137,"H5N1","Wild birds",10
 2023-02-02,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
 2023-02-02,"Austria",47.5162,14.5501,"H5N1","Farm",1
 2023-02-02,"Austria",47.5162,14.5501,"H5N1","Wild birds",3
 2023-02-02,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-02-02,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
 2023-02-03,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
 2023-02-03,"Slovenia",46.1512,14.9955,"H5N1","Captive birds",1
 2023-02-03,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
@@ -3986,56 +3986,56 @@
 2023-02-03,"Italy",41.87194,12.56738,"H5N1","Wild birds",2
 2023-02-03,"Ireland",53.1424,-7.6921,"H5N1","Wild birds",1
 2023-02-03,"Germany",51.165691,10.451526,"H5N1","Captive birds",2
-2023-02-03,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
 2023-02-03,"France",46.2276,2.2137,"H5N1","Captive birds",1
 2023-02-03,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-03,"France",46.2276,2.2137,"H5N1","Wild birds",13
 2023-02-03,"Denmark",56.2639,9.5018,"H5N1","Wild birds",3
 2023-02-03,"Czech Republic",49.8175,15.473,"H5N1","Wild birds",1
 2023-02-03,"Belgium",50.8333,44.69936,"H5N1","Wild birds",3
+2023-02-03,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
 2023-02-04,"Poland",51.9194,19.1451,"H5N1","Farm",1
 2023-02-05,"Poland",51.9194,19.1451,"H5N1","Farm",1
 2023-02-06,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",1
 2023-02-06,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
-2023-02-06,"Germany",51.165691,10.451526,"H5N1","Wild birds",17
 2023-02-06,"France",46.2276,2.2137,"H5N1","Farm",1
-2023-02-06,"France",46.2276,2.2137,"H5N1","Wild birds",8
+2023-02-06,"France",46.2276,2.2137,"H5N1","Wild birds",10
 2023-02-06,"Denmark",56.2639,9.5018,"H5N1","Wild birds",4
 2023-02-06,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-02-06,"Germany",51.165691,10.451526,"H5N1","Wild birds",17
 2023-02-07,"Switzerland",46.8182,8.2275,"H5N1","Captive birds",1
 2023-02-07,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",1
 2023-02-07,"Sweden",60.128161,18.643501,"H5N1","Wild birds",4
 2023-02-07,"Slovenia",46.1512,14.9955,"H5N1","Captive birds",1
 2023-02-07,"Poland",51.9194,19.1451,"H5N1","Farm",1
 2023-02-07,"Hungary",47.1625,19.5033,"H5N1","Farm",1
-2023-02-07,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
 2023-02-07,"France",46.2276,2.2137,"H5N1","Farm",2
 2023-02-07,"France",46.2276,2.2137,"H5N1","Wild birds",20
 2023-02-07,"Czech Republic",49.8175,15.473,"H5N1","Wild birds",1
 2023-02-07,"Belgium",50.8333,44.69936,"H5N1","Wild birds",14
 2023-02-07,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-02-07,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
 2023-02-08,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",11
 2023-02-08,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",3
 2023-02-08,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
 2023-02-08,"Poland",51.9194,19.1451,"H5N1","Wild birds",3
 2023-02-08,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
-2023-02-08,"Germany",51.165691,10.451526,"H5N1","Wild birds",12
 2023-02-08,"France",46.2276,2.2137,"H5N1","Farm",2
 2023-02-08,"France",46.2276,2.2137,"H5N1","Wild birds",8
 2023-02-08,"Denmark",56.2639,9.5018,"H5N1","Wild birds",2
 2023-02-08,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-08,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
 2023-02-08,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-02-08,"Germany",51.165691,10.451526,"H5N1","Wild birds",12
 2023-02-09,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",1
 2023-02-09,"Sweden",60.128161,18.643501,"H5N1","Wild birds",1
 2023-02-09,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
 2023-02-09,"Poland",51.9194,19.1451,"H5N1","Farm",2
 2023-02-09,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
 2023-02-09,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-09,"Germany",51.165691,10.451526,"H5N1","Wild birds",8
 2023-02-09,"France",46.2276,2.2137,"H5N1","Wild birds",11
 2023-02-09,"Belgium",50.8333,44.69936,"H5N1","Wild birds",12
 2023-02-09,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-02-09,"Germany",51.165691,10.451526,"H5N1","Wild birds",8
 2023-02-10,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",2
 2023-02-10,"Sweden",60.128161,18.643501,"H5N1","Wild birds",1
 2023-02-10,"Spain",40.463667,-3.74922,"H5N1","Farm",1
@@ -4044,13 +4044,13 @@
 2023-02-10,"Italy",41.87194,12.56738,"H5N1","Wild birds",12
 2023-02-10,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
 2023-02-10,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-10,"Germany",51.165691,10.451526,"H5N1","Wild birds",5
 2023-02-10,"France",46.2276,2.2137,"H5N1","Farm",2
 2023-02-10,"France",46.2276,2.2137,"H5N1","Wild birds",8
 2023-02-10,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-10,"Belgium",50.8333,44.69936,"H5N1","Wild birds",10
 2023-02-10,"Austria",47.5162,14.5501,"H5N1","Captive birds",1
 2023-02-10,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-02-10,"Germany",51.165691,10.451526,"H5N1","Wild birds",5
 2023-02-11,"Poland",51.9194,19.1451,"H5N1","Farm",8
 2023-02-12,"Poland",51.9194,19.1451,"H5N1","Backyard",4
 2023-02-13,"The Netherlands",52.1326,5.2913,"H5N1","Captive birds",1
@@ -4059,47 +4059,52 @@
 2023-02-13,"Poland",51.9194,19.1451,"H5N1","Farm",4
 2023-02-13,"Italy",41.87194,12.56738,"H5N1","Wild birds",2
 2023-02-13,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-13,"Germany",51.165691,10.451526,"H5N1","Wild birds",21
 2023-02-13,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
+2023-02-13,"Germany",51.165691,10.451526,"H5N1","Wild birds",21
+2023-02-13,"France",46.2276,2.2137,"H5N1","Wild birds",10
 2023-02-14,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",7
 2023-02-14,"Poland",51.9194,19.1451,"H5N1","Wild birds",2
 2023-02-14,"Norway",60.472,8.4689,"H5N1","Wild birds",2
 2023-02-14,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
 2023-02-14,"Hungary",47.1625,19.5033,"H5N1","Farm",1
 2023-02-14,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-14,"Germany",51.165691,10.451526,"H5N1","Wild birds",3
 2023-02-14,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-14,"Denmark",56.2639,9.5018,"H5N1","Wild birds",4
 2023-02-14,"Belgium",50.8333,44.69936,"H5N1","Wild birds",11
+2023-02-14,"Germany",51.165691,10.451526,"H5N1","Wild birds",3
+2023-02-14,"France",46.2276,2.2137,"H5N1","Wild birds",12
 2023-02-15,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",3
 2023-02-15,"Luxembourg",49.8153,6.1296,"H5N1","Wild birds",1
 2023-02-15,"Italy",41.87194,12.56738,"H5N1","Wild birds",4
 2023-02-15,"Ireland",53.1424,-7.6921,"H5N1","Wild birds",2
 2023-02-15,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
-2023-02-15,"Germany",51.165691,10.451526,"H5N1","Wild birds",22
 2023-02-15,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
 2023-02-15,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-02-15,"Germany",51.165691,10.451526,"H5N1","Wild birds",22
+2023-02-15,"France",46.2276,2.2137,"H5N1","Wild birds",5
 2023-02-16,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",3
 2023-02-16,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
 2023-02-16,"Hungary",47.1625,19.5033,"H5N1","Farm",2
-2023-02-16,"Germany",51.165691,10.451526,"H5N1","Wild birds",6
 2023-02-16,"France",46.2276,2.2137,"H5N1","Captive birds",3
 2023-02-16,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-16,"Belgium",50.8333,44.69936,"H5N1","Captive birds",2
 2023-02-16,"Belgium",50.8333,44.69936,"H5N1","Wild birds",11
+2023-02-16,"Germany",51.165691,10.451526,"H5N1","Wild birds",6
+2023-02-16,"France",46.2276,2.2137,"H5N1","Wild birds",14
 2023-02-17,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
 2023-02-17,"Poland",51.9194,19.1451,"H5N1","Backyard",1
 2023-02-17,"Poland",51.9194,19.1451,"H5N1","Wild birds",2
 2023-02-17,"Italy",41.87194,12.56738,"H5N1","Wild birds",2
 2023-02-17,"Ireland",53.1424,-7.6921,"H5N1","Wild birds",1
 2023-02-17,"Hungary",47.1625,19.5033,"H5N1","Farm",1
-2023-02-17,"Germany",51.165691,10.451526,"H5N1","Wild birds",18
 2023-02-17,"France",46.2276,2.2137,"H5N1","Captive birds",2
 2023-02-17,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-17,"Denmark",56.2639,9.5018,"H5N1","Wild birds",5
 2023-02-17,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-17,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
 2023-02-17,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-02-17,"Germany",51.165691,10.451526,"H5N1","Wild birds",18
+2023-02-17,"France",46.2276,2.2137,"H5N1","Wild birds",8
 2023-02-18,"Hungary",47.1625,19.5033,"H5N1","Farm",3
 2023-02-18,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
 2023-02-18,"Germany",51.165691,10.451526,"H5N1","Farm",1
@@ -4108,12 +4113,13 @@
 2023-02-20,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
 2023-02-20,"Hungary",47.1625,19.5033,"H5N1","Farm",1
 2023-02-20,"Germany",51.165691,10.451526,"H5N1","Farm",1
-2023-02-20,"Germany",51.165691,10.451526,"H5N1","Wild birds",11
 2023-02-20,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-20,"Czech Republic",49.8175,15.473,"H5N1","Backyard",3
 2023-02-20,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-20,"Belgium",50.8333,44.69936,"H5N1","Wild birds",6
 2023-02-20,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-02-20,"Germany",51.165691,10.451526,"H5N1","Wild birds",11
+2023-02-20,"France",46.2276,2.2137,"H5N1","Wild birds",2
 2023-02-21,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",15
 2023-02-21,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",2
 2023-02-21,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
@@ -4121,8 +4127,9 @@
 2023-02-21,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
 2023-02-21,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
 2023-02-21,"Germany",51.165691,10.451526,"H5N1","Farm",1
-2023-02-21,"Germany",51.165691,10.451526,"H5N1","Wild birds",2
 2023-02-21,"France",46.2276,2.2137,"H5N1","Captive birds",1
+2023-02-21,"Germany",51.165691,10.451526,"H5N1","Wild birds",2
+2023-02-21,"France",46.2276,2.2137,"H5N1","Wild birds",6
 2023-02-22,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",4
 2023-02-22,"Sweden",60.128161,18.643501,"H5N1","Wild birds",1
 2023-02-22,"Poland",51.9194,19.1451,"H5N1","Backyard",1
@@ -4132,14 +4139,15 @@
 2023-02-22,"Germany",51.165691,10.451526,"H5N1","Captive birds",1
 2023-02-22,"France",46.2276,2.2137,"H5N1","Farm",2
 2023-02-22,"Denmark",56.2639,9.5018,"H5N1","Wild birds",1
+2023-02-22,"France",46.2276,2.2137,"H5N1","Wild birds",7
 2023-02-23,"Sweden",60.128161,18.643501,"H5N1","Wild birds",3
 2023-02-23,"Spain",40.463667,-3.74922,"H5N1","Wild birds",2
 2023-02-23,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",2
 2023-02-23,"Slovakia",48.669,19.699,"H5N1","Wild birds",1
 2023-02-23,"Norway",60.472,8.4689,"H5N1","Wild birds",3
-2023-02-23,"Italy",41.87194,12.56738,"H5N1","Wild birds",8
-2023-02-23,"Germany",51.165691,10.451526,"H5N1","Wild birds",15
+2023-02-23,"Italy",41.87194,12.56738,"H5N1","Wild birds",9
 2023-02-23,"France",46.2276,2.2137,"H5N1","Farm",4
+2023-02-23,"Germany",51.165691,10.451526,"H5N1","Wild birds",16
 2023-02-24,"Turkey",38.9637,35.2433,"H5N1","Farm",1
 2023-02-24,"The Netherlands",52.1326,5.2913,"H5N1","Captive birds",1
 2023-02-24,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",11
@@ -4148,21 +4156,24 @@
 2023-02-24,"Italy",41.87194,12.56738,"H5N1","Wild birds",11
 2023-02-24,"Hungary",47.1625,19.5033,"H5N1","Wild birds",2
 2023-02-24,"Germany",51.165691,10.451526,"H5N1","Farm",1
-2023-02-24,"Germany",51.165691,10.451526,"H5N1","Wild birds",9
 2023-02-24,"France",46.2276,2.2137,"H5N1","Captive birds",1
 2023-02-24,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-24,"Belgium",50.8333,44.69936,"H5N1","Farm",1
 2023-02-24,"Belgium",50.8333,44.69936,"H5N1","Wild birds",6
+2023-02-24,"Germany",51.165691,10.451526,"H5N1","Wild birds",16
+2023-02-24,"France",46.2276,2.2137,"H5N1","Wild birds",1
 2023-02-25,"Hungary",47.1625,19.5033,"H5N1","Farm",1
 2023-02-25,"Hungary",47.1625,19.5033,"H5N1","Wild birds",2
 2023-02-25,"France",46.2276,2.2137,"H5N1","Farm",1
 2023-02-26,"Poland",51.9194,19.1451,"H5N1","Backyard",1
 2023-02-27,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
 2023-02-27,"Hungary",47.1625,19.5033,"H5N1","Farm",1
-2023-02-27,"Germany",51.165691,10.451526,"H5N1","Wild birds",4
 2023-02-27,"Czech Republic",49.8175,15.473,"H5N1","Wild birds",1
 2023-02-27,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-27,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
+2023-02-27,"France",46.2276,2.2137,"H5N1","Wild birds",10
+2023-02-27,"Germany",51.165691,10.451526,"H5N1","Wild birds",13
+2023-02-27,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",7
 2023-02-28,"Slovakia",48.669,19.699,"H5N1","Wild birds",1
 2023-02-28,"Hungary",47.1625,19.5033,"H5N1","Farm",1
 2023-02-28,"Germany",51.165691,10.451526,"H5N1","Farm",1
@@ -4170,3 +4181,192 @@
 2023-02-28,"Czech Republic",49.8175,15.473,"H5N1","Backyard",1
 2023-02-28,"Belgium",50.8333,44.69936,"H5N1","Captive birds",1
 2023-02-28,"Austria",47.5162,14.5501,"H5N1","Wild birds",2
+2023-02-28,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-02-28,"Germany",51.165691,10.451526,"H5N1","Wild birds",6
+2023-02-28,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",7
+2023-02-28,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",2
+2023-03-01,"Sweden",60.128161,18.643501,"H5N5","Wild birds",1
+2023-03-01,"Austria",47.5162,14.5501,"H5N1","Wild birds",2
+2023-03-01,"Denmark",56.2639,9.5018,"H5N1","Wild birds",2
+2023-03-01,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-01,"Germany",51.165691,10.451526,"H5N1","Wild birds",15
+2023-03-01,"Hungary",NA,NA,"H5N1","Backyard",1
+2023-03-01,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-01,"Hungary",47.1625,19.5033,"H5N1","Wild birds",3
+2023-03-01,"Italy",41.87194,12.56738,"H5N1","Wild birds",5
+2023-03-01,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-01,"Spain",40.463667,-3.74922,"H5N1","Wild birds",2
+2023-03-01,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",3
+2023-03-01,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",1
+2023-03-02,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-02,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
+2023-03-02,"France",NA,NA,"H5N1","Farm",1
+2023-03-02,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-02,"Germany",51.165691,10.451526,"H5N1","Wild birds",2
+2023-03-02,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-02,"Italy",41.87194,12.56738,"H5N1","Wild birds",4
+2023-03-02,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
+2023-03-02,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",6
+2023-03-02,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",6
+2023-03-02,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-03-03,"Belgium",50.8333,44.69936,"H5","Wild birds",1
+2023-03-03,"Austria",47.5162,14.5501,"H5N1","Wild birds",3
+2023-03-03,"Belgium",50.8333,44.69936,"H5N1","Wild birds",3
+2023-03-03,"Czech Republic",NA,NA,"H5N1","Backyard",1
+2023-03-03,"Denmark",56.2639,9.5018,"H5N1","Wild birds",1
+2023-03-03,"Estonia",NA,NA,"H5N1","Farm",1
+2023-03-03,"France",NA,NA,"H5N1","Captive birds",1
+2023-03-03,"France",46.2276,2.2137,"H5N1","Wild birds",7
+2023-03-03,"Germany",51.165691,10.451526,"H5N1","Wild birds",8
+2023-03-03,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-03,"Italy",41.87194,12.56738,"H5N1","Wild birds",3
+2023-03-03,"Poland",51.9194,19.1451,"H5N1","Wild birds",3
+2023-03-03,"Sweden",60.128161,18.643501,"H5N1","Wild birds",3
+2023-03-03,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",4
+2023-03-03,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",15
+2023-03-04,"Hungary",47.1625,19.5033,"H5N1","Wild birds",1
+2023-03-04,"Germany",NA,NA,"H5N1","Captive birds",1
+2023-03-05,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-06,"France",46.2276,2.2137,"H5N1","Wild birds",3
+2023-03-06,"Germany",NA,NA,"H5N1","Captive birds",1
+2023-03-06,"Germany",51.165691,10.451526,"H5N1","Wild birds",5
+2023-03-06,"Hungary",NA,NA,"H5N1","Captive birds",1
+2023-03-06,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-06,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
+2023-03-06,"Poland",51.9194,19.1451,"H5N1","Wild birds",1
+2023-03-06,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-06,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",9
+2023-03-07,"Denmark",56.2639,9.5018,"H5N1","Wild birds",1
+2023-03-07,"France",NA,NA,"H5N1","Farm",1
+2023-03-07,"Germany",51.165691,10.451526,"H5N1","Wild birds",16
+2023-03-07,"Hungary",NA,NA,"H5N1","Farm",6
+2023-03-07,"Italy",NA,NA,"H5N1","Farm",1
+2023-03-07,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
+2023-03-07,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",8
+2023-03-07,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",1
+2023-03-08,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-03-08,"Germany",51.165691,10.451526,"H5N1","Wild birds",11
+2023-03-08,"Italy",41.87194,12.56738,"H5N1","Wild birds",6
+2023-03-08,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-08,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",5
+2023-03-08,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",4
+2023-03-09,"Germany",51.165691,10.451526,"H5","Wild birds",1
+2023-03-09,"Belgium",50.8333,44.69936,"H5N1","Wild birds",4
+2023-03-09,"France",46.2276,2.2137,"H5N1","Wild birds",3
+2023-03-09,"Germany",51.165691,10.451526,"H5N1","Wild birds",6
+2023-03-09,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-09,"Italy",41.87194,12.56738,"H5N1","Wild birds",2
+2023-03-09,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",10
+2023-03-09,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",3
+2023-03-10,"Belgium",50.8333,44.69936,"H5N1","Wild birds",2
+2023-03-10,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-03-10,"Germany",NA,NA,"H5N1","Farm",1
+2023-03-10,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
+2023-03-10,"Italy",41.87194,12.56738,"H5N1","Wild birds",18
+2023-03-10,"Italy",41.87194,12.56738,"N/A","Wild birds",1
+2023-03-10,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",2
+2023-03-10,"Spain",40.463667,-3.74922,"H5N1","Wild birds",1
+2023-03-10,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",1
+2023-03-11,"Germany",NA,NA,"H5N1","Captive birds",1
+2023-03-12,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
+2023-03-13,"Austria",47.5162,14.5501,"H5N1","Wild birds",6
+2023-03-13,"France",NA,NA,"H5N1","Captive birds",1
+2023-03-13,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-03-13,"Germany",51.165691,10.451526,"H5N1","Wild birds",8
+2023-03-13,"Italy",41.87194,12.56738,"H5N1","Wild birds",3
+2023-03-13,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",8
+2023-03-13,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",9
+2023-03-14,"Austria",47.5162,14.5501,"H5N1","Wild birds",2
+2023-03-14,"France",NA,NA,"H5N1","Farm",1
+2023-03-14,"France",46.2276,2.2137,"H5N1","Wild birds",2
+2023-03-14,"Germany",NA,NA,"H5N1","Farm",1
+2023-03-14,"Germany",51.165691,10.451526,"H5N1","Wild birds",3
+2023-03-14,"Italy",41.87194,12.56738,"H5N1","Wild birds",9
+2023-03-14,"Poland",51.9194,19.1451,"H5N1","Wild birds",2
+2023-03-14,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",5
+2023-03-15,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-03-15,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-15,"Belgium",50.8333,44.69936,"H5N1","Wild birds",4
+2023-03-15,"Denmark",56.2639,9.5018,"H5N1","Wild birds",2
+2023-03-15,"France",46.2276,2.2137,"H5N1","Wild birds",2
+2023-03-15,"Germany",NA,NA,"H5N1","Farm",1
+2023-03-15,"Germany",51.165691,10.451526,"H5N1","Wild birds",8
+2023-03-15,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-15,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",14
+2023-03-15,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",15
+2023-03-16,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-16,"Germany",NA,NA,"H5N1","Farm",1
+2023-03-16,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
+2023-03-16,"Italy",NA,NA,"H5N1","Farm",1
+2023-03-16,"Italy",41.87194,12.56738,"H5N1","Wild birds",5
+2023-03-16,"Lithuania",NA,NA,"H5N1","Captive birds",1
+2023-03-16,"Poland",51.9194,19.1451,"H5N1","Wild birds",1
+2023-03-16,"Spain",40.463667,-3.74922,"H5N1","Wild birds",2
+2023-03-17,"Austria",47.5162,14.5501,"H5N1","Wild birds",3
+2023-03-17,"Denmark",NA,NA,"H5N1","Farm",1
+2023-03-17,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-03-17,"Germany",51.165691,10.451526,"H5N1","Wild birds",4
+2023-03-17,"Italy",41.87194,12.56738,"H5N1","Wild birds",12
+2023-03-17,"Italy",41.87194,12.56738,"N/A","Wild birds",1
+2023-03-17,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",4
+2023-03-17,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",3
+2023-03-19,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",1
+2023-03-19,"Germany",NA,NA,"H5N1","Captive birds",1
+2023-03-19,"Germany",51.165691,10.451526,"H5N1","Wild birds",2
+2023-03-20,"Ireland",53.1424,-7.6921,"H5","Wild birds",1
+2023-03-20,"Norway",60.472,8.4689,"H5N5","Wild birds",1
+2023-03-20,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-20,"Belgium",NA,NA,"H5N1","Captive birds",1
+2023-03-20,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-20,"Germany",51.165691,10.451526,"H5N1","Wild birds",4
+2023-03-20,"Ireland",53.1424,-7.6921,"H5N1","Wild birds",3
+2023-03-20,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-20,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",1
+2023-03-20,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",9
+2023-03-21,"Sweden",60.128161,18.643501,"H5","Wild birds",1
+2023-03-21,"France",46.2276,2.2137,"H5N1","Wild birds",4
+2023-03-21,"Italy",41.87194,12.56738,"H5N1","Wild birds",7
+2023-03-21,"Sweden",NA,NA,"H5N1","Farm",1
+2023-03-21,"Sweden",60.128161,18.643501,"H5N1","Wild birds",1
+2023-03-22,"Germany",51.165691,10.451526,"H5N1","Wild birds",16
+2023-03-22,"Italy",41.87194,12.56738,"H5N1","Wild birds",1
+2023-03-22,"Poland",NA,NA,"H5N1","Farm",2
+2023-03-22,"Slovenia",46.1512,14.9955,"H5N1","Wild birds",1
+2023-03-22,"Switzerland",NA,NA,"H5N1","Backyard",1
+2023-03-22,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",4
+2023-03-22,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",8
+2023-03-23,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-23,"Belgium",NA,NA,"H5N1","Captive birds",1
+2023-03-23,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
+2023-03-23,"Czech Republic",NA,NA,"H5N1","Backyard",1
+2023-03-23,"France",46.2276,2.2137,"H5N1","Wild birds",2
+2023-03-23,"Germany",51.165691,10.451526,"H5N1","Wild birds",17
+2023-03-23,"Hungary",NA,NA,"H5N1","Farm",2
+2023-03-23,"Serbia",44.0165,21.0059,"H5N1","Wild birds",2
+2023-03-24,"Austria",47.5162,14.5501,"H5N1","Wild birds",4
+2023-03-24,"Denmark",56.2639,9.5018,"H5N1","Wild birds",1
+2023-03-24,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-24,"Germany",51.165691,10.451526,"H5N1","Wild birds",7
+2023-03-24,"Italy",41.87194,12.56738,"H5N1","Wild birds",2
+2023-03-24,"Poland",51.9194,19.1451,"H5N1","Wild birds",1
+2023-03-24,"Switzerland",46.8182,8.2275,"H5N1","Wild birds",6
+2023-03-24,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",4
+2023-03-25,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-27,"Belgium",50.8333,44.69936,"H5N1","Wild birds",1
+2023-03-27,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-27,"Germany",51.165691,10.451526,"H5N1","Wild birds",10
+2023-03-27,"Romania",45.9432,24.9668,"H5N1","Wild birds",1
+2023-03-28,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-28,"Czech Republic",49.8175,15.473,"H5N1","Wild birds",1
+2023-03-28,"France",46.2276,2.2137,"H5N1","Wild birds",1
+2023-03-28,"Germany",51.165691,10.451526,"H5N1","Wild birds",21
+2023-03-28,"Italy",NA,NA,"H5N1","Farm",1
+2023-03-28,"The Netherlands",52.1326,5.2913,"H5N1","Wild birds",3
+2023-03-29,"Austria",47.5162,14.5501,"H5","Wild birds",1
+2023-03-29,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
+2023-03-29,"Germany",51.165691,10.451526,"H5N1","Wild birds",1
+2023-03-29,"Hungary",NA,NA,"H5N1","Farm",2
+2023-03-29,"Italy",41.87194,12.56738,"H5N1","Wild birds",12
+2023-03-29,"Poland",51.9194,19.1451,"H5N1","Wild birds",1
+2023-03-30,"Hungary",NA,NA,"H5N1","Farm",1
+2023-03-30,"Austria",47.5162,14.5501,"H5N1","Wild birds",1
