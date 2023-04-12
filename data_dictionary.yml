@@ -92,7 +92,7 @@ fields:
     description: Date individual entered isolation
 
   - name: Outcome
-    type: recovered | death | asymptomatic | serious
+    type: recovered | death | asymptomatic | serious | survived
     description: Optional field that specifies outcome of the disease
 
   - name: Contact_comment
