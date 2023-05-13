@@ -202,3 +202,45 @@
 2022-12-03,2023-03-01,"Americas","Uruguay",32.5228,55.7658,"A(H5N1)","Wild birds",0,0
 2022-12-03,2023-03-01,"Americas","Uruguay",32.5228,55.7658,"A(H5Nx)","Wild birds",1,1
 2022-12-03,2023-03-01,"Americas","Uruguay",32.5228,55.7658,"A(Not typed)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(H5N1)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(H5Nx)","Domestic birds",36,36
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(Not typed)","Domestic birds",5,7
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(H5N1)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Argentina",38.4161,63.6167,"A(H5Nx)","Wild birds",2,2
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(H5N1)","Domestic birds",5,20
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(H5N1)","Wild birds",0,1
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Bolivia",16.2902,63.5887,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(H5N1)","Domestic birds",9,221
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(H5N1)","Wild birds",0,16
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Canada",56.1304,106.3468,"A(H5Nx)","Wild birds",0,1
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(H5N1)","Domestic birds",7,8
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(Not typed)","Domestic birds",4,4
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(H5N1)","Wild birds",0,53
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Chile",35.6751,71.543,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(H5N1)","Domestic birds",0,27
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(H5N1)","Wild birds",1,2
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Colombia",4.5709,74.2973,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(H5N1)","Domestic birds",0,2
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(H5N1)","Wild birds",1,6
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","Panama",8.538,80.7821,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(H5N1)","Domestic birds",37,691
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(H5N1)","Wild birds",2,105
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Americas","United States of America",37.0902,95.7129,"A(H5Nx)","Wild birds",0,0
