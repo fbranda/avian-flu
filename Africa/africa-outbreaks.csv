@@ -1,180 +1,186 @@
-"Start date collected","End date collected","Region","Country","Lat","Long","HPAI strain","WOAH Classification","New outbreaks","Cumulative outbreaks"
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",28,28
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5N5)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",18,18
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5N5)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",7,7
-2021-09-16,2021-12-08,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5Nx)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5N1)","Domestic birds",1,1
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5N5)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5N8)","Domestic birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5Nx)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5N1)","Wild birds",0,0
-2021-09-16,2021-12-08,"Africa","Togo",8.6195,0.8248,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N1)","Domestic birds",1,1
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N1)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Burkina Faso",12.2383,1.5616,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N1)","Domestic birds",1,1
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N1)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Cameroon",7.3697,12.3547,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N1)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N1)","Wild birds",7,7
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Namibia",22.9576,18.4904,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N1)","Domestic birds",3,3
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N1)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Niger",17.6078,8.0817,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",123,151
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N1)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N1)","Wild birds",1,1
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Senegal",14.4974,14.4524,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",10,28
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",3,10
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N1)","Domestic birds",1,2
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N2)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N5)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N8)","Domestic birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N1)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5N8)","Wild birds",0,0
-2021-12-09,2022-03-15,"Africa","Togo",8.6195,0.8248,"A(H5Nx)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5N1)","Domestic birds",1,1
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5N2)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5N8)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5N1)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5N8)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Gabon",0.8037,11.6094,"A(H5Nx)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5N1)","Domestic birds",6,6
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5N2)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5N8)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5N1)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5N8)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Guinea",9.9456,9.6966,"A(H5Nx)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",5,156
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",1,29
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Domestic birds",0,0
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",1,11
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5N8)","Wild birds",0,0
-2022-03-16,2022-06-10,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Wild birds",0,0
-2022-06-11,2022-09-09,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",14,170
-2022-06-11,2022-09-09,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Domestic birds",0,0
-2022-06-11,2022-09-09,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",2,2
-2022-06-11,2022-09-09,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2022-06-11,2022-09-09,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",1,30
-2022-06-11,2022-09-09,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Domestic birds",0,0
-2022-06-11,2022-09-09,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",2,13
-2022-06-11,2022-09-09,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(H5N1)","Domestic birds",1,1
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(H5N2)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(H5N4)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(Not typed)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(H5N1)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(H5N2)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Algeria",28.0339,1.6596,"A(Not typed)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",7,177
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(H5N4)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(Not typed)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,2
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Nigeria",9.082,8.6753,"A(Not typed)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(H5N1)","Domestic birds",2,2
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(H5N2)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(H5N4)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(Not typed)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(H5N1)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(H5N2)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","Reunion",21.1151,55.5364,"A(Not typed)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",3,33
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Domestic birds",1,1
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(H5N4)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(Not typed)","Domestic birds",0,0
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",0,13
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Wild birds",0,0
-2022-09-10,2022-12-02,"Africa","South Africa",30.5595,22.9375,"A(Not typed)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5N1)","Domestic birds",2,5
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5N2)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5N5)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5Nx)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(Not typed)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5N1)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(H5Nx)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","Niger",17.6078,8.0817,"A(Not typed)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",3,180
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5N2)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5N5)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(Not typed)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,2
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","Nigeria",9.082,8.6753,"A(Not typed)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Domestic birds",1,34
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5N2)","Domestic birds",0,1
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5N5)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(Not typed)","Domestic birds",0,0
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5N1)","Wild birds",0,13
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(H5Nx)","Wild birds",0,0
-2022-12-03,2023-03-01,"Africa","South Africa",30.5595,22.9375,"A(Not typed)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(H5N1)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(H5Nx)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(Not typed)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(H5N1)","Wild birds",1,1
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(H5N8)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Gambia",13.598878,-14.947733,"A(H5Nx)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Domestic birds",1,181
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(Not typed)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(H5N1)","Wild birds",0,2
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(H5N8)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Nigeria",9.082,8.6753,"A(H5Nx)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(H5N1)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(H5Nx)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(Not typed)","Domestic birds",0,0
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(H5N1)","Wild birds",0,1
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(H5N8)","Wild birds",0,0
-2023-03-02,2023-04-28,"Africa","Senegal",14.4974,14.4524,"A(H5Nx)","Wild birds",0,0
+"Start date collected","End date collected","Region","ISO code","Country code","Country","Lat","Long","HPAI strain","WOAH Classification","New outbreaks","Cumulative outbreaks"
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",28,28
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N5)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",18,18
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N5)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",7,7
+2021-09-16,2021-12-08,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5Nx)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N1)","Domestic birds",1,1
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N5)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N8)","Domestic birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5Nx)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N1)","Wild birds",0,0
+2021-09-16,2021-12-08,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N1)","Domestic birds",1,1
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","BFA",854,"Burkina Faso",12.2346243,-4.1970192,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N1)","Domestic birds",1,1
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","CMR",120,"Cameroon",7.3384398,6.9927678,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N1)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N1)","Wild birds",7,7
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NAM",516,"Namibia",-22.8791098,13.0690642,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N1)","Domestic birds",3,3
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",123,151
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N1)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N1)","Wild birds",1,1
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",10,28
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",3,10
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N1)","Domestic birds",1,2
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N2)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N5)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N8)","Domestic birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N1)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5N8)","Wild birds",0,0
+2021-12-09,2022-03-15,"Africa","TGO",768,"Togo",8.6013882,-1.8102687,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5N1)","Domestic birds",1,1
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5N1)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GAB",266,"Gabon",-0.9227632,8.8311402,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5N1)","Domestic birds",6,6
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5N1)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","GIN",324,"Guinea",9.9225319,-14.1025879,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",5,156
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",1,29
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Domestic birds",0,0
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",1,11
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N8)","Wild birds",0,0
+2022-03-16,2022-06-10,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2022-06-11,2022-09-09,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",14,170
+2022-06-11,2022-09-09,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",2,2
+2022-06-11,2022-09-09,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2022-06-11,2022-09-09,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",1,30
+2022-06-11,2022-09-09,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Domestic birds",0,0
+2022-06-11,2022-09-09,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",2,13
+2022-06-11,2022-09-09,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(H5N1)","Domestic birds",1,1
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(H5N1)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","DZA",12,"Algeria",27.6839171,-8.9756534,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",7,177
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,2
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(H5N1)","Domestic birds",2,2
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(H5N2)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(H5N1)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","REU",638,"Reunion",-21.1350235,55.1976396,"A(Not typed)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",3,33
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Domestic birds",1,1
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N4)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Domestic birds",0,0
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",0,13
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Wild birds",0,0
+2022-09-10,2022-12-02,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N1)","Domestic birds",2,5
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5N1)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","NER",562,"Niger",17.5262947,2.7816518,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",3,180
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N2)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,2
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(Not typed)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",1,34
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N2)","Domestic birds",0,1
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N5)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Domestic birds",0,0
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",0,13
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2022-12-03,2023-03-01,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(H5N1)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(H5N1)","Wild birds",1,1
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","GMB",270,"Gambia",13.4140486,-16.6886039,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Domestic birds",1,181
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N1)","Wild birds",0,2
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","NGA",566,"Nigeria",8.9958691,3.3764943,"A(H5Nx)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N1)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5Nx)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(Not typed)","Domestic birds",0,0
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N1)","Wild birds",0,1
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5N8)","Wild birds",0,0
+2023-03-02,2023-04-28,"Africa","SEN",686,"Senegal",14.4641788,-17.1593663,"A(H5Nx)","Wild birds",0,0
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Domestic birds",0,34
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Domestic birds",0,0
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Domestic birds",1,1
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5N1)","Wild birds",0,13
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(H5Nx)","Wild birds",0,0
+2023-04-29,2023-06-23,"Africa","ZAF",710,"South Africa",-32.7383957,5.8430347,"A(Not typed)","Wild birds",5,5
