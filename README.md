@@ -150,4 +150,4 @@ df <- read.csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/europe-
 
 This repository and data exports are published under the CC BY 4.0 license.
 
-Please cite as: "Francesco Branda Avian Flu (accessed on YYYY-MM-DD)"
+Please cite as: Francesco Branda. (2023). Open Avian Flu Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8246456
