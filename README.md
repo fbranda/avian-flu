@@ -7,6 +7,56 @@ This repository contains the most updated information on HPAI outbreaks in domes
 4) Argentina, according to official reporting sources ([SENASA - DIRECCIÓN NACIONAL DE SANIDAD ANIMAL](https://www.argentina.gob.ar/senasa/influenza-aviar))
 5) England, according to official reporting sources ([GOV.UK](https://www.gov.uk/government/publications/avian-influenza-influenza-a-h5n1-technical-briefings/investigation-into-the-risk-to-human-health-of-avian-influenza-influenza-a-h5n1-in-england-technical-briefing-2#part-2-epidemiology-update))
 
+## Repository structure
+```
+avian-flu/
+│
+├── */
+│   ├── Africa/
+│   │   ├── africa-outbreaks.csv
+│   ├── Americas/
+│   │   ├── Argentina/
+│   │   │   ├── argentina-aves-de-corral-cases.csv
+│   │   │   ├── argentina-aves-no-corral-cases.csv
+│   │   ├── USA/
+│   │   │   ├── commercial-backyard-flocks.csv
+│   │   │   ├── hpai-mammals.csv
+│   │   │   ├── hpai-wild-birds.csv
+│   │   ├── americas-outbreaks.csv
+│   ├── Asia/
+│   │   ├── asia-outbreaks.csv
+│   ├── Europe/
+│   │   ├── Italy/
+│   │   │   ├── HPAI/
+│   │   │   │   ├── 2021-2022/
+│   │   │   │   │   ├── hpai-domestic-poultry-2021-2022.csv
+│   │   │   │   │   ├── hpai-wild-birds-2021-2022.csv
+│   │   │   │   ├── 2022-2023/
+│   │   │   │   │   ├── hpai-domestic-poultry-2022-2023.csv
+│   │   │   │   │   ├── hpai-wild-birds-2022-2023.csv
+│   │   ├── United Kingdom/
+│   │   │   ├── human-potential-exposures.csv
+│   │   │   ├── poultry-wildbirds-england.csv
+│   │   │   ├── wild-mammals-england.csv
+│   │   │   ├── wild-mammals-international.csv
+│   ├── Line-lists/
+│   │   ├── H3N8/
+│   │   │   ├── 2023-03-27-avian-flu-linelist.csv
+│   │   ├── H5/
+│   │   │   ├── H5N1/
+│   │   │   │   ├── 2022-01-14-avian-flu-linelist.csv
+│   │   │   │   ├── 2022-05-06-avian-flu-linelist.csv
+│   │   │   │   ├── ...
+│   │   │   ├── 2022-10-21-avian-flu-linelist.csv
+│   │   │   ├── 2023-01-09-avian-flu-linelist.csv
+│   │   │   ├── ...
+│   ├── PDFs/
+│   ├── images/
+│   ├── human-cases.csv
+│   ├── summary-outbreaks-mammals.csv
+
+```
+
 
 ## Information on data files
 1) The **Argentina** folder was added on March 12
