@@ -150,6 +150,10 @@ df <- read.csv("https://raw.githubusercontent.com/fbranda/avian-flu/main/europe-
 1) [Branda F, Mazzoli S. The importance of rapid and robust availability of epidemiological data for real-time mapping of the risk of avian influenza a (H5N1) spread. Pathogens and Global Health. 2023 Jun 22:1-4.](https://www.researchgate.net/publication/371731131_The_importance_of_rapid_and_robust_availability_of_epidemiological_data_for_real-time_mapping_of_the_risk_of_avian_influenza_a_H5N1_spread)
 
 
+2) [Branda, F.; Mazzoli, S.; Pierini, M.; Ciccozzi, M. Trends and Spatiotemporal Patterns of Avian Influenza Outbreaks in Italy: A Data-Driven Approach. Infect. Dis. Rep. 2024, 16, 1-12.](https://www.mdpi.com/2036-7449/16/1/1)
+
+
+
 ## License and attribution
 
 This repository and data exports are published under the CC BY 4.0 license.
